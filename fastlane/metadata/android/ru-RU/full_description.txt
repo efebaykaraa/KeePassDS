@@ -1,4 +1,4 @@
-KeePassDX — это приложение с открытым кодом <b>для хранения и управления паролями, ключами доступа</b>. Позволяет редактировать <b>зашифрованные данные в одном файле</b> в открытом формате KeePass, <b>безопасно заполнять формы</b>, <b>не требует подключения к Интернету</b> и соответствует стандартам дизайна Android. Приложение с <b>открытым исходным кодом, без рекламы</b>.
+KeePassDS — это приложение с открытым кодом <b>для хранения и управления паролями, ключами доступа</b>. Позволяет редактировать <b>зашифрованные данные в одном файле</b> в открытом формате KeePass, <b>безопасно заполнять формы</b>, <b>не требует подключения к Интернету</b> и соответствует стандартам дизайна Android. Приложение с <b>открытым исходным кодом, без рекламы</b>.
 
 <b>Возможности</b>
 
@@ -20,6 +20,6 @@ KeePassDX — это приложение с открытым кодом <b>дл
 
 Вы можете пожертвовать или купить профессиональную версию для улучшения обслуживания и быстрой разработки нужных вам возможностей: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Проект постоянно развивается. Не стесняйтесь проверять статус разработки следующих обновлений: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Проект постоянно развивается. Не стесняйтесь проверять статус разработки следующих обновлений: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Сообщить о проблеме:<a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Сообщить о проблеме:<a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

@@ -28,7 +28,7 @@
     <string name="lock">ਲਾਕ</string>
     <string name="clipboard">ਕਲਿੱਪਬੋਰਡ</string>
     <string name="database_opened">ਡਾਟਾਬੇਸ ਖੁੱਲ੍ਹਾ ਹੈ</string>
-    <string name="autofill_sign_in_prompt">KeePassDX ਨਾਲ ਸਾਇਨ ਇਨ ਕਰੋ</string>
+    <string name="autofill_sign_in_prompt">KeePassDS ਨਾਲ ਸਾਇਨ ਇਨ ਕਰੋ</string>
     <string name="autofill">ਆਪੇ-ਭਰਨ</string>
     <string name="general">ਸਧਾਰਨ</string>
     <string name="biometric">ਬਾਇਓਮੈਟਰਿਕ</string>
@@ -61,7 +61,7 @@
     <string name="remember_database_locations_summary">ਧਿਆਨ ਰੱਖੋ ਕਿ ਡਾਟਾਬੇਸ ਕਿੱਥੇ ਸੰਭਾਲੇ ਗਏ ਹਨ</string>
     <string name="selection_mode">ਚੋਣ ਦਾ ਢੰਗ</string>
     <string name="contains_duplicate_uuid">ਡਾਟਾਬੇਸ ਵਿੱਚ ਡੁਪਲੀਕੇਟ UUID ਹਨ।</string>
-    <string name="read_only_warning">ਤੁਹਾਡੇ ਫ਼ਾਇਲ ਮੈਨੇਜਰ ਦੇ ਮੁਤਾਬਕ KeePassDX ਨੂੰ ਤੁਹਾਡੇ ਸਟੋਰੇਜ਼ ਵਿੱਚ ਲਿਖਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੋ ਸਕਦੀ ਹੈ।</string>
+    <string name="read_only_warning">ਤੁਹਾਡੇ ਫ਼ਾਇਲ ਮੈਨੇਜਰ ਦੇ ਮੁਤਾਬਕ KeePassDS ਨੂੰ ਤੁਹਾਡੇ ਸਟੋਰੇਜ਼ ਵਿੱਚ ਲਿਖਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੋ ਸਕਦੀ ਹੈ।</string>
     <string name="read_only">ਲਿਖਣ-ਤੋਂ-ਬਚਾਅ</string>
     <string name="protection">ਸੁਰੱਖਿਆ</string>
     <string name="progress_title">…ਕੰਮ ਜਾਰੀ ਹੈ</string>
@@ -148,7 +148,7 @@
     <string name="error_invalid_path">ਪਾਥ ਦੇ ਠੀਕ ਹੋਣ ਨੂੰ ਯਕੀਨੀ ਬਣਾਓ।</string>
     <string name="error_invalid_db">ਡਾਟਾਬੇਸ ਪੜ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।</string>
     <string name="error_file_not_create">ਫ਼ਾਇਲ ਬਣਾਈ ਨਹੀਂ ਜਾ ਸਕੀ।</string>
-    <string name="error_can_not_handle_uri">ਇਹ URI KeePassDX ਵਿੱਚ ਹੈਂਡਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।</string>
+    <string name="error_can_not_handle_uri">ਇਹ URI KeePassDS ਵਿੱਚ ਹੈਂਡਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।</string>
     <string name="error_arc4">Arcfour ਸਟਰੀਮ ਸੀਫ਼ਰ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।</string>
     <string name="entry_user_name">ਵਰਤੋਂਕਾਰ-ਨਾਂ</string>
     <string name="entry_url">URL</string>
@@ -176,7 +176,7 @@
     <string name="entry_cancel">ਰੱਦ ਕਰੋ</string>
     <string name="entry_accessed">ਅਸੈਸ ਕੀਤਾ</string>
     <string name="html_about_contribution">&lt;strong&gt;ਸਾਡੀ ਆਜ਼ਾਦੀ ਬਣਾਈ ਰੱਖਣ&lt;/strong&gt;, &lt;strong&gt;ਬੱਗ ਠੀਕ ਕਰਨ&lt;/strong&gt;, &lt;strong&gt;ਹੋਰ ਫ਼ੀਚਰ ਜੋੜਨ&lt;/strong&gt; ਅਤੇ &lt;strong&gt;ਹਮੇਸ਼ਾਂ ਸਰਗਰਮ ਰਹਿਣ&lt;/strong&gt; ਵਾਸਤੇ ਅਸੀਂ ਤੁਹਾਡੇ &lt;strong&gt;ਯੋਗਦਾਨ&lt;/strong&gt; ਉੱਤੇ ਨਿਰਭਰ ਕਰਦੇ ਹਾਂ।</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft &lt;strong&gt;ਆਜ਼ਾਦ ਸਰੋਤ&lt;/strong&gt; ਅਤੇ &lt;strong&gt;ਬਿਨਾਂ ਇਸ਼ਤਿਹਾਰਾਂ&lt;/strong&gt; ਤੋਂ ਹੈ।
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft &lt;strong&gt;ਆਜ਼ਾਦ ਸਰੋਤ&lt;/strong&gt; ਅਤੇ &lt;strong&gt;ਬਿਨਾਂ ਇਸ਼ਤਿਹਾਰਾਂ&lt;/strong&gt; ਤੋਂ ਹੈ।
 \nਇਸ ਨੂੰ &lt;strong&gt;GPLv3&lt;/strong&gt; ਲਸੰਸ ਦੇ ਅਧੀਨ ਬਿਨਾਂ ਕਿਸੇ ਵਾਰੰਟੀ ਦੇ ਦਿੱਤਾ ਜਾ ਰਿਹਾ ਹੈ।</string>
     <string name="digits">ਅੰਕ</string>
     <string name="default_checkbox">ਮੂਲ ਡਾਟਾਬੇਸ ਵਜੋਂ ਵਰਤੋਂ</string>

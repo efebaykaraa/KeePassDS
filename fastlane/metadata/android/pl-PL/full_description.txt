@@ -1,4 +1,4 @@
-KeePassDX to <b>sejf i menedżer haseł, kluczy dostępu</b>, który umożliwia edycję <b>zaszyfrowanych danych w jednym pliku</b> w otwartym formacie KeePass oraz <b>bezpieczne wypełnianie formularzy</b>. <b>Nie wymaga połączenia z internetem</b>, integruje standardy projektowania systemu Android. Aplikacja jest <b>otwartoźródłowa, bez reklam</b>.
+KeePassDS to <b>sejf i menedżer haseł, kluczy dostępu</b>, który umożliwia edycję <b>zaszyfrowanych danych w jednym pliku</b> w otwartym formacie KeePass oraz <b>bezpieczne wypełnianie formularzy</b>. <b>Nie wymaga połączenia z internetem</b>, integruje standardy projektowania systemu Android. Aplikacja jest <b>otwartoźródłowa, bez reklam</b>.
 
 <b>Funkcje</b>
 
@@ -20,6 +20,6 @@ KeePassDX to <b>sejf i menedżer haseł, kluczy dostępu</b>, który umożliwia
 
 Możesz przekazać darowiznę lub kupić wersję profesjonalną, aby uzyskać lepszą obsługę i szybszy rozwój potrzebnych funkcji: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Projekt stale się rozwija. Nie wahaj się sprawdzić stanu rozwoju kolejnych aktualizacji: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Projekt stale się rozwija. Nie wahaj się sprawdzić stanu rozwoju kolejnych aktualizacji: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Zgłoszenia problemów prosimy wysyłać pod adresem: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Zgłoszenia problemów prosimy wysyłać pod adresem: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

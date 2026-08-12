@@ -42,7 +42,7 @@
     <string name="decrypting_db">Αποκρυπτογράφηση περιεχομένου βάσης δεδομένων …</string>
     <string name="default_checkbox">Χρήση ως προεπιλεγμένης βάσης δεδομένων</string>
     <string name="digits">Ψηφία</string>
-    <string name="html_about_licence">Το KeePassDX © %1$d Kunzisoft είναι &lt;strong&gt;ανοιχτού κώδικα&lt;/strong&gt; και &lt;strong&gt;χωρίς διαφημίσεις&lt;/strong&gt;.
+    <string name="html_about_licence">Το KeePassDS © %1$d Kunzisoft είναι &lt;strong&gt;ανοιχτού κώδικα&lt;/strong&gt; και &lt;strong&gt;χωρίς διαφημίσεις&lt;/strong&gt;.
 \nΠαρέχεται ως έχει, με άδεια &lt;strong&gt;GPLv3&lt;/strong&gt;, χωρίς καμία εγγύηση.</string>
     <string name="select_database_file">Ανοίξτε την υπάρχον κρύπτη</string>
     <string name="entry_accessed">Πρόσβαση</string>
@@ -60,7 +60,7 @@
     <string name="entry_url">Διεύθυνση URL</string>
     <string name="entry_user_name">Όνομα χρήστη</string>
     <string name="error_arc4">Η ροή κρυπτογράφησης Arcfour δεν υποστηρίζεται.</string>
-    <string name="error_can_not_handle_uri">Το KeePassDX δε μπορεί να χειριστεί αυτή τη διεύθυνση URI.</string>
+    <string name="error_can_not_handle_uri">Το KeePassDS δε μπορεί να χειριστεί αυτή τη διεύθυνση URI.</string>
     <string name="error_file_not_create">Δεν ήταν δυνατή η δημιουργία αρχείου.</string>
     <string name="error_invalid_db">Δεν ήταν δυνατή η ανάγνωση της βάσης δεδομένων.</string>
     <string name="error_invalid_path">Βεβαιωθείτε ότι η διαδρομή είναι σωστή.</string>
@@ -111,7 +111,7 @@
     <string name="progress_create">Δημιουργία νέας βάσης δεδομένων…</string>
     <string name="progress_title">Επεξεργασία…</string>
     <string name="protection">Προστασία</string>
-    <string name="read_only_warning">Το KeePassDX χρειάζεται άδεια εγγραφής για να αλλάξει οτιδήποτε στη βάση δεδομένων σας.</string>
+    <string name="read_only_warning">Το KeePassDS χρειάζεται άδεια εγγραφής για να αλλάξει οτιδήποτε στη βάση δεδομένων σας.</string>
     <string name="content_description_remove_from_list">Αφαίρεση</string>
     <string name="root">Ριζικός Κατάλογος</string>
     <string name="rounds">Κύκλοι μετασχηματισμού Κρυπτογράφησης</string>
@@ -164,7 +164,7 @@
     <string name="encrypted_value_stored">Ο Κρυπτογραφημένος κωδικός έχει αποθηκευτεί</string>
     <string name="general">Γενικά</string>
     <string name="autofill">Αυτόματη συμπλήρωση</string>
-    <string name="autofill_sign_in_prompt">Συνδεθείτε με το KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Συνδεθείτε με το KeePassDS</string>
     <string name="set_credential_provider_service_title">Ορίστε την προεπιλεγμένη υπηρεσία αυτόματης συμπλήρωσης</string>
     <string name="password_size_title">Παραγόμενο μέγεθος κωδικού πρόσβασης</string>
     <string name="password_size_summary">Ορίστε το προεπιλεγμένο μέγεθος των παραγόμενων κωδικών πρόσβασης</string>
@@ -266,7 +266,7 @@
     <string name="clipboard">Πρόχειρο</string>
     <string name="build_label">Κατασκευή %1$s</string>
     <string name="keyboard_name">Magikeybοard</string>
-    <string name="keyboard_label">Magikeybοard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeybοard (KeePassDS)</string>
     <string name="keyboard_setting_label">Ρυθμίσεις Magikeyboard</string>
     <string name="keyboard_entry_category">Καταχώριση</string>
     <string name="keyboard_entry_timeout_title">Τέλος χρόνου</string>
@@ -288,7 +288,7 @@
     <string name="lock_database_back_root_summary">Κλείδωμα της βάσης δεδομένων όταν ο χρήστης κάνει κλικ στο κουμπί \"πίσω\" στην οθόνη προέλευσης</string>
     <string name="recycle_bin">Κάδος ανακύκλωσης</string>
     <string name="keyboard_selection_entry_title">Επιλογή καταχώρισης</string>
-    <string name="keyboard_selection_entry_summary">Κατά την προβολή μιας καταχώρησης στο KeePassDX, συμπληρώστε το Magikeyboard με αυτήν την καταχώρηση</string>
+    <string name="keyboard_selection_entry_summary">Κατά την προβολή μιας καταχώρησης στο KeePassDS, συμπληρώστε το Magikeyboard με αυτήν την καταχώρηση</string>
     <string name="delete_entered_password_title">Διαγραφή κωδικού πρόσβασης</string>
     <string name="delete_entered_password_summary">Διαγράφει τον κωδικό πρόσβασης που εισήχθη μετά από μια προσπάθεια σύνδεσης σε μια βάση δεδομένων</string>
     <string name="content_description_open_file">Άνοιγμα αρχείου</string>
@@ -531,7 +531,7 @@
     <string name="success_export_app_properties">Έγινε εξαγωγή ρυθμίσεων εφαρμογής</string>
     <string name="error_import_app_properties">Σφάλμα κατά την εισαγωγή ρυθμίσεων εφαρμογής.</string>
     <string name="success_import_app_properties">Έγινε εισαγωγή ρυθμίσεων εφαρμογής</string>
-    <string name="description_app_properties">Ιδιότητες KeePassDX για διαχείριση ρυθμίσεων εφαρμογής</string>
+    <string name="description_app_properties">Ιδιότητες KeePassDS για διαχείριση ρυθμίσεων εφαρμογής</string>
     <string name="export_app_properties_summary">Δημιουργήστε ένα αρχείο για εξαγωγή ρυθμίσεων εφαρμογής</string>
     <string name="export_app_properties_title">Εξαγωγή ρυθμίσεων εφαρμογής</string>
     <string name="import_app_properties_summary">Επιλέξτε ένα αρχείο για εισαγωγή ρυθμίσεων εφαρμογής</string>

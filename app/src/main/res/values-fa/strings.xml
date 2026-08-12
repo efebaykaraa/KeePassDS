@@ -53,7 +53,7 @@
     <string name="selection_mode">حالت انتخاب</string>
     <string name="contains_duplicate_uuid_procedure">با ایجاد UUID جدید برای ادامه نسخه ها ، مشکل حل می شود؟</string>
     <string name="contains_duplicate_uuid">پایگاه داده شامل UUIDs تکراری است.</string>
-    <string name="read_only_warning">بسته به مدیر فایل شما، KeePassDX ممکن است اجازه نوشتن در ذخیره سازی شما را ندارد.</string>
+    <string name="read_only_warning">بسته به مدیر فایل شما، KeePassDS ممکن است اجازه نوشتن در ذخیره سازی شما را ندارد.</string>
     <string name="read_only">محافظت از نوشتن</string>
     <string name="protection">حفاظت</string>
     <string name="progress_title">کار کردن…</string>
@@ -151,7 +151,7 @@
     <string name="error_invalid_path">مطمئن شوید که مسیر درست است.</string>
     <string name="error_invalid_db">نمی توانست پایگاه داده را بخواند.</string>
     <string name="error_file_not_create">نمی تواند پرونده ایجاد کند.</string>
-    <string name="error_can_not_handle_uri">نمی تواند این URI در KeePassDX رسیدگی کند.</string>
+    <string name="error_can_not_handle_uri">نمی تواند این URI در KeePassDS رسیدگی کند.</string>
     <string name="error_arc4">رمز جریان Arcfour پشتیبانی نمی شود.</string>
     <string name="entry_user_name">نام کاربری</string>
     <string name="entry_url">آدرس</string>
@@ -179,7 +179,7 @@
     <string name="entry_cancel">لغو</string>
     <string name="entry_accessed">دیده</string>
     <string name="html_about_contribution">به منظور &lt;strong&gt;نگاه آزادی ما&lt;/strong&gt; ، &lt;strong&gt;نقش های فیکسی&lt;/strong&gt; ، &lt;strong&gt;خدمات مضاعف&lt;/strong&gt; و &lt;strong&gt; همیشه فعال باشد&lt;/strong&gt; ، ما در &lt;strong&gt;مسابق&lt;/strong&gt; حساب می &lt;/strong&gt;.</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft است &lt;strong&gt;منا منبع باز&lt;/strong&gt; و &lt;strong&gt;با تبلیغات&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft است &lt;strong&gt;منا منبع باز&lt;/strong&gt; و &lt;strong&gt;با تبلیغات&lt;/strong&gt;.
 \nاین است که ارائه شده است، تحت &lt;strong&gt;GPLv3&lt;/strong&gt;، بدون هیچ گونه گارانتی.</string>
     <string name="digits">رقم</string>
     <string name="default_checkbox">استفاده به عنوان پایگاه داده پیش فرض</string>
@@ -263,7 +263,7 @@
     <string name="success_export_app_properties">ویژگی های برنامه صادر شد</string>
     <string name="error_import_app_properties">خطا در هنگام وارد کردن ویژگی های برنامه.</string>
     <string name="success_import_app_properties">ویژگی های برنامه وارد شد</string>
-    <string name="description_app_properties">ویژگی های KeePassDX برای مدیریت تنظیمات برنامه</string>
+    <string name="description_app_properties">ویژگی های KeePassDS برای مدیریت تنظیمات برنامه</string>
     <string name="export_app_properties_summary">یک فایل برای صادر کردن ویژگی های برنامه ایجاد کنید</string>
     <string name="import_app_properties_summary">یک فایل برای وارد کردن ویژگی های برنامه انتخاب کنید</string>
     <string name="import_app_properties_title">وارد کردن ویژگی های برنامه</string>

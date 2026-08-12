@@ -359,7 +359,7 @@
     <string name="password_size_title">ขนาดรหัสผ่านที่สร้าง</string>
     <string name="list_password_generator_options_title">อักขระรหัสผ่าน</string>
     <string name="temp_device_unlock_enable_title">การปลดล็อกด้วยอุปกรณ์ชั่วคราว</string>
-    <string name="keyboard_label">เมจิคีย์บอร์ด (KeePassDX)</string>
+    <string name="keyboard_label">เมจิคีย์บอร์ด (KeePassDS)</string>
     <string name="keyboard_setting_label">การตั้งค่า เมจิคีย์บอร์ด</string>
     <string name="keyboard_entry_category">รายการ</string>
     <string name="keyboard_selection_entry_title">การเลือกรายการ</string>

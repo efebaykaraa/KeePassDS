@@ -1,4 +1,4 @@
-KeePassDX, açık KeePass biçiminde <b>tek bir dosyada şifreli verileri</b> düzenlemeye ve <b>formları güvenli bir şekilde doldurmaya</b> olanak tanıyan bir <b>şifre kasası ve yöneticisi</b> olup, <b>internet bağlantısı gerektirmez</b> ve Android tasarım standartlarını takip eder. Uygulama <b>açık kaynaklıdır ve reklam içermez</b>.
+KeePassDS, açık KeePass biçiminde <b>tek bir dosyada şifreli verileri</b> düzenlemeye ve <b>formları güvenli bir şekilde doldurmaya</b> olanak tanıyan bir <b>şifre kasası ve yöneticisi</b> olup, <b>internet bağlantısı gerektirmez</b> ve Android tasarım standartlarını takip eder. Uygulama <b>açık kaynaklıdır ve reklam içermez</b>.
 
 <b>Özellikler</b>
 
@@ -20,6 +20,6 @@ KeePassDX, açık KeePass biçiminde <b>tek bir dosyada şifreli verileri</b> d�
 
 Daha iyi hizmet ve istediğiniz özelliklerin hızlı bir şekilde geliştirilmesi için bağış yapabilir veya pro sürümü satın alabilirsiniz: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Proje sürekli gelişmektedir. Bir sonraki güncellemelerin geliştirme durumuna bakmaktan çekinmeyin: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Proje sürekli gelişmektedir. Bir sonraki güncellemelerin geliştirme durumuna bakmaktan çekinmeyin: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Sorunlarınızı şu adrese gönderin: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Sorunlarınızı şu adrese gönderin: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

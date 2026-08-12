@@ -1,4 +1,4 @@
-KeePassDX je <b>trezor i upravljač za lozinke</b> koji omogućuje uređivanje <b>šifriranih podataka u jednoj datoteci</b> u otvorenom KeePass formatu i <b>sigurno automatsko ispunjavanje obrazaca</b>, <b>ne zahtijeva internetsku vezu</b> i pridržava se Android dizajnerskih smjernica. Aplikacija je <b>otvorenog koda i bez oglasa</b>.
+KeePassDS je <b>trezor i upravljač za lozinke</b> koji omogućuje uređivanje <b>šifriranih podataka u jednoj datoteci</b> u otvorenom KeePass formatu i <b>sigurno automatsko ispunjavanje obrazaca</b>, <b>ne zahtijeva internetsku vezu</b> i pridržava se Android dizajnerskih smjernica. Aplikacija je <b>otvorenog koda i bez oglasa</b>.
 
 <b>Funkcije</b>
 
@@ -18,6 +18,6 @@ KeePassDX je <b>trezor i upravljač za lozinke</b> koji omogućuje uređivanje <
 
 Doniraj ili kupi Pro verziju za bolju uslugu i brži razvoj željenih funkcija: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Projekt se neprestano razvija. Slobodno provjeri stanje razvoja sljedećih verzija: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Projekt se neprestano razvija. Slobodno provjeri stanje razvoja sljedećih verzija: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Prijavi probleme na: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Prijavi probleme na: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

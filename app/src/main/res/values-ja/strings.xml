@@ -74,7 +74,7 @@
     <string name="decrypting_db">データベースの内容を復号しています…</string>
     <string name="default_checkbox">デフォルトのデータベースとして使用</string>
     <string name="digits">数字</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft は&lt;strong&gt;オープンソース&lt;/strong&gt;で&lt;strong&gt;広告はありません&lt;/strong&gt;。\n本ソフトウェアは&lt;strong&gt;GPLv3&lt;/strong&gt;ライセンスの下で提供されており、いかなる保証もありません。</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft は&lt;strong&gt;オープンソース&lt;/strong&gt;で&lt;strong&gt;広告はありません&lt;/strong&gt;。\n本ソフトウェアは&lt;strong&gt;GPLv3&lt;/strong&gt;ライセンスの下で提供されており、いかなる保証もありません。</string>
     <string name="html_about_contribution">&lt;strong&gt;自由を維持し&lt;/strong&gt;、&lt;strong&gt;バグを修正し&lt;/strong&gt;、&lt;strong&gt;機能を追加し&lt;/strong&gt;、そして&lt;strong&gt;活発に開発し続ける&lt;/strong&gt;ために、私たちはあなたの&lt;strong&gt;貢献&lt;/strong&gt;に期待しています。</string>
     <string name="entry_accessed">最終アクセス</string>
     <string name="entry_cancel">キャンセル</string>
@@ -102,7 +102,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">ユーザー名</string>
     <string name="error_arc4">Arcfour ストリーム暗号には対応していません。</string>
-    <string name="error_can_not_handle_uri">KeePassDX ではこの URI を処理できませんでした。</string>
+    <string name="error_can_not_handle_uri">KeePassDS ではこの URI を処理できませんでした。</string>
     <string name="error_file_not_create">ファイルを作成できませんでした。</string>
     <string name="error_invalid_db">データベースを読み取れませんでした。</string>
     <string name="error_invalid_path">パスが正しいことを確認してください。</string>
@@ -201,7 +201,7 @@
     <string name="progress_title">実行しています…</string>
     <string name="protection">保護</string>
     <string name="read_only">書き込み禁止</string>
-    <string name="read_only_warning">ファイル マネージャーによっては、KeePassDX によるストレージへの書き込みを許可していない場合があります。</string>
+    <string name="read_only_warning">ファイル マネージャーによっては、KeePassDS によるストレージへの書き込みを許可していない場合があります。</string>
     <string name="contains_duplicate_uuid">データベースには重複する UUID が含まれています。</string>
     <string name="contains_duplicate_uuid_procedure">重複したエントリーに対する新しい UUID を生成して、問題を解決し続行しますか？</string>
     <string name="selection_mode">選択モード</string>
@@ -269,7 +269,7 @@
     <string name="biometric">生体認証</string>
     <string name="general">全般</string>
     <string name="autofill">自動入力</string>
-    <string name="autofill_sign_in_prompt">KeePassDX でログイン</string>
+    <string name="autofill_sign_in_prompt">KeePassDS でログイン</string>
     <string name="autofill_explanation_summary">自動入力を設定し、他のアプリ内のフォームにすばやく入力します</string>
     <string name="set_credential_provider_service_title">デフォルトの自動入力サービスに設定</string>
     <string name="autofill_preference_title">自動入力の設定</string>
@@ -345,11 +345,11 @@
     <string name="magic_keyboard_explanation_summary">パスワードとすべての id フィールドを格納するカスタム キーボードを有効にします</string>
     <string name="device_keyboard_setting_title">デバイス キーボードの設定</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Magikeyboard の設定</string>
     <string name="keyboard_entry_category">エントリー</string>
     <string name="keyboard_selection_entry_title">エントリーの選択</string>
-    <string name="keyboard_selection_entry_summary">KeePassDX のエントリーを開いているとき、Magikeyboard にそのエントリーを格納します</string>
+    <string name="keyboard_selection_entry_summary">KeePassDS のエントリーを開いているとき、Magikeyboard にそのエントリーを格納します</string>
     <string name="keyboard_notification_entry_title">通知情報</string>
     <string name="keyboard_notification_entry_summary">エントリーが利用可能なとき、通知を表示します</string>
     <string name="keyboard_save_search_info_title">共有情報の保存</string>
@@ -525,7 +525,7 @@
     <string name="success_export_app_properties">アプリ設定をエクスポートしました</string>
     <string name="error_import_app_properties">アプリ設定のインポート中にエラーが発生しました。</string>
     <string name="success_import_app_properties">アプリ設定をインポートしました</string>
-    <string name="description_app_properties">アプリの設定を管理する KeePassDX のプロパティ</string>
+    <string name="description_app_properties">アプリの設定を管理する KeePassDS のプロパティ</string>
     <string name="export_app_properties_summary">アプリ設定をエクスポートするためのファイルを作成する</string>
     <string name="export_app_properties_title">アプリ設定をエクスポート</string>
     <string name="error_start_database_action">データベースに対するアクションの実行中にエラーが発生しました。</string>
@@ -713,12 +713,12 @@
     <string name="passkeys_backup_state_summary">認証情報がバックアップされ単一デバイスの紛失から保護されている事を示します</string>
     <string name="credential_provider_service_subtitle">パスキー、自動入力認証情報プロバイダー</string>
     <string name="passkey">パスキー</string>
-    <string name="credential_provider_service_name">KeePassDX 認証情報プロバイダー</string>
+    <string name="credential_provider_service_name">KeePassDS 認証情報プロバイダー</string>
     <string name="passkey_creation_description">新しいエントリにパスキーを保存</string>
     <string name="passkey_update_description">%1$s のパスキーを更新</string>
     <string name="passkey_selection_username">パスキーが見つかりません</string>
     <string name="passkey_selection_description">既存のパスキーを選択</string>
-    <string name="credential_provider_database_username">KeePassDX データベース</string>
+    <string name="credential_provider_database_username">KeePassDS データベース</string>
     <string name="credential_provider_locked_database_description">選択してロックを解除</string>
     <string name="passkey_username">パスキーのユーザー名</string>
     <string name="passkey_private_key">パスキーのプライベートキー</string>
@@ -759,5 +759,5 @@
     <string name="show_tags_summary">エントリの一覧にタグを表示</string>
     <string name="benchmark_calculation">%1$s 秒で算出</string>
     <string name="benchmarking">測定中です…</string>
-    <string name="keyboard_share_browser">%1$sからKeePassDXへ共有</string>
+    <string name="keyboard_share_browser">%1$sからKeePassDSへ共有</string>
 </resources>

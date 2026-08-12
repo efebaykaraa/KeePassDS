@@ -94,7 +94,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Nume de utilizator</string>
     <string name="error_arc4">Cifrarea fluxului Arcfour nu este acceptată.</string>
-    <string name="error_can_not_handle_uri">Nu s-a putut gestiona acest URI în KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Nu s-a putut gestiona acest URI în KeePassDS.</string>
     <string name="error_file_not_create">Nu s-a putut crea fișierul.</string>
     <string name="error_invalid_db">Nu s-a putut citi baza de date.</string>
     <string name="error_invalid_path">Asigurați-vă că calea este corectă.</string>
@@ -177,7 +177,7 @@
     <string name="minus">Mai puțin</string>
     <string name="never">Niciodată</string>
     <string name="no_results">Nu există rezultate de căutare</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft este &lt;strong&gt;open source&lt;/strong&gt; și &lt;strong&gt;fără reclame&lt;/strong&gt;. \nEste furnizat ca atare, sub licență &lt;strong&gt;GPLv3&lt;/strong&gt;, fără nicio garanție.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft este &lt;strong&gt;open source&lt;/strong&gt; și &lt;strong&gt;fără reclame&lt;/strong&gt;. \nEste furnizat ca atare, sub licență &lt;strong&gt;GPLv3&lt;/strong&gt;, fără nicio garanție.</string>
     <string name="html_about_contribution">Pentru a ne &lt;strong&gt;păstra libertatea&lt;/strong&gt;, &lt;strong&gt;pentru a remedia erori&lt;/strong&gt;, &lt;strong&gt;pentru a adăuga funcții&lt;/strong&gt; și &lt;strong&gt;pentru a fi mereu activi&lt;/strong&gt;, ne bazăm pe &lt;strong&gt;contribuția&lt;/strong&gt; dvs.</string>
     <string name="about">Despre</string>
     <string name="no_url_handler">Instalați un browser web pentru a deschide această adresă URL.</string>
@@ -187,7 +187,7 @@
     <string name="progress_title">Se lucrează…</string>
     <string name="protection">Protecție</string>
     <string name="read_only">Protejat la scriere</string>
-    <string name="read_only_warning">În funcție de managerul de fișiere, este posibil ca KeePassDX să nu aibă permisiunea de a scrie în spațiul dvs. de stocare.</string>
+    <string name="read_only_warning">În funcție de managerul de fișiere, este posibil ca KeePassDS să nu aibă permisiunea de a scrie în spațiul dvs. de stocare.</string>
     <string name="contains_duplicate_uuid">Baza de date conține UUID-uri duplicate.</string>
     <string name="contains_duplicate_uuid_procedure">Rezolvați problema prin generarea de noi UUID-uri pentru ca duplicatele să continue?</string>
     <string name="selection_mode">Mod de selectare</string>
@@ -234,7 +234,7 @@
     <string name="biometric">Biometric</string>
     <string name="general">General</string>
     <string name="autofill">Autocompletare</string>
-    <string name="autofill_sign_in_prompt">Conectați-vă cu KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Conectați-vă cu KeePassDS</string>
     <string name="autofill_explanation_summary">Activați completarea automată pentru a completa rapid formulare în alte aplicații</string>
     <string name="set_credential_provider_service_title">Setați serviciul implicit de autocompletare</string>
     <string name="password_size_title">Dimensiunea parolei generate</string>
@@ -303,11 +303,11 @@
     <string name="magic_keyboard_explanation_summary">Activați o tastatură personalizată care să vă completeze parolele și toate câmpurile de identitate</string>
     <string name="device_keyboard_setting_title">Setări ale tastaturii dispozitivului</string>
     <string name="keyboard_name">Tastatură magică</string>
-    <string name="keyboard_label">Tastatură magică (KeePassDX)</string>
+    <string name="keyboard_label">Tastatură magică (KeePassDS)</string>
     <string name="keyboard_setting_label">Setări tastatură magică</string>
     <string name="keyboard_entry_category">Intrare</string>
     <string name="keyboard_selection_entry_title">Selecție de intrare</string>
-    <string name="keyboard_selection_entry_summary">Când vizualizați o intrare în KeePassDX, completați Tastatura magică cu acea intrare</string>
+    <string name="keyboard_selection_entry_summary">Când vizualizați o intrare în KeePassDS, completați Tastatura magică cu acea intrare</string>
     <string name="keyboard_notification_entry_title">Informații de notificare</string>
     <string name="keyboard_notification_entry_summary">Afișare notificare atunci când o intrare este disponibilă</string>
     <string name="keyboard_notification_entry_clear_close_title">Curăță la închidere</string>
@@ -550,7 +550,7 @@
     <string name="later">Mai târziu</string>
     <string name="success_import_app_properties">Setările aplicației au fost importate</string>
     <string name="warning_sure_add_file">Adăugați fișierul oricum?</string>
-    <string name="description_app_properties">Proprietățile KeePassDX pentru a gestiona setările aplicației</string>
+    <string name="description_app_properties">Proprietățile KeePassDS pentru a gestiona setările aplicației</string>
     <string name="warning_keyfile_integrity">Hash-ul fișierului nu este garantat, deoarece Android își poate schimba datele din mers. Schimbați extensia fișierului în .bin pentru o integritate corectă.</string>
     <string name="temp_device_unlock_enable_summary">Nu stocați niciun conținut criptat pentru a utiliza deblocarea dispozitivului</string>
     <string name="device_unlock_tap_delete">Atingeți pentru a șterge cheile de deblocare a dispozitivului</string>

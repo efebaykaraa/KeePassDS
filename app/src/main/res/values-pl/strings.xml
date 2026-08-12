@@ -54,7 +54,7 @@
     <string name="entry_url">Adres URL</string>
     <string name="entry_user_name">Nazwa użytkownika</string>
     <string name="error_arc4">Strumieniowe szyfrowanie Arcfour nie jest wspierane.</string>
-    <string name="error_can_not_handle_uri">Nie można obsłużyć tego identyfikatora URI w KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Nie można obsłużyć tego identyfikatora URI w KeePassDS.</string>
     <string name="error_file_not_create">Nie można utworzyć pliku.</string>
     <string name="error_invalid_db">Nie można odczytać bazy danych.</string>
     <string name="error_invalid_path">Upewnij się, że ścieżka jest prawidłowa.</string>
@@ -127,7 +127,7 @@
     <string name="clipboard_error_title">Błąd schowka</string>
     <string name="clipboard_error">Niektóre urządzenia nie pozwalają aplikacjom korzystać ze schowka.</string>
     <string name="clipboard_error_clear">Nie udało się wyczyścić schowka</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft jest &lt;strong&gt;open source&lt;/strong&gt; i &lt;strong&gt;bez reklam&lt;/strong&gt;. \nJest on dostarczany w stanie, zgodnie z licencją &lt;strong&gt;GPLv3&lt;/strong&gt; bez żadnych gwarancji.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft jest &lt;strong&gt;open source&lt;/strong&gt; i &lt;strong&gt;bez reklam&lt;/strong&gt;. \nJest on dostarczany w stanie, zgodnie z licencją &lt;strong&gt;GPLv3&lt;/strong&gt; bez żadnych gwarancji.</string>
     <string name="entry_not_found">Nie znaleziono danych wejściowych.</string>
     <string name="error_load_database">Nie można załadować bazy danych.</string>
     <string name="error_load_database_KDF_memory">Nie można załadować klucza. Spróbuj zmniejszyć „Użycie pamięci” KDF.</string>
@@ -150,7 +150,7 @@
     <string name="menu_open_file_read_and_write">Modyfikowalny</string>
     <string name="protection">Ochrona</string>
     <string name="read_only">Ochrona przed zapisem</string>
-    <string name="read_only_warning">KeePassDX potrzebuje uprawnień do zapisu, aby mógł modyfikować bazę danych.</string>
+    <string name="read_only_warning">KeePassDS potrzebuje uprawnień do zapisu, aby mógł modyfikować bazę danych.</string>
     <string name="encryption_explanation">Algorytm szyfrowania bazy danych używany dla wszystkich danych</string>
     <string name="kdf_explanation">Aby wygenerować klucz dla algorytmu szyfrowania, klucz główny jest transformowany przy użyciu losowo solonej funkcji wyprowadzania klucza.</string>
     <string name="memory_usage">Użycie pamięci</string>
@@ -177,7 +177,7 @@
     <string name="menu_appearance_settings">Wygląd</string>
     <string name="general">Ogólne</string>
     <string name="autofill">Wypełnij automatycznie</string>
-    <string name="autofill_sign_in_prompt">Zaloguj się za pomocą KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Zaloguj się za pomocą KeePassDS</string>
     <string name="set_credential_provider_service_title">Ustaw domyślną usługę autouzupełniania</string>
     <string name="autofill_explanation_summary">Skonfiguruj funkcję automatycznego wypełniania, aby szybko wypełniać formularze w innych aplikacjach</string>
     <string name="password_size_title">Wygenerowany rozmiar hasła</string>
@@ -272,7 +272,7 @@
     <string name="icon_pack_choose_summary">Pakiet ikon używany w aplikacji</string>
     <string name="build_label">Kompilacja %1$s</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Ustawienia Magikeyboard</string>
     <string name="keyboard_entry_category">Wpis</string>
     <string name="keyboard_entry_timeout_title">Limit czasu</string>
@@ -293,7 +293,7 @@
     <string name="lock_database_back_root_summary">Naciśnij „Wstecz”, aby zablokować bazę danych, jeśli znajdujesz się na ekranie głównym bazy danych</string>
     <string name="recycle_bin">Kosz</string>
     <string name="keyboard_selection_entry_title">Wybór wpisu</string>
-    <string name="keyboard_selection_entry_summary">Podczas przeglądania wpisu w KeePassDX zapełnij Magikeyboard tym wpisem</string>
+    <string name="keyboard_selection_entry_summary">Podczas przeglądania wpisu w KeePassDS zapełnij Magikeyboard tym wpisem</string>
     <string name="delete_entered_password_title">Usuń hasło</string>
     <string name="delete_entered_password_summary">Usuwa hasło wprowadzone po próbie połączenia z bazą danych</string>
     <string name="content_description_open_file">Otwórz plik</string>
@@ -525,7 +525,7 @@
     <string name="success_export_app_properties">Eksportowano ustawienia aplikacji</string>
     <string name="error_import_app_properties">Błąd podczas importowania ustawień aplikacji.</string>
     <string name="success_import_app_properties">Importowano ustawienia aplikacji</string>
-    <string name="description_app_properties">Właściwości KeePassDX do zarządzania ustawieniami aplikacji</string>
+    <string name="description_app_properties">Właściwości KeePassDS do zarządzania ustawieniami aplikacji</string>
     <string name="export_app_properties_summary">Utwórz plik, aby eksportować ustawienia aplikacji</string>
     <string name="export_app_properties_title">Eksportuj ustawienia aplikacji</string>
     <string name="import_app_properties_summary">Wybierz plik, aby importować ustawienia aplikacji</string>
@@ -712,12 +712,12 @@
     <string name="passkeys_backup_state_summary">Oznaczaj, że poświadczenia są tworzone w kopii zapasowej i chronione przed utratą na pojedynczym urządzeniu</string>
     <string name="credential_provider_service_subtitle">Dostawca poświadczeń automatycznego wypełniania, kluczy dostępu</string>
     <string name="passkey">Klucz dostępu</string>
-    <string name="credential_provider_service_name">Dostawca poświadczeń KeePassDX</string>
+    <string name="credential_provider_service_name">Dostawca poświadczeń KeePassDS</string>
     <string name="passkey_creation_description">Zapisz klucz dostępu w nowym wpisie</string>
     <string name="passkey_update_description">Zaktualizuj klucz dostępu w %1$s</string>
     <string name="passkey_selection_username">Nie znaleziono klucza dostępu</string>
     <string name="passkey_selection_description">Wybierz istniejący klucz dostępu</string>
-    <string name="credential_provider_database_username">Baza danych KeePassDX</string>
+    <string name="credential_provider_database_username">Baza danych KeePassDS</string>
     <string name="credential_provider_locked_database_description">Wybierz, aby odblokować</string>
     <string name="passkey_username">Nazwa użytkownika klucza dostępu</string>
     <string name="passkey_private_key">Klucz prywatny klucza dostępu</string>
@@ -758,5 +758,5 @@
     <string name="show_tags_summary">Wyświetla etykiety na liście wpisów</string>
     <string name="benchmark_calculation">Oblicz dla %1$s s</string>
     <string name="benchmarking">Testowanie wydajności…</string>
-    <string name="keyboard_share_browser">Udostępnij z %1$s do KeePassDX</string>
+    <string name="keyboard_share_browser">Udostępnij z %1$s do KeePassDS</string>
 </resources>

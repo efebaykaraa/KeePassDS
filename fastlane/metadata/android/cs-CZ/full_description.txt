@@ -1,4 +1,4 @@
-KeePassDX je open-source <b>trezor a správce hesel a přístupových klíčů</b>, který umožňuje upravovat <b>šifrovaná data v jednom souboru</b> v otevřeném formátu KeePass a <b>bezpečně vyplňovat formuláře</b>, <b>nevyžaduje připojení k internetu</b> a integruje standardy designu systému Android. Aplikace je <b>open source a bez reklam</b>.
+KeePassDS je open-source <b>trezor a správce hesel a přístupových klíčů</b>, který umožňuje upravovat <b>šifrovaná data v jednom souboru</b> v otevřeném formátu KeePass a <b>bezpečně vyplňovat formuláře</b>, <b>nevyžaduje připojení k internetu</b> a integruje standardy designu systému Android. Aplikace je <b>open source a bez reklam</b>.
 
 <b>Funkce</b>
 
@@ -20,6 +20,6 @@ KeePassDX je open-source <b>trezor a správce hesel a přístupových klíčů</
 
 Můžete přispět nebo si koupit profesionální verzi pro lepší služby a rychlejší vývoj funkcí, které si přejete: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Projekt se neustále vyvíjí. Neváhejte zkontrolovat stav vývoje dalších aktualizací: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Projekt se neustále vyvíjí. Neváhejte zkontrolovat stav vývoje dalších aktualizací: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Problémy hlaste na: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Problémy hlaste na: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

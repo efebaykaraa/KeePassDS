@@ -1,1 +1,1 @@
-KeePassDX Passkey-Tresor
+KeePassDS Passkey-Tresor

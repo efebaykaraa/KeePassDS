@@ -17,7 +17,7 @@
     You should have received a copy of the GNU General Public License
     along with KeePassDX.  If not, see <http://www.gnu.org/licenses/>.
 --><resources>
-    <string name="about_description">KeePassDX slaptažodžių tvarkyklės realizacija Android platformai</string>
+    <string name="about_description">KeePassDS slaptažodžių tvarkyklės realizacija Android platformai</string>
     <string name="clipboard_cleared">Iškarpinė išvalyta</string>
     <string name="invalid_credentials">Nepavyko perskaityti prisijungimo duomenų.</string>
     <string name="feedback">Atsiliepimai</string>
@@ -84,7 +84,7 @@
     <string name="app_timeout">Neveiklumas</string>
     <string name="clipboard_error_clear">Nepavyko išvalyti iškarpinės</string>
     <string name="list_size_summary">Teksto dydis grupės sąraše</string>
-    <string name="error_can_not_handle_uri">KeePassDX negali apdoroti šio URI.</string>
+    <string name="error_can_not_handle_uri">KeePassDS negali apdoroti šio URI.</string>
     <string name="entry_not_found">Įrašo duomenys nerasti.</string>
     <string name="keyfile_is_empty">Rakto failas yra tuščias.</string>
     <string name="entry_keyfile">Rakto failas</string>
@@ -186,7 +186,7 @@
     <string name="menu_form_filling_settings">Formų pildymas</string>
     <string name="menu_device_unlock_settings">Įrenginio atrakinimas</string>
     <string name="menu_security_settings">Saugumo nustatymai</string>
-    <string name="read_only_warning">Priklausomai nuo jūsų failų tvarkyklės, KeePassDX gali būti neleidžiama rašyti į jūsų saugyklą.</string>
+    <string name="read_only_warning">Priklausomai nuo jūsų failų tvarkyklės, KeePassDS gali būti neleidžiama rašyti į jūsų saugyklą.</string>
     <string name="remember_hardware_key_title">Prisiminti aparatinės įrangos raktus</string>
     <string name="remember_hardware_key_summary">Seka naudojamus aparatinės įrangos raktus</string>
     <string name="warning_database_link_revoked">Failų tvarkyklė panaikino prieigą prie failo</string>
@@ -216,7 +216,7 @@
     <string name="error_field_name_already_exists">Įrašo pavadinimas jau egzistuoja.</string>
     <string name="error_database_uri_null">Duomenų bazės URI nepavyko gauti.</string>
     <string name="key_derivation_function">Rakto išvedimo funkcija</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft yra &lt;strong&gt;atviro kodo&lt;/strong&gt; ir &lt;strong&gt;be reklamų&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft yra &lt;strong&gt;atviro kodo&lt;/strong&gt; ir &lt;strong&gt;be reklamų&lt;/strong&gt;.
 \nJis teikiamas toks, koks yra, pagal &lt;strong&gt;GPLv3&lt;/strong&gt; licenciją, be jokių garantijų.</string>
     <string name="private_key">Privatus raktas</string>
     <string name="date_of_issue">Išdavimo data</string>
@@ -340,7 +340,7 @@
     <string name="remember_keyfile_locations_title">Prisiminti raktų failų vietas</string>
     <string name="sort_creation_time">Sukūrimas</string>
     <string name="export_app_properties_summary">Sukurkite failą programėlės nustatymų eksportui</string>
-    <string name="description_app_properties">KeePassDX savybės programėlės nustatymams valdyti</string>
+    <string name="description_app_properties">KeePassDS savybės programėlės nustatymams valdyti</string>
     <string name="error_export_app_properties">Įvyko klaida programėlės nustatymų eksporto metu.</string>
     <string name="memory_usage">Atminties naudojimas</string>
     <string name="recycle_bin_group_title">Šiukšliadėžės grupė</string>
@@ -396,7 +396,7 @@
     <string name="menu_appearance_settings_summary">Temos, spalvos, atributai</string>
     <string name="general">Bendri</string>
     <string name="autofill">Automatinis pildymas</string>
-    <string name="autofill_sign_in_prompt">Prisijungti naudojant \"KeePassDX\"</string>
+    <string name="autofill_sign_in_prompt">Prisijungti naudojant \"KeePassDS\"</string>
     <string name="password_size_summary">Nustato numatytąjį generuojamų slaptažodžių ilgį</string>
     <string name="password_size_title">Generuojamo slaptažodžio ilgis</string>
     <string name="list_password_generator_options_title">Slaptažodžio simboliai</string>
@@ -538,11 +538,11 @@
     <string name="magic_keyboard_explanation_summary">Aktyvuoti tinkintą klaviatūrą, užpildančią jūsų slaptažodžius ir visus tapatybės laukus</string>
     <string name="device_keyboard_setting_title">Įrenginio klaviatūros nustatymai</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Magikeyboard nustatymai</string>
     <string name="keyboard_entry_category">Įrašas</string>
     <string name="keyboard_selection_entry_title">Įrašo pasirinkimas</string>
-    <string name="keyboard_selection_entry_summary">Kai peržiūrite įrašą KeePassDX, užpildyti Magikeyboard tuo įrašu</string>
+    <string name="keyboard_selection_entry_summary">Kai peržiūrite įrašą KeePassDS, užpildyti Magikeyboard tuo įrašu</string>
     <string name="keyboard_notification_entry_title">Pranešimo informacija</string>
     <string name="keyboard_notification_entry_summary">Rodyti pranešimą, kai įrašas yra prieinamas</string>
     <string name="keyboard_save_search_info_title">Išsaugoti bendrinamą informaciją</string>
@@ -692,12 +692,12 @@
     <string name="hide_templates_title">Slėpti šablonus</string>
     <string name="hide_templates_summary">Šablonai nėra rodomi</string>
     <string name="passkey">Prieigos raktas</string>
-    <string name="credential_provider_service_name">KeePassDX kredencialų teikėjas</string>
+    <string name="credential_provider_service_name">KeePassDS kredencialų teikėjas</string>
     <string name="passkey_creation_description">Išsaugoti prieigos raktą naujame įraše</string>
     <string name="passkey_update_description">Atnaujinti prieigos raktą %1$s</string>
     <string name="passkey_selection_username">Prieigos raktas nerastas</string>
     <string name="passkey_selection_description">Pasirinkti esamą prieigos raktą</string>
-    <string name="credential_provider_database_username">KeePassDX duomenų bazė</string>
+    <string name="credential_provider_database_username">KeePassDS duomenų bazė</string>
     <string name="credential_provider_locked_database_description">Pasirinkti atrakinti</string>
     <string name="passkey_username">Prieigos rakto naudotojo vardas</string>
     <string name="passkey_private_key">Prieigos rakto privatus raktas</string>

@@ -43,7 +43,7 @@
     <string name="decrypting_db">Dekrypterar databasinnehåll…</string>
     <string name="default_checkbox">Använd som standarddatabas</string>
     <string name="digits">Siffror</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft är &lt;strong&gt;öppen källkod&lt;/strong&gt; och &lt;strong&gt;utan reklam&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft är &lt;strong&gt;öppen källkod&lt;/strong&gt; och &lt;strong&gt;utan reklam&lt;/strong&gt;.
 \nDen tillhandahålls i befintligt skick, under &lt;strong&gt;GPLv3-licens&lt;/strong&gt;, utan någon garanti.</string>
     <string name="select_database_file">Öppna befintligt valv</string>
     <string name="entry_accessed">Senast åtkommen</string>
@@ -60,7 +60,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Användarnamn</string>
     <string name="error_arc4">Strömchiffret Arcfour stöds inte.</string>
-    <string name="error_can_not_handle_uri">KeePassDX kunde inte hantera denna URI.</string>
+    <string name="error_can_not_handle_uri">KeePassDS kunde inte hantera denna URI.</string>
     <string name="error_file_not_create">Kunde inte skapa filen.</string>
     <string name="error_invalid_db">Kunde inte läsa databasen.</string>
     <string name="error_invalid_path">Se till att sökvägen är korrekt.</string>
@@ -159,7 +159,7 @@
     <string name="copy_field">Kopia av %1$s</string>
     <string name="menu_form_filling_settings">Formulärifyllning</string>
     <string name="read_only">Skrivskyddad</string>
-    <string name="read_only_warning">Beroende på filhanteraren kanske KeePassDX saknar skrivbehörighet till lagringsutrymmet.</string>
+    <string name="read_only_warning">Beroende på filhanteraren kanske KeePassDS saknar skrivbehörighet till lagringsutrymmet.</string>
     <string name="encryption_explanation">Krypteringsalgoritm som används för all data i databasen</string>
     <string name="kdf_explanation">För att generera nyckeln till krypteringsalgoritmen transformeras huvudnyckeln med en slumpmässigt saltad nyckelhärledningsfunktion.</string>
     <string name="memory_usage">Minnesanvändning</string>
@@ -182,7 +182,7 @@
     <string name="encrypted_value_stored">Krypterat lösenord sparat</string>
     <string name="general">Allmänt</string>
     <string name="autofill">Autofyll</string>
-    <string name="autofill_sign_in_prompt">Logga in med KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Logga in med KeePassDS</string>
     <string name="set_credential_provider_service_title">Autentiseringsleverantörstjänst</string>
     <string name="password_size_title">Längd på genererat lösenord</string>
     <string name="password_size_summary">Anger standardlängden för de genererade lösenorden</string>
@@ -276,7 +276,7 @@
     <string name="clipboard">Urklipp</string>
     <string name="build_label">Bygge %1$s</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Inställningar för Magikeyboard</string>
     <string name="keyboard_entry_category">Post</string>
     <string name="keyboard_entry_timeout_title">Tidsgräns</string>
@@ -298,7 +298,7 @@
     <string name="lock_database_back_root_summary">Tryck på \'Tillbaka\' för att låsa databasen om du är på databasens rotskärm.</string>
     <string name="recycle_bin">Papperskorg</string>
     <string name="keyboard_selection_entry_title">Val av post</string>
-    <string name="keyboard_selection_entry_summary">Gör posten tillgänglig i Magikeyboard när den visas i KeePassDX</string>
+    <string name="keyboard_selection_entry_summary">Gör posten tillgänglig i Magikeyboard när den visas i KeePassDS</string>
     <string name="delete_entered_password_title">Ta bort lösenord</string>
     <string name="delete_entered_password_summary">Tar bort det skrivna lösenordet efter ett anslutningsförsök till en databas</string>
     <string name="content_description_node_children">Undernoder</string>
@@ -524,7 +524,7 @@
     <string name="import_app_properties_summary">Välj fil för att importera appinställningar</string>
     <string name="export_app_properties_title">Exportera appinställningar</string>
     <string name="export_app_properties_summary">Skapa en fil för att exportera appinställningar</string>
-    <string name="description_app_properties">KeePassDX-egenskaper för att hantera appinställningar</string>
+    <string name="description_app_properties">KeePassDS-egenskaper för att hantera appinställningar</string>
     <string name="success_import_app_properties">Appinställningar importerade</string>
     <string name="error_import_app_properties">Fel inträffade när appinställningar importerades.</string>
     <string name="success_export_app_properties">Appinställningar exporterades</string>
@@ -648,7 +648,7 @@
     <string name="keyboard_previous_fill_in_summary">Växla automatiskt tillbaka till föregående tangentbord efter att ha utfört \"Automatisk tangentåtgärd\"</string>
     <string name="keyboard_previous_lock_title">Lås databasen</string>
     <string name="keyboard_previous_lock_summary">Växla automatiskt tillbaka till föregående tangentbord efter att databasen har låsts</string>
-    <string name="keyboard_share_browser">Dela från %1$s till KeePassDX</string>
+    <string name="keyboard_share_browser">Dela från %1$s till KeePassDS</string>
     <string name="custom_fields">Anpassade fält</string>
     <string name="back_to_previous_keyboard">Tillbaka till föregående tangentbord</string>
     <string name="select_entry">Välj post</string>
@@ -725,8 +725,8 @@
     <string name="hide_templates_title">Dölj mallar</string>
     <string name="hide_templates_summary">Mallar visas inte</string>
     <string name="passkey">Lösenordsnyckel</string>
-    <string name="credential_provider_service_name">KeePassDX-autentiseringsleverantör</string>
-    <string name="credential_provider_database_username">KeePassDX-databas</string>
+    <string name="credential_provider_service_name">KeePassDS-autentiseringsleverantör</string>
+    <string name="credential_provider_database_username">KeePassDS-databas</string>
     <string name="credential_provider_locked_database_description">Välj för att låsa upp</string>
     <string name="passkey_creation_description">Spara lösenordsnyckeln i en ny post</string>
     <string name="passkey_update_description">Uppdatera lösenordsnyckeln i posten \"%1$s\"</string>

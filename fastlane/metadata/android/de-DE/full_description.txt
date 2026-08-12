@@ -1,4 +1,4 @@
-KeePassDX ist ein Open-Source-<b>Passwort-Tresor und -Manager</b>, der es ermöglicht, verschlüsselte <b>Daten in einer einzigen Datei</b> im offenen KeePass-Format zu bearbeiten und <b>die Formulare auf sichere Weise auszufüllen</b>, <b>erfordert keine Internetverbindung</b> und integriert Android-Designstandards. Die App ist <b>Open Source, ohne Werbung</b>.
+KeePassDS ist ein Open-Source-<b>Passwort-Tresor und -Manager</b>, der es ermöglicht, verschlüsselte <b>Daten in einer einzigen Datei</b> im offenen KeePass-Format zu bearbeiten und <b>die Formulare auf sichere Weise auszufüllen</b>, <b>erfordert keine Internetverbindung</b> und integriert Android-Designstandards. Die App ist <b>Open Source, ohne Werbung</b>.
 
 <b>Funktionalitäten</b>
 
@@ -20,6 +20,6 @@ KeePassDX ist ein Open-Source-<b>Passwort-Tresor und -Manager</b>, der es ermög
 
 Sie können spenden oder die Pro-Version kaufen, um einen besseren Service und eine schnelle Entwicklung der von Ihnen gewünschten Funktionen zu erhalten: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Das Projekt wird ständig weiterentwickelt. Zögern Sie nicht, den Entwicklungsstand der nächsten Updates zu überprüfen: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Das Projekt wird ständig weiterentwickelt. Zögern Sie nicht, den Entwicklungsstand der nächsten Updates zu überprüfen: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Sie haben einen Bug : <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Sie haben einen Bug : <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

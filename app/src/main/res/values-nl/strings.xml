@@ -41,7 +41,7 @@
     <string name="decrypting_db">Database-inhoud decoderen …</string>
     <string name="default_checkbox">Als standaarddatabase gebruiken</string>
     <string name="digits">Cijfers</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft is &lt;strong&gt;open source&lt;/strong&gt; en &lt;strong&gt;zonder reclame&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft is &lt;strong&gt;open source&lt;/strong&gt; en &lt;strong&gt;zonder reclame&lt;/strong&gt;.
 \nHet wordt geleverd zoals het is, onder &lt;strong&gt;GPLv3&lt;/strong&gt; -licentie, zonder enige garantie.</string>
     <string name="select_database_file">Bestaande kluis openen</string>
     <string name="entry_accessed">Laatst geopend</string>
@@ -58,7 +58,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Gebruikersnaam</string>
     <string name="error_arc4">De Arcfour stream-versleuteling wordt niet ondersteund.</string>
-    <string name="error_can_not_handle_uri">KeePassDX kan deze URI niet verwerken.</string>
+    <string name="error_can_not_handle_uri">KeePassDS kan deze URI niet verwerken.</string>
     <string name="error_file_not_create">Bestand is niet aangemaakt.</string>
     <string name="error_invalid_db">Kan de database niet uitlezen.</string>
     <string name="error_invalid_path">Zorg ervoor dat het pad correct is.</string>
@@ -154,7 +154,7 @@
     <string name="menu_open_file_read_and_write">Lezen en schrijven</string>
     <string name="protection">Beveiliging</string>
     <string name="read_only">Alleen-lezen</string>
-    <string name="read_only_warning">KeePassDX moet worden gemachtigd om je databank te kunnen aanpassen.</string>
+    <string name="read_only_warning">KeePassDS moet worden gemachtigd om je databank te kunnen aanpassen.</string>
     <string name="show_recent_files_title">Bestandsgeschiedenis</string>
     <string name="show_recent_files_summary">Locaties van recente databases tonen</string>
     <string name="encryption_explanation">Database-versleutelingsalgoritme voor alle gegevens</string>
@@ -182,7 +182,7 @@
     <string name="menu_appearance_settings">Uiterlijk</string>
     <string name="general">Algemeen</string>
     <string name="autofill">Automatisch aanvullen</string>
-    <string name="autofill_sign_in_prompt">Inloggen met KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Inloggen met KeePassDS</string>
     <string name="set_credential_provider_service_title">Dienst Automatisch aanvullen</string>
     <string name="autofill_explanation_summary">Dienst Automatisch aanvullen configureren om formulieren in andere apps in te vullen</string>
     <string name="password_size_title">Gegenereerde wachtwoordlengte</string>
@@ -280,7 +280,7 @@
     <string name="icon_pack_choose_summary">Gebruikt pictogrammenpakket</string>
     <string name="build_label">Editie %1$s</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Instellingen Magikeyboard</string>
     <string name="keyboard_entry_category">Item</string>
     <string name="keyboard_entry_timeout_title">Time-out</string>
@@ -302,7 +302,7 @@
     <string name="lock_database_back_root_summary">Druk in het hoofdscherm van de database op \'Terug\' om de database te vergrendelen</string>
     <string name="recycle_bin">Prullenbak</string>
     <string name="keyboard_selection_entry_title">Itemselectie</string>
-    <string name="keyboard_selection_entry_summary">Vul, bij het bekijken van een item in KeePassDX, Magikeyboard met dat item</string>
+    <string name="keyboard_selection_entry_summary">Vul, bij het bekijken van een item in KeePassDS, Magikeyboard met dat item</string>
     <string name="delete_entered_password_title">Wachtwoord wissen</string>
     <string name="delete_entered_password_summary">Wis het ingevoerde wachtwoord na een verbindingspoging met een database</string>
     <string name="content_description_open_file">Bestand openen</string>
@@ -533,7 +533,7 @@
     <string name="success_export_app_properties">App-instellingen geëxporteerd</string>
     <string name="error_import_app_properties">Fout bij het importeren van app-instellingen.</string>
     <string name="success_import_app_properties">App-instellingen geïmporteerd</string>
-    <string name="description_app_properties">KeePassDX properties to manage app settings</string>
+    <string name="description_app_properties">KeePassDS properties to manage app settings</string>
     <string name="export_app_properties_summary">Bestand voor export van app-instellingen aanmaken</string>
     <string name="export_app_properties_title">App-instellingen exporteren</string>
     <string name="import_app_properties_summary">Selecteer een bestand om app-instellingen te importeren</string>
@@ -703,7 +703,7 @@
     <string name="warning_overwrite_data_description">Deze actie vervangt de bestaande gegevens van het item. Je kunt de oude gegevens ophalen als de geschiedenis is ingeschakeld.</string>
     <string name="credential_provider">Dienst Automatisch aanvullen</string>
     <string name="credential_provider_service_subtitle">Passkeys, Dienst Automatisch aanvullen</string>
-    <string name="credential_provider_service_name">KeePassDX Dienst Automatisch aanvullen</string>
+    <string name="credential_provider_service_name">KeePassDS Dienst Automatisch aanvullen</string>
     <string name="passkeys">Passkeys</string>
     <string name="passkeys_explanation_summary">Configureer Passkeys voor snelle en veilige wachtwoordloze login</string>
     <string name="passkeys_preference_title">Instellingen voor passkeys</string>
@@ -727,7 +727,7 @@
     <string name="passkey_update_description">Passkey in %1$s bijwerken</string>
     <string name="passkey_selection_username">Geen passkey gevonden</string>
     <string name="passkey_selection_description">Bestaande passkey selecteren</string>
-    <string name="credential_provider_database_username">KeePassDX-database</string>
+    <string name="credential_provider_database_username">KeePassDS-database</string>
     <string name="credential_provider_locked_database_description">Selecteren voor ontgrendeling</string>
     <string name="passkey_username">Passkey Gebruikersnaam</string>
     <string name="passkey_private_key">Passkey Privésleutel</string>
@@ -770,5 +770,5 @@
     <string name="show_tags_summary">Geeft labels weer in de lijst met items</string>
     <string name="benchmark_calculation">Berekenen voor %1$s s</string>
     <string name="benchmarking">Benchmarking…</string>
-    <string name="keyboard_share_browser">Delen van %1$s naar KeePassDX</string>
+    <string name="keyboard_share_browser">Delen van %1$s naar KeePassDS</string>
 </resources>

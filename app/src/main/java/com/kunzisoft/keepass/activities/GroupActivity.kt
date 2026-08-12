@@ -98,6 +98,7 @@ import com.kunzisoft.keepass.model.DataTime
 import com.kunzisoft.keepass.model.GroupInfo
 import com.kunzisoft.keepass.model.RegisterInfo
 import com.kunzisoft.keepass.model.SearchInfo
+import com.kunzisoft.keepass.lansync.LanSyncManager
 import com.kunzisoft.keepass.services.DatabaseTaskNotificationService.Companion.ACTION_DATABASE_UPDATE_ENTRY_TASK
 import com.kunzisoft.keepass.services.DatabaseTaskNotificationService.Companion.ACTION_DATABASE_UPDATE_GROUP_TASK
 import com.kunzisoft.keepass.services.DatabaseTaskNotificationService.Companion.getNewEntry
@@ -181,6 +182,7 @@ class GroupActivity : DatabaseLockActivity(),
 
     // Manage merge
     private var mExternalFileHelper: ExternalFileHelper? = null
+    private var mLanSyncManager: LanSyncManager? = null
 
     // Manage group
     private var mSearchState: SearchState? = null
@@ -289,6 +291,13 @@ class GroupActivity : DatabaseLockActivity(),
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        mLanSyncManager = LanSyncManager(
+            activity = this,
+            databaseProvider = { mDatabase },
+            requestSave = { saveDatabase() },
+            requestReload = { reloadDatabase() },
+        )
 
         // Construct main view
         setContentView(layoutInflater.inflate(R.layout.activity_group, null))
@@ -672,6 +681,7 @@ class GroupActivity : DatabaseLockActivity(),
 
     override fun onDatabaseRetrieved(database: ContextualDatabase) {
         super.onDatabaseRetrieved(database)
+        mLanSyncManager?.start()
 
         mBreadcrumbAdapter = BreadcrumbAdapter(this, database).apply {
             // Open group on breadcrumb click
@@ -754,6 +764,7 @@ class GroupActivity : DatabaseLockActivity(),
         result: ActionRunnable.Result
     ) {
         super.onDatabaseActionFinished(database, actionTask, result)
+        mLanSyncManager?.onDatabaseActionFinished(result.isSuccess)
         when (actionTask) {
             ACTION_DATABASE_UPDATE_ENTRY_TASK -> {
                 if (result.isSuccess) {
@@ -1254,6 +1265,8 @@ class GroupActivity : DatabaseLockActivity(),
     override fun onResume() {
         super.onResume()
 
+        mLanSyncManager?.start()
+
         // Show the lock button
         lockView?.visibility = if (PreferencesUtil.showLockDatabaseButton(this)) {
             View.VISIBLE
@@ -1267,6 +1280,7 @@ class GroupActivity : DatabaseLockActivity(),
     }
 
     override fun onPause() {
+        mLanSyncManager?.stop()
         super.onPause()
 
         finishNodeAction()
@@ -1274,6 +1288,12 @@ class GroupActivity : DatabaseLockActivity(),
         if (!mTempSearchInfo) {
             searchFiltersView?.saveSearchParameters()
         }
+    }
+
+    override fun onDestroy() {
+        mLanSyncManager?.destroy()
+        mLanSyncManager = null
+        super.onDestroy()
     }
 
     private fun addSearchQueryInSearchView(searchQuery: String) {
@@ -1310,6 +1330,7 @@ class GroupActivity : DatabaseLockActivity(),
             menu.findItem(R.id.menu_merge_database)?.isVisible = false
         }
         if (mSpecialMode != SpecialMode.DEFAULT) {
+            menu.findItem(R.id.menu_lan_sync)?.isVisible = false
             menu.findItem(R.id.menu_merge_database)?.isVisible = false
             menu.findItem(R.id.menu_reload_database)?.isVisible = false
         }
@@ -1445,6 +1466,10 @@ class GroupActivity : DatabaseLockActivity(),
             }
             R.id.menu_reload_database -> {
                 reloadDatabase()
+                return true
+            }
+            R.id.menu_lan_sync -> {
+                mLanSyncManager?.showPairedDevices()
                 return true
             }
             R.id.menu_empty_recycle_bin -> {

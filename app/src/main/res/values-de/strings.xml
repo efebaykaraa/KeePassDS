@@ -48,7 +48,7 @@
     <string name="decrypting_db">Datenbankinhalt wird entschlüsselt …</string>
     <string name="default_checkbox">Als Standarddatenbank verwenden</string>
     <string name="digits">Stellen</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft ist &lt;strong&gt;quelloffen&lt;/strong&gt; und &lt;strong&gt;ohne Werbung&lt;/strong&gt;. \nDie Nutzung der Software erfolgt auf eigene Verantwortung und ohne jegliche Garantie. Die Applikation wird unter den Bedingungen der &lt;strong&gt;GPLv3&lt;/strong&gt; lizenziert.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft ist &lt;strong&gt;quelloffen&lt;/strong&gt; und &lt;strong&gt;ohne Werbung&lt;/strong&gt;. \nDie Nutzung der Software erfolgt auf eigene Verantwortung und ohne jegliche Garantie. Die Applikation wird unter den Bedingungen der &lt;strong&gt;GPLv3&lt;/strong&gt; lizenziert.</string>
     <string name="html_about_contribution">Damit wir &lt;strong&gt;unsere Unabhängigkeit erhalten&lt;/strong&gt;, &lt;strong&gt;Fehler beheben&lt;/strong&gt;, &lt;strong&gt;Funktionen hinzufügen&lt;/strong&gt; und &lt;strong&gt;weiterhin aktiv bleiben&lt;/strong&gt; können, zählen wir auf deinen &lt;strong&gt;Beitrag&lt;/strong&gt;.</string>
     <string name="select_database_file">Vorhandene Datenbank öffnen</string>
     <string name="entry_accessed">Letzter Zugriff</string>
@@ -66,7 +66,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Benutzername</string>
     <string name="error_arc4">Die RC4/Arcfour-Stromverschlüsselung wird nicht unterstützt.</string>
-    <string name="error_can_not_handle_uri">KeePassDX kann diese URI-Adresse nicht verarbeiten.</string>
+    <string name="error_can_not_handle_uri">KeePassDS kann diese URI-Adresse nicht verarbeiten.</string>
     <string name="error_file_not_create">Datei konnte nicht erstellt werden.</string>
     <string name="error_invalid_db">Datenbank nicht lesbar.</string>
     <string name="error_invalid_path">Bitte sicherstellen, dass der Pfad korrekt ist.</string>
@@ -121,7 +121,7 @@
     <string name="progress_title">Bearbeitung läuft …</string>
     <string name="protection">Schutz</string>
     <string name="read_only">Schreibgeschützt</string>
-    <string name="read_only_warning">Abhängig vom Dateimanager hat KeePassDX möglicherweise keine Schreibberechtigung.</string>
+    <string name="read_only_warning">Abhängig vom Dateimanager hat KeePassDS möglicherweise keine Schreibberechtigung.</string>
     <string name="content_description_remove_from_list">Entfernen</string>
     <string name="root">Start</string>
     <string name="rounds">Verschlüsselungsrunden</string>
@@ -190,7 +190,7 @@
     <string name="sort_last_modify_time">Änderungsdatum</string>
     <string name="sort_last_access_time">Zugriffsdatum</string>
     <string name="autofill">Automatisches Ausfüllen</string>
-    <string name="autofill_sign_in_prompt">Mit KeePassDX anmelden</string>
+    <string name="autofill_sign_in_prompt">Mit KeePassDS anmelden</string>
     <string name="set_credential_provider_service_title">Anbieterdienst für Anmeldeinformationen</string>
     <string name="autofill_explanation_summary">Automatisches Ausfüllen konfigurieren, um Formulare in anderen Apps schnell auszufüllen</string>
     <string name="autofill_select_entry">Eintrag auswählen …</string>
@@ -278,7 +278,7 @@
     <string name="list_entries_show_username_summary">Benutzernamen in Eintragslisten anzeigen</string>
     <string name="build_label">Build %1$s</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Magikeyboard-Einstellungen</string>
     <string name="keyboard_entry_category">Eintrag</string>
     <string name="keyboard_entry_timeout_title">Inaktivitätszeit</string>
@@ -307,7 +307,7 @@
     <string name="lock_database_back_root_summary">„Zurück“ drücken, um die Datenbank zu sperren, wenn man sich auf dem Hauptbildschirm der Datenbank befindet</string>
     <string name="recycle_bin">Papierkorb</string>
     <string name="keyboard_selection_entry_title">Eintragsauswahl</string>
-    <string name="keyboard_selection_entry_summary">Beim Anzeigen eines Eintrags in KeePassDX wird Magikeyboard mit diesem Eintrag gefüllt</string>
+    <string name="keyboard_selection_entry_summary">Beim Anzeigen eines Eintrags in KeePassDS wird Magikeyboard mit diesem Eintrag gefüllt</string>
     <string name="delete_entered_password_title">Passwort löschen</string>
     <string name="delete_entered_password_summary">Löscht das eingegebene Passwort nach einem Verbindungsversuch zu einer Datenbank</string>
     <string name="content_description_open_file">Datei öffnen</string>
@@ -551,7 +551,7 @@
     <string name="autofill_inline_suggestions_keyboard">Vorschläge zum automatischen Ausfüllen hinzugefügt.</string>
     <string name="autofill_inline_suggestions_summary">Wenn möglich, Vorschläge zum automatischen Ausfüllen direkt auf kompatibler Tastatur anzeigen</string>
     <string name="properties">Eigenschaften</string>
-    <string name="description_app_properties">KeePassDX-Eigenschaften zur Verwaltung der App-Einstellungen</string>
+    <string name="description_app_properties">KeePassDS-Eigenschaften zur Verwaltung der App-Einstellungen</string>
     <string name="secure_note">Sicherer Hinweis</string>
     <string name="type">Typ</string>
     <string name="date_of_issue">Ausstellungsdatum</string>
@@ -711,7 +711,7 @@
     <string name="passkey_creation_description">Passkey in neuem Eintrag speichern</string>
     <string name="passkey_update_description">Passkey in %1$s aktualisieren</string>
     <string name="passkey_selection_description">Vorhandenen Passkey auswählen</string>
-    <string name="credential_provider_database_username">KeePassDX-Datenbank</string>
+    <string name="credential_provider_database_username">KeePassDS-Datenbank</string>
     <string name="passkey_username">Passkey-Benutzername</string>
     <string name="passkey_backup_state">Passkey-Backup-Status</string>
     <string name="passkey_backup_eligibility">Passkey-Backup-Erlaubnis</string>
@@ -728,7 +728,7 @@
     <string name="passkeys_backup_eligibility_summary">Bei der Erstellung festlegen, ob die Quelle für öffentliche Schlüssel-Anmeldeinformationen gesichert werden darf</string>
     <string name="passkeys_backup_state_summary">Anzeigen, dass Anmeldedaten gesichert und gegen den Verlust eines einzelnen Geräts geschützt sind</string>
     <string name="credential_provider_service_subtitle">Passkeys, Anbieter für das automatische Ausfüllen von Anmeldedaten</string>
-    <string name="credential_provider_service_name">KeePassDX-Anmeldedatenanbieter</string>
+    <string name="credential_provider_service_name">KeePassDS-Anmeldedatenanbieter</string>
     <string name="credential_provider_locked_database_description">Zum Entsperren auswählen</string>
     <string name="passkey_private_key">Privater Schlüssel für Passkey</string>
     <string name="passkey_credential_id">Passkey-Anmeldeinformation</string>
@@ -766,5 +766,5 @@
     <string name="show_tags_title">Tags anzeigen</string>
     <string name="benchmark_calculation">Für %1$s s berechnen</string>
     <string name="benchmarking">Wird berechnet …</string>
-    <string name="keyboard_share_browser">Von %1$s mit KeePassDX teilen</string>
+    <string name="keyboard_share_browser">Von %1$s mit KeePassDS teilen</string>
 </resources>

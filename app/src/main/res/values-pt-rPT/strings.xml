@@ -42,7 +42,7 @@
     <string name="decrypting_db">A desencriptar o conteúdo da base de dados…</string>
     <string name="default_checkbox">Utilizar como base de dados predefinida</string>
     <string name="digits">Dígitos</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft tem o &lt;strong&gt;código-fonte aberto&lt;/strong&gt; e &lt;strong&gt;sem publicidade&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft tem o &lt;strong&gt;código-fonte aberto&lt;/strong&gt; e &lt;strong&gt;sem publicidade&lt;/strong&gt;.
 \nÉ fornecido como está, sob a &lt;strong&gt;licença GPLv3&lt;/strong&gt;, sem qualquer garantia.</string>
     <string name="select_database_file">Abrir o cofre existente</string>
     <string name="entry_accessed">Acedido</string>
@@ -60,7 +60,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Nome de utilizador</string>
     <string name="error_arc4">A cifra de fluxo Arcfour não é suportada.</string>
-    <string name="error_can_not_handle_uri">Não foi possível processar esta URI no KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Não foi possível processar esta URI no KeePassDS.</string>
     <string name="error_file_not_create">Não foi possível criar o ficheiro.</string>
     <string name="error_invalid_db">Não foi possível ler a base de dados.</string>
     <string name="error_invalid_path">Certifique-se que o caminho é válido.</string>
@@ -113,7 +113,7 @@
     <string name="progress_title">Em funcionamento…</string>
     <string name="protection">Proteção</string>
     <string name="read_only">Apenas leitura</string>
-    <string name="read_only_warning">Dependendo do seu gestor de ficheiros, o KeePassDX pode não ter permissão de escrita no armazenamento.</string>
+    <string name="read_only_warning">Dependendo do seu gestor de ficheiros, o KeePassDS pode não ter permissão de escrita no armazenamento.</string>
     <string name="content_description_remove_from_list">Remover</string>
     <string name="root">Raiz</string>
     <string name="rounds">Rodadas de transformação</string>
@@ -174,7 +174,7 @@
     <string name="menu_appearance_settings">Aparência</string>
     <string name="general">Geral</string>
     <string name="autofill">Preenchimento automático</string>
-    <string name="autofill_sign_in_prompt">Iniciar sessão com KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Iniciar sessão com KeePassDS</string>
     <string name="set_credential_provider_service_title">Definir como serviço de preenchimento automático predefinido</string>
     <string name="autofill_explanation_summary">Configure o serviço para rapidamente preencher formulários noutras apps</string>
     <string name="password_size_title">Tamanho da palavra-passe gerada</string>
@@ -271,7 +271,7 @@
     <string name="list_entries_show_username_summary">Mostra nomes de utilizador nas listas de entradas</string>
     <string name="clipboard">Área de transferência</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Configurações do Magikeyboard</string>
     <string name="keyboard_entry_category">Entrada</string>
     <string name="keyboard_entry_timeout_title">Tempo limite</string>
@@ -293,7 +293,7 @@
     <string name="lock_database_back_root_summary">Pressione \'Voltar\' para bloquear o base de dados se estiver no ecrã principal da base de dados</string>
     <string name="recycle_bin">Caixote da reciclagem</string>
     <string name="keyboard_selection_entry_title">Seleção de entrada</string>
-    <string name="keyboard_selection_entry_summary">Ao ver uma entrada no KeePassDX, preencher o Magikeyboard com essa entrada</string>
+    <string name="keyboard_selection_entry_summary">Ao ver uma entrada no KeePassDS, preencher o Magikeyboard com essa entrada</string>
     <string name="delete_entered_password_title">Eliminar palavra-passe</string>
     <string name="delete_entered_password_summary">Eliminar a palavra-passe inserida após uma tentativa de conexão a uma base de dados</string>
     <string name="content_description_open_file">Abrir ficheiro</string>
@@ -522,7 +522,7 @@
     <string name="success_export_app_properties">Definições da aplicação exportadas</string>
     <string name="error_import_app_properties">Erro durante a importação das definições da aplicação.</string>
     <string name="success_import_app_properties">Definições da aplicação importadas</string>
-    <string name="description_app_properties">Propriedades do KeePassDX para gerir as configurações da aplicação</string>
+    <string name="description_app_properties">Propriedades do KeePassDS para gerir as configurações da aplicação</string>
     <string name="export_app_properties_summary">Criar um ficheiro para exportar as definições da aplicação</string>
     <string name="export_app_properties_title">Exportar definições da aplicação</string>
     <string name="import_app_properties_summary">Selecionar um ficheiro para importar as definições da aplicação</string>
@@ -742,8 +742,8 @@
     <string name="education_user_verification_title">Verificação para ações sensíveis</string>
     <string name="education_user_verification_summary">Alterar o modo de verificação do utilizador para a sessão.\n\n\"Verificação do Utilizador Ativada\" verifica ações em campos protegidos e nas configurações da base de dados.\n\"Verificação do Utilizador Desativada\" permite alterar qualquer dado na sua base de dados sem verificação.</string>
     <string name="passkey">Chave de acesso</string>
-    <string name="credential_provider_service_name">Provedor de Credenciais KeePassDX</string>
-    <string name="credential_provider_database_username">Base de dados KeePassDX</string>
+    <string name="credential_provider_service_name">Provedor de Credenciais KeePassDS</string>
+    <string name="credential_provider_database_username">Base de dados KeePassDS</string>
     <string name="credential_provider_locked_database_description">Selecione para desbloquear</string>
     <string name="passkey_creation_description">Gravar chave de acesso na entrada nova</string>
     <string name="passkey_update_description">Atualizar chave de acesso em %1$s</string>

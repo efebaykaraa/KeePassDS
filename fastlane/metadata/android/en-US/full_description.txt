@@ -1,4 +1,4 @@
-KeePassDX is an open source <b>passkey, password safe and manager</b> allows editing <b>encrypted data in a single file</b> in the open KeePass format and <b>fill in the forms in a secure way</b>, requires <b>no Internet connection</b> and integrates Android design standards. The app is <b>open source, with no advertising</b>.
+KeePassDS is an open source <b>passkey, password safe and manager</b> allows editing <b>encrypted data in a single file</b> in the open KeePass format and <b>fill in the forms in a secure way</b>, requires <b>no Internet connection</b> and integrates Android design standards. The app is <b>open source, with no advertising</b>.
 
 <b>Features</b>
 
@@ -20,6 +20,6 @@ KeePassDX is an open source <b>passkey, password safe and manager</b> allows edi
 
 You can donate or buy the pro version for better service and a quick development of features you want: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-The project is constantly evolving. Do not hesitate to check the development status of the next updates: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+The project is constantly evolving. Do not hesitate to check the development status of the next updates: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Send issues to: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Send issues to: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

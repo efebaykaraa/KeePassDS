@@ -41,7 +41,7 @@ object PassHelper {
 
     private const val SEPARATOR = "_"
     private const val HMAC_TYPE = "HmacSHA256"
-    private const val NAME_OF_HMAC_KEY = "KeePassDXCredentialProviderHMACKey"
+    private const val NAME_OF_HMAC_KEY = "KeePassDSCredentialProviderHMACKey"
     private const val KEYSTORE_TYPE = "AndroidKeyStore"
 
     private val PLACEHOLDER_FOR_NEW_NODE_ID = "0".repeat(32)

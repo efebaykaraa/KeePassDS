@@ -19,7 +19,7 @@
 --><resources>
     <string name="feedback">Atsauksmes</string>
     <string name="homepage">Mājaslapa</string>
-    <string name="about_description">KeePassDX – KeePass paroļu pārvaldnieka Android realizācija.</string>
+    <string name="about_description">KeePassDS – KeePass paroļu pārvaldnieka Android realizācija.</string>
     <string name="accept">Pieņemt</string>
     <string name="add_entry">Pievienot ierakstu</string>
     <string name="add_group">Jauna grupa</string>
@@ -131,7 +131,7 @@
     <string name="encryption">Šifrēšana</string>
     <string name="extended_ASCII">Paplašinātais ASCII</string>
     <string name="allow">Atļaut</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft — &lt;strong&gt;atvērtā pirmkoda&lt;/strong&gt; lietotne &lt;strong&gt;bez reklāmām&lt;/strong&gt;.\nTā tiek izplatīta tāda, kāda tā ir, saskaņā ar &lt;strong&gt;GPLv3&lt;/strong&gt; licenci bez jebkādām garantijām.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft — &lt;strong&gt;atvērtā pirmkoda&lt;/strong&gt; lietotne &lt;strong&gt;bez reklāmām&lt;/strong&gt;.\nTā tiek izplatīta tāda, kāda tā ir, saskaņā ar &lt;strong&gt;GPLv3&lt;/strong&gt; licenci bez jebkādām garantijām.</string>
     <string name="menu_copy">Kopēt</string>
     <string name="education_lock_title">Bloķēt datubāzi</string>
     <string name="character_count">Rakstzīmju skaits: %1$d</string>

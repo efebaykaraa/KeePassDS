@@ -251,7 +251,7 @@
     <string name="menu_file_selection_read_only">Zaštićeno od pisanja</string>
     <string name="progress_title">Rad u tijeku …</string>
     <string name="read_only">Zaštićeno od pisanja</string>
-    <string name="read_only_warning">Ovisno o upravljaču datoteka, KeePassDX možda neće moći pisati u tvoje spremište.</string>
+    <string name="read_only_warning">Ovisno o upravljaču datoteka, KeePassDS možda neće moći pisati u tvoje spremište.</string>
     <string name="contains_duplicate_uuid_procedure">Riješiti problem generiranjem novih UUID-ova za duplikate\?</string>
     <string name="root">Korijen</string>
     <string name="memory_usage_explanation">Količina memorije koju će koristiti funkcija za generiranje ključeva.</string>
@@ -262,7 +262,7 @@
     <string name="uppercase">Velika slova</string>
     <string name="unavailable">Nedostupno</string>
     <string name="biometric">Biometrija</string>
-    <string name="autofill_sign_in_prompt">Prijavi se s KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Prijavi se s KeePassDS</string>
     <string name="autofill_explanation_summary">Aktiviraj automatsko ispunjavanje za brzo ispunjavanje obrazaca u drugim aplikacijama</string>
     <string name="password_size_title">Duljina generirane lozinke</string>
     <string name="password_size_summary">Postavlja standardnu duljinu generiranih lozinki</string>
@@ -282,7 +282,7 @@
     <string name="magic_keyboard_explanation_summary">Aktiviraj prilagođenu tipkovnicu za popunjavanje lozinki i identifikacijskih polja</string>
     <string name="device_keyboard_setting_title">Postavke tipkovnice uređaja</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Magikeyboard postavke</string>
     <string name="keyboard_entry_category">Unos</string>
     <string name="keyboard_selection_entry_title">Odabir unosa</string>
@@ -316,7 +316,7 @@
     <string name="auto_focus_search_title">Brza pretraga</string>
     <string name="error_create_database">Nije moguće stvoriti datoteku baze podataka.</string>
     <string name="error_rounds_too_large">Previše „transformacijskih prolaza”. Postavlja se na 2147483648.</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft je softver &lt;strong&gt;otvorenog koda&lt;/strong&gt; i &lt;strong&gt;ne sadrži oglase&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft je softver &lt;strong&gt;otvorenog koda&lt;/strong&gt; i &lt;strong&gt;ne sadrži oglase&lt;/strong&gt;.
 \nNudi se kakav je, pod &lt;strong&gt;GPLv3&lt;/strong&gt; licencom, bez jamstva.</string>
     <string name="entry_add_attachment">Dodaj privitak</string>
     <string name="discard">Odbaci</string>
@@ -343,7 +343,7 @@
     <string name="autofill_preference_title">Postavke automatskog ispunjavanja</string>
     <string name="education_generate_password_summary">Stvori snažnu lozinku za tvoj unosu, jednostavno je definiraj prema kriterijima obrasca i ne zaboravi sigurnu lozinku.</string>
     <string name="style_choose_title">Tema aplikacije</string>
-    <string name="error_can_not_handle_uri">Nije moguće baratati ovim URI-jem u KeePassDX-u.</string>
+    <string name="error_can_not_handle_uri">Nije moguće baratati ovim URI-jem u KeePassDS-u.</string>
     <string name="keyboard_entry_timeout_summary">Istek vremena za brisanje unosa tipkovnicom</string>
     <string name="education_read_only_title">Zaštiti bazu podataka od pisanja</string>
     <string name="autofill_web_domain_blocklist_title">Popis blokiranja web domena</string>
@@ -396,7 +396,7 @@
     <string name="education_setup_OTP_title">Postavi jednokratnu lozinku</string>
     <string name="content_description_add_item">Dodaj element</string>
     <string name="html_text_dev_feature_buy_pro">Kupnjom &lt;strong&gt;pro&lt;/strong&gt; verzije,</string>
-    <string name="keyboard_selection_entry_summary">Prilikom prikaza unosa u KeePassDX-u, popuni Magikeyboard s tim unosom</string>
+    <string name="keyboard_selection_entry_summary">Prilikom prikaza unosa u KeePassDS-u, popuni Magikeyboard s tim unosom</string>
     <string name="education_new_node_title">Dodaj elemente u bazu podataka</string>
     <string name="education_donation_summary">Pomogni povećati stabilnost i sigurnost dodavanjem dodatnih funkcija.</string>
     <string name="error_string_type">Ovaj se tekst ne poklapa sa zatraženim elementom.</string>
@@ -526,7 +526,7 @@
     <string name="success_export_app_properties">Postavke aplikacije su izvezene</string>
     <string name="error_import_app_properties">Greška tijekom uvoza postavki aplikacije.</string>
     <string name="success_import_app_properties">Postavke aplikacije su uvezene</string>
-    <string name="description_app_properties">KeePassDX svojstva za upravljanje postavkama aplikacije</string>
+    <string name="description_app_properties">KeePassDS svojstva za upravljanje postavkama aplikacije</string>
     <string name="export_app_properties_summary">Stvori datoteku za izvoz postavki aplikacije</string>
     <string name="export_app_properties_title">Izvezi postavke aplikacije</string>
     <string name="import_app_properties_summary">Odaberi datoteku za uvoz postavki aplikacije</string>

@@ -44,7 +44,7 @@
     <string name="decrypting_db">Decodifica contenuto database…</string>
     <string name="default_checkbox">Usa come database predefinito</string>
     <string name="digits">Numeri</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft è un programma &lt;strong&gt;open-source&lt;/strong&gt; e &lt;strong&gt;senza pubblicità&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft è un programma &lt;strong&gt;open-source&lt;/strong&gt; e &lt;strong&gt;senza pubblicità&lt;/strong&gt;.
 \nViene distribuito sotto le condizioni della licenza &lt;strong&gt;GPL versione 3&lt;/strong&gt; o successiva, senza alcuna garanzia.</string>
     <string name="entry_notes">Note</string>
     <string name="select_database_file">Apri una cassaforte esistente</string>
@@ -62,7 +62,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Nome utente</string>
     <string name="error_arc4">La codifica a flusso Arcfour non è supportata.</string>
-    <string name="error_can_not_handle_uri">KeePassDX non può gestire questo URI.</string>
+    <string name="error_can_not_handle_uri">KeePassDS non può gestire questo URI.</string>
     <string name="error_file_not_create">Impossibile creare il file.</string>
     <string name="error_invalid_db">Impossibile leggere il database.</string>
     <string name="error_invalid_path">Assicurati che il percorso sia corretto.</string>
@@ -175,7 +175,7 @@
     <string name="menu_appearance_settings">Aspetto</string>
     <string name="general">Generale</string>
     <string name="autofill">Autocompletamento</string>
-    <string name="autofill_sign_in_prompt">Accedi con KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Accedi con KeePassDS</string>
     <string name="set_credential_provider_service_title">Servizio predefinito di autocompletamento</string>
     <string name="autofill_explanation_summary">Configura l\'autocompletamento per riempire velocemente i campi in altre app</string>
     <string name="password_size_title">Dimensione password generata</string>
@@ -279,7 +279,7 @@
     <string name="clipboard">Appunti</string>
     <string name="build_label">Versione %1$s</string>
     <string name="keyboard_name">Magitastiera</string>
-    <string name="keyboard_label">Magitastiera (KeePassDX)</string>
+    <string name="keyboard_label">Magitastiera (KeePassDS)</string>
     <string name="keyboard_setting_label">Impostazioni Magitastiera</string>
     <string name="keyboard_entry_category">Elemento</string>
     <string name="keyboard_entry_timeout_title">Scadenza</string>
@@ -301,7 +301,7 @@
     <string name="lock_database_back_root_summary">Premi \'Indietro\' per bloccare il database se sei nella schermata principale del database</string>
     <string name="recycle_bin">Cestino</string>
     <string name="keyboard_selection_entry_title">Selezione elemento</string>
-    <string name="keyboard_selection_entry_summary">Durante la visualizzazione di una voce in KeePassDX, inseriscila nella Magitastiera</string>
+    <string name="keyboard_selection_entry_summary">Durante la visualizzazione di una voce in KeePassDS, inseriscila nella Magitastiera</string>
     <string name="delete_entered_password_title">Elimina password</string>
     <string name="delete_entered_password_summary">Elimina la password immessa dopo un tentativo di connessione al database</string>
     <string name="content_description_open_file">Apri il file</string>
@@ -535,7 +535,7 @@
     <string name="success_export_app_properties">Impostazioni dell\'app esportate</string>
     <string name="error_import_app_properties">Errore durante l\'importazione delle impostazioni dell\'app.</string>
     <string name="success_import_app_properties">Impostazioni dell\'app importate</string>
-    <string name="description_app_properties">Proprietà di KeePassDX per gestire le impostazioni dell\'app</string>
+    <string name="description_app_properties">Proprietà di KeePassDS per gestire le impostazioni dell\'app</string>
     <string name="export_app_properties_summary">Crea un file in cui esportare le impostazioni dell\'app</string>
     <string name="export_app_properties_title">Esporta le impostazioni dell\'app</string>
     <string name="import_app_properties_summary">Seleziona un file da cui importare le impostazioni dell\'app</string>
@@ -725,12 +725,12 @@
     <string name="passkeys_backup_state_summary">Indica che le credenziali sono dietro backup e protette contro la perdita di un singolo dispositivo</string>
     <string name="credential_provider_service_subtitle">Passkey, fornitore di autocompletamento credenziali</string>
     <string name="passkey">Passkey</string>
-    <string name="credential_provider_service_name">Fornitore di credenziali KeePassDX</string>
+    <string name="credential_provider_service_name">Fornitore di credenziali KeePassDS</string>
     <string name="passkey_creation_description">Salva la passkey in una nuova voce</string>
     <string name="passkey_update_description">Aggiorna la passkey in %1$s</string>
     <string name="passkey_selection_username">Nessuna passkey trovata</string>
     <string name="passkey_selection_description">Seleziona una passkey esistente</string>
-    <string name="credential_provider_database_username">Database di KeePassDX</string>
+    <string name="credential_provider_database_username">Database di KeePassDS</string>
     <string name="credential_provider_locked_database_description">Seleziona per sbloccare</string>
     <string name="passkey_username">Nome utente passkey</string>
     <string name="passkey_private_key">Chiave privata passkey</string>
@@ -771,5 +771,5 @@
     <string name="show_tags_summary">Mostra le etichette nell\'elenco delle voci</string>
     <string name="benchmark_calculation">Calcola per %1$s s</string>
     <string name="benchmarking">Analisi comparativa…</string>
-    <string name="keyboard_share_browser">Condividi da %1$s a KeePassDX</string>
+    <string name="keyboard_share_browser">Condividi da %1$s a KeePassDS</string>
 </resources>

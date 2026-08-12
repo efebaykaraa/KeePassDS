@@ -87,7 +87,7 @@
     <string name="decrypting_db">Đang giải mã nội dung dữ liệu…</string>
     <string name="default_checkbox">Đặt làm dữ liệu mặc định</string>
     <string name="digits">Chữ số</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft là &lt;strong&gt;phần mềm mã nguồn mở&lt;/strong&gt; và &lt;strong&gt;không có quảng cáo&lt;/strong&gt;.\nNó được cung cấp nguyên trạng theo giấy phép &lt;strong&gt;GPLv3&lt;/strong&gt;, không có bất kỳ sự can thiệp nào.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft là &lt;strong&gt;phần mềm mã nguồn mở&lt;/strong&gt; và &lt;strong&gt;không có quảng cáo&lt;/strong&gt;.\nNó được cung cấp nguyên trạng theo giấy phép &lt;strong&gt;GPLv3&lt;/strong&gt;, không có bất kỳ sự can thiệp nào.</string>
     <string name="html_about_privacy">&lt;strong&gt;Không có dữ liệu người dùng nào được truy xuất&lt;/strong&gt;, ứng dụng này không kết nối với bất kỳ máy chủ nào, chỉ hoạt động cục bộ và hoàn toàn tôn trọng quyền riêng tư của người dùng.</string>
     <string name="html_about_contribution">Để &lt;strong&gt;giữ quyền tự do của chúng ta&lt;/strong&gt;, &lt;strong&gt;sửa lỗi&lt;/strong&gt;, &lt;strong&gt;thêm tính năng&lt;/strong&gt; và &lt;strong&gt;để luôn hoạt động&lt;/strong&gt;, chúng tôi tin tưởng vào &lt;strong&gt;đóng góp của bạn&lt;/strong&gt;.</string>
     <string name="entry_accessed">Đã truy cập</string>
@@ -157,7 +157,7 @@
     <string name="entry_url">Đường dẫn</string>
     <string name="entry_user_name">Tên người dùng</string>
     <string name="error_arc4">Arcfour stream cipher không được hỗ trợ.</string>
-    <string name="error_can_not_handle_uri">Không thể xử lý URI này trong KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Không thể xử lý URI này trong KeePassDS.</string>
     <string name="error_file_not_create">Không thể tạo tệp.</string>
     <string name="error_invalid_db">Không thể đọc dữ liệu.</string>
     <string name="error_invalid_path">Hãy chắc chắn rằng đường dẫn là chính xác.</string>
@@ -299,7 +299,7 @@
     <string name="progress_title">Đang làm việc…</string>
     <string name="protection">Bảo vệ</string>
     <string name="read_only">Bảo vệ chống ghi</string>
-    <string name="read_only_warning">Tùy thuộc vào trình quản lý tệp của bạn, KeePassDX có thể không được phép ghi vào bộ nhớ của bạn.</string>
+    <string name="read_only_warning">Tùy thuộc vào trình quản lý tệp của bạn, KeePassDS có thể không được phép ghi vào bộ nhớ của bạn.</string>
     <string name="contains_duplicate_uuid">Dữ liệu chứa các UUID trùng lặp.</string>
     <string name="contains_duplicate_uuid_procedure">Giải quyết vấn đề bằng cách tạo UUID mới để tiếp tục sao chép?</string>
     <string name="search_mode">Chế độ tìm kiếm</string>
@@ -319,7 +319,7 @@
     <string name="import_app_properties_summary">Chọn tệp để nhập thiết lập ứng dụng</string>
     <string name="export_app_properties_title">Xuất thiết lập ứng dụng</string>
     <string name="export_app_properties_summary">Tạo tệp để xuất thiết lập ứng dụng</string>
-    <string name="description_app_properties">Thuộc tính KeePassDX để quản lý thiết lập ứng dụng</string>
+    <string name="description_app_properties">Thuộc tính KeePassDS để quản lý thiết lập ứng dụng</string>
     <string name="success_import_app_properties">Đã nhập thiết lập ứng dụng</string>
     <string name="error_import_app_properties">Lỗi trong quá trình nhập thiết lập ứng dụng.</string>
     <string name="success_export_app_properties">Đã xuất thiết lập ứng dụng</string>
@@ -406,7 +406,7 @@
     <string name="device_credential">Thông tin xác thực thiết bị</string>
     <string name="general">Tổng quan</string>
     <string name="autofill">Tự động điền</string>
-    <string name="autofill_sign_in_prompt">Đăng nhập bằng KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Đăng nhập bằng KeePassDS</string>
     <string name="autofill_explanation_summary">Tùy chỉnh tự động điền để nhanh chóng điền vào biểu mẫu trong các ứng dụng khác</string>
     <string name="autofill_select_entry">Chọn mục…</string>
     <string name="set_credential_provider_service_title">Đặt dịch vụ tự động điền mặc định</string>
@@ -499,11 +499,11 @@
     <string name="magic_keyboard_explanation_summary">Kích hoạt bàn phím tùy chỉnh để điền mật khẩu và tất cả các vùng được nhận dạng</string>
     <string name="device_keyboard_setting_title">Thiết lập bàn phím thiết bị</string>
     <string name="keyboard_name">Bàn phím Magi</string>
-    <string name="keyboard_label">Bàn phím Magi (KeePassDX)</string>
+    <string name="keyboard_label">Bàn phím Magi (KeePassDS)</string>
     <string name="keyboard_setting_label">Thiết lập bàn phím khóa Magikeyboard</string>
     <string name="keyboard_entry_category">Đề mục</string>
     <string name="keyboard_selection_entry_title">Lựa chọn đề mục</string>
-    <string name="keyboard_selection_entry_summary">Khi xem một đề mục trong KeePassDX, hãy điền đề mục đó vào Bàn phím Magi</string>
+    <string name="keyboard_selection_entry_summary">Khi xem một đề mục trong KeePassDS, hãy điền đề mục đó vào Bàn phím Magi</string>
     <string name="keyboard_notification_entry_title">Thông tin thông báo</string>
     <string name="keyboard_notification_entry_summary">Hiển thị thông báo khi có đề mục</string>
     <string name="keyboard_save_search_info_title">Lưu thông tin chia sẻ</string>
@@ -726,7 +726,7 @@
     <string name="passkeys_close_database_title">Đóng dữ liệu</string>
     <string name="passkeys_close_database_summary">Đóng dữ liệu sau khi chọn một khóa kĩ thuật số</string>
     <string name="passkeys_auto_select_summary">Tự động chọn nếu chỉ có một đề mục và dữ liệu đang mở, chỉ khi ứng dụng đang yêu cầu tương thích</string>
-    <string name="credential_provider_database_username">Dữ liệu KeePassDX</string>
+    <string name="credential_provider_database_username">Dữ liệu KeePassDS</string>
     <string name="credential_provider_locked_database_description">Chọn để mở khóa</string>
     <string name="user_verification_database_credential">Nhập 4 ký tự đầu tiên trong mật khẩu dữ liệu của bạn</string>
     <string name="warning_overwrite_data_description">Hành động này sẽ thay thế dữ liệu có sẵn trong đề mục, bạn có thể thu hồi dữ liệu cũ nếu lịch sử đang bật.</string>

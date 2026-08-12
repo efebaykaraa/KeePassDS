@@ -45,7 +45,7 @@
     <string name="decrypting_db">डेटाबेस सामग्री डिक्रिप्ट कर रहे है…</string>
     <string name="default_checkbox">डिफ़ॉल्ट डेटाबेस के रूप में उपयोग करें</string>
     <string name="digits">अंक</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft &lt;strong&gt;ओपन सोर्स&lt;/strong&gt; है और &lt;strong&gt;बिना किसी विज्ञापन&lt;/strong&gt; के उपलब्ध है।
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft &lt;strong&gt;ओपन सोर्स&lt;/strong&gt; है और &lt;strong&gt;बिना किसी विज्ञापन&lt;/strong&gt; के उपलब्ध है।
 \nइसे &lt;strong&gt;GPLv3&lt;/strong&gt; लाइसेंस के अन्तर्गत बिना किसी वारन्टि के प्रदान किया गया है।</string>
     <string name="entry_accessed">एक्सेस किया गया</string>
     <string name="entry_cancel">रद्द करें</string>
@@ -61,7 +61,7 @@
     <string name="entry_title">शीर्षक</string>
     <string name="entry_url">यू.आर.एल</string>
     <string name="entry_user_name">उपयोगकर्ता का नाम</string>
-    <string name="error_can_not_handle_uri">KeePassDX में इस URI को संभाल नहीं सका।</string>
+    <string name="error_can_not_handle_uri">KeePassDS में इस URI को संभाल नहीं सका।</string>
     <string name="error_file_not_create">फाइल नहीं बना सका।</string>
     <string name="error_invalid_db">डेटाबेस को पढ़ा नहीं जा सका।</string>
     <string name="error_invalid_path">सुनिश्चित करें कि रास्ता सही है।</string>

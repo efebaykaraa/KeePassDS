@@ -1,1 +1,1 @@
-KeePassDX jelszótároló
+KeePassDS jelszótároló

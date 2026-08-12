@@ -164,7 +164,7 @@
     <string name="show_recent_files_summary">Ən son məlumat bazalarının yerini göstər</string>
     <string name="export_app_properties_title">Tətbiqin parametrlərini ixrac et</string>
     <string name="export_app_properties_summary">Tətbiqin parametrlərini ixrac etmək üçün bir fayl yaradın</string>
-    <string name="description_app_properties">Tətbiq parametrlərini idarə etmək üçün KeePassDX xüsusiyyətləri</string>
+    <string name="description_app_properties">Tətbiq parametrlərini idarə etmək üçün KeePassDS xüsusiyyətləri</string>
     <string name="success_import_app_properties">Tətbiqin parametrləri idxal edildi</string>
     <string name="success_export_app_properties">Tətbiqin parametrləri ixrac edildi</string>
     <string name="encryption_explanation">Bütün malumatlar üçün istifadə olunan məlumat bazası şifrələmə alqoritması</string>
@@ -220,7 +220,7 @@
     <string name="device_credential">Cihazın şəxsiyyətini təsdiq edən məlumatları</string>
     <string name="general">Ümumi</string>
     <string name="autofill">Avtomatik doldurma</string>
-    <string name="autofill_sign_in_prompt">KeePassDX ile giriş edin</string>
+    <string name="autofill_sign_in_prompt">KeePassDS ile giriş edin</string>
     <string name="education_entry_new_field_title">Xüsusi bölmələr əlavə edin</string>
     <string name="education_add_attachment_title">Qoşma əlavə edin</string>
     <string name="device_unlock_explanation_summary">Məlumat bazasını daha asan açmaq üçün cihazın kilid açma funksiyasından istifadə edin</string>
@@ -289,7 +289,7 @@
     <string name="magic_keyboard_title">Magikeyboard</string>
     <string name="device_keyboard_setting_title">Cihaz klaviatura parametrləri</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Magikeyboard parametrləri</string>
     <string name="keyboard_entry_category">Şifrə</string>
     <string name="keyboard_selection_entry_title">Şifrə seçimi</string>
@@ -362,7 +362,7 @@
     <string name="entry_add_field">Sahə (bölmə) əlavə et</string>
     <string name="content_description_remove_field">Sahəni (bölməni) sil</string>
     <string name="content_description_keyboard_close_fields">Sahələri (bölmələri) bağla</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft&lt;strong&gt;açıq mənbəlidir və&lt;/strong&gt;və&lt;strong&gt;ondan heç bir reklam yoxdur&lt;/strong&gt;.\n&lt;strong&gt;GPLv3&lt;/strong&gt;lisenziyasına sahibdir, hər hansısa bir qarantiyası yoxdur.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft&lt;strong&gt;açıq mənbəlidir və&lt;/strong&gt;və&lt;strong&gt;ondan heç bir reklam yoxdur&lt;/strong&gt;.\n&lt;strong&gt;GPLv3&lt;/strong&gt;lisenziyasına sahibdir, hər hansısa bir qarantiyası yoxdur.</string>
     <string name="inherited">İdxal et</string>
     <string name="auto_type">Avtomatik yazma</string>
     <string name="auto_type_sequence">Avtomatik yazma sırası</string>
@@ -408,7 +408,7 @@
     <string name="entry_user_name">İstifadəçi adı</string>
     <string name="error_arc4">Arcfour axın şifrəsi dəstəklənmir.</string>
     <string name="error_file_not_create">Faylı yaratmaq mümkün olmadə.</string>
-    <string name="error_can_not_handle_uri">Bu URİ-nin KeePassDX-də istifadəsi mümkün olmadı.</string>
+    <string name="error_can_not_handle_uri">Bu URİ-nin KeePassDS-də istifadəsi mümkün olmadı.</string>
     <string name="case_sensitive">Böyük/kiçik hərf həssaslığı</string>
     <string name="error_invalid_db">Məlumat bazasını oxumaq mümkün olmadı.</string>
     <string name="error_invalid_path">Fayl yolunun doğru olduğundan əmin olun.</string>
@@ -472,7 +472,7 @@
     <string name="progress_title">İşləyir …</string>
     <string name="protection">Qoruma</string>
     <string name="read_only">Yazma qorumalı</string>
-    <string name="read_only_warning">Fayl menecerinizdən asılı olaraq, KeePassDX cihazınızın yaddaşına yazmasına icazə verilməyə bilər.</string>
+    <string name="read_only_warning">Fayl menecerinizdən asılı olaraq, KeePassDS cihazınızın yaddaşına yazmasına icazə verilməyə bilər.</string>
     <string name="contains_duplicate_uuid">Məluamt bazasında təkrarlanan UUİD-lər mövcuddur.</string>
     <string name="contains_duplicate_uuid_procedure">Təkrarlananlar üçün yeni UUİD-lər yaradaraq problemi həll edib davam et istəyirsinizmi?</string>
     <string name="search_mode">Axtarış modu</string>
@@ -496,7 +496,7 @@
     <string name="warning_no_encryption_key">Şifrələmə açarı olmadan davam edilsinmi?</string>
     <string name="warning_permanently_delete_nodes">Seçilmiş şəbəkə nöqtələri qalıcı olaraq silinsinmi?</string>
     <string name="warning_empty_recycle_bin">Zibil qutusundakı bütün şəbəkə nöqtələri qalıcı olaraq silinsinmi?</string>
-    <string name="warning_file_too_big">KeePassDX məlumat bazası sadəcə kiçik köməkçi faylları (PGP açar faylları kimi) ehtiva edə bilər.\n\nMəlumat bazanızın bu yükləməylə həcmi çox arta və performansı aşağı düşə bilər.</string>
+    <string name="warning_file_too_big">KeePassDS məlumat bazası sadəcə kiçik köməkçi faylları (PGP açar faylları kimi) ehtiva edə bilər.\n\nMəlumat bazanızın bu yükləməylə həcmi çox arta və performansı aşağı düşə bilər.</string>
     <string name="warning_replace_file">Bu faylın yüklənməsi mövcud olanı əvəzləyəcəkdir.</string>
     <string name="warning_password_encoding">Məlumat bazası faylındakı mətn kodlama formatından xaric şifrə hərflərindən (simvol) istifadə etməkdən yayının (tanınmayan hərflər (simvollar) eyni hərfə çevrilir).</string>
     <string name="warning_database_read_only">Məlumat bazasındakı dəyişiklikləri yadda saxlamaq üçün faylların yazılmasına icazə verin</string>
@@ -537,7 +537,7 @@
     <string name="monospace_font_fields_enable_summary">Hərflərin (simvol) daha yaxşı görünməsi üçün sahələrdə (bölmə) istifadə olunan fontu dəyişdirin</string>
     <string name="allow_copy_password_title">Mübadilə buferi güvəni</string>
     <string name="magic_keyboard_explanation_summary">Şifrə və bütün şəxsiyyət məlumatlarının daxil olduğu özəl klaviaturanı aktivləşdirin</string>
-    <string name="keyboard_selection_entry_summary">KeePassDX-də bir şifrəyə baxarkən, Magikeyboard-da həmin şifrəni göstər</string>
+    <string name="keyboard_selection_entry_summary">KeePassDS-də bir şifrəyə baxarkən, Magikeyboard-da həmin şifrəni göstər</string>
     <string name="keyboard_save_search_info_summary">Gələcəkdə daha asan istifadələr üçün əl ilə şifrə seçimi edərkən paylaşılan məlumatları yadda saxlamağa çalışın</string>
     <string name="keyboard_entry_timeout_summary">Klaviatura şifrəsini təmizləmək üçün taym-aut</string>
     <string name="keyboard_auto_go_action_title">Avtomatik düymə funksiyası (hərəkəti)</string>

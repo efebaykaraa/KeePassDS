@@ -93,7 +93,7 @@
     <string name="file_manager_install_description">Manajer file yang menerima ACTION_CREATE_DOCUMENT ACTION_OPEN_DOCUMENT izin diperlukan untuk membuat, membuka, dan menyimpan file basis data.</string>
     <string name="otp_type">Jenis OTP</string>
     <string name="entry_setup_otp">Penyiapan Sandi Sekali Pakai (OTP)</string>
-    <string name="error_can_not_handle_uri">Tidak bisa menangani URI ini di KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Tidak bisa menangani URI ini di KeePassDS.</string>
     <string name="error_arc4">Stream Cipher Arcfour tidak didukung.</string>
     <string name="entry_user_name">Nama Pengguna</string>
     <string name="entry_url">Tautan</string>
@@ -124,7 +124,7 @@
     <string name="entry_cancel">Batalkan</string>
     <string name="entry_accessed">Diakses</string>
     <string name="html_about_contribution">Untuk &lt;strong&gt;menjaga kebebasan kami&lt;/strong&gt;, &lt;strong&gt;memperbaiki bug&lt;/strong&gt;, &lt;strong&gt; menambah fitur&lt;/strong&gt; dan &lt;strong&gt;agar selalu aktif&lt;/strong&gt;, kami mengandalkan &lt;strong&gt; kontribusi&lt;/strong&gt;.</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft &lt;strong&gt;open source&lt;/strong&gt; dan &lt;strong&gt;tanpa iklan&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft &lt;strong&gt;open source&lt;/strong&gt; dan &lt;strong&gt;tanpa iklan&lt;/strong&gt;.
 \nTersedia apa adanya, di bawah lisensi &lt;strong&gt;GPLv3&lt;/strong&gt;, tanpa jaminan apa pun.</string>
     <string name="default_checkbox">Gunakan sebagai basis data standar</string>
     <string name="decrypting_db">Mendekripsi konten basis data…</string>
@@ -192,7 +192,7 @@
     <string name="selection_mode">Mode seleksi</string>
     <string name="contains_duplicate_uuid_procedure">Selesaikan masalah dengan menghasilkan UUID baru, lanjutkan\?</string>
     <string name="contains_duplicate_uuid">Basis data berisi UUID yang terduplikat.</string>
-    <string name="read_only_warning">Tergantung pada manajer file Anda, KeePassDX mungkin tidak diizinkan untuk menulis di penyimpanan Anda.</string>
+    <string name="read_only_warning">Tergantung pada manajer file Anda, KeePassDS mungkin tidak diizinkan untuk menulis di penyimpanan Anda.</string>
     <string name="read_only">Terlindung dari penulisan</string>
     <string name="protection">Perlindungan</string>
     <string name="progress_title">Sedang bekerja…</string>
@@ -347,11 +347,11 @@
     <string name="keyboard_notification_entry_clear_close_title">Bersihkan saat menutup</string>
     <string name="keyboard_notification_entry_summary">Tampilkan notifikasi ketika entri tersedia</string>
     <string name="keyboard_notification_entry_title">Info notifikasi</string>
-    <string name="keyboard_selection_entry_summary">Saat menampilkan entri dalam KeePassDX, isi Magikeyboard dengan entrinya</string>
+    <string name="keyboard_selection_entry_summary">Saat menampilkan entri dalam KeePassDS, isi Magikeyboard dengan entrinya</string>
     <string name="keyboard_selection_entry_title">Pilihan entri</string>
     <string name="keyboard_entry_category">Entri</string>
     <string name="keyboard_setting_label">Pengaturan Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_name">Magikeyboard</string>
     <string name="device_keyboard_setting_title">Pengaturan papan tik perangkat</string>
     <string name="education_add_attachment_title">Tambah lampiran</string>
@@ -397,7 +397,7 @@
     <string name="success_export_app_properties">Pengaturan aplikasi diekspor</string>
     <string name="error_import_app_properties">Galat ketika mengimpor pengaturan aplikasi.</string>
     <string name="success_import_app_properties">Pengaturan aplikasi diimpor</string>
-    <string name="description_app_properties">Setelan KeePassDX untuk mengelola pengaturan aplikasi</string>
+    <string name="description_app_properties">Setelan KeePassDS untuk mengelola pengaturan aplikasi</string>
     <string name="export_app_properties_summary">Buat sebuah berkas untuk mengekspor pengaturan aplikasi</string>
     <string name="export_app_properties_title">Ekspor pengaturan aplikasi</string>
     <string name="import_app_properties_summary">Pilih sebuah berkas untuk mengimpor pengaturan aplikasi</string>
@@ -417,7 +417,7 @@
     <string name="autofill_preference_title">Pengaturan isi otomatis</string>
     <string name="set_credential_provider_service_title">Setel layanan isi otomatis secara default</string>
     <string name="autofill_explanation_summary">Konfigurasikan autofill untuk mengisi formulir di aplikasi lain dengan cepat</string>
-    <string name="autofill_sign_in_prompt">Masuk dengan KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Masuk dengan KeePassDS</string>
     <string name="autofill">Isi otomatis</string>
     <string name="general">Umum</string>
     <string name="device_credential">Kredensial perangkat</string>
@@ -715,8 +715,8 @@
     <string name="education_user_verification_title">Verifikasi untuk tindakan sensitif</string>
     <string name="education_user_verification_summary">Ubah mode verifikasi pengguna untuk sesi ini. \\\n \\\n\\\"Verifikasi Pengguna Diaktifkan\\\" memverifikasi tindakan pada field yang dilindungi dan pengaturan basis data. \\\n\\\"Verifikasi Pengguna Dinonaktifkan\\\" memungkinkan Anda mengubah data apa pun di basis data Anda tanpa verifikasi.</string>
     <string name="passkey">Passkey</string>
-    <string name="credential_provider_service_name">Penyedia Kredensial KeePassDX</string>
-    <string name="credential_provider_database_username">Basis Data KeePassDX</string>
+    <string name="credential_provider_service_name">Penyedia Kredensial KeePassDS</string>
+    <string name="credential_provider_database_username">Basis Data KeePassDS</string>
     <string name="credential_provider_locked_database_description">Pilih untuk membuka kunci</string>
     <string name="passkey_creation_description">Simpan passkey di entri baru</string>
     <string name="passkey_update_description">Perbarui passkey di %1$s</string>

@@ -19,7 +19,7 @@
 --><resources>
     <string name="feedback">Відгук</string>
     <string name="homepage">Домівка</string>
-    <string name="about_description">KeePassDX — Android-версія менеджера паролів KeePass.</string>
+    <string name="about_description">KeePassDS — Android-версія менеджера паролів KeePass.</string>
     <string name="accept">Прийняти</string>
     <string name="add_entry">Додати запис</string>
     <string name="add_group">Додати групу</string>
@@ -39,7 +39,7 @@
     <string name="decrypting_db">Розшифрування вмісту бази даних…</string>
     <string name="default_checkbox">Встановити типовою базою даних</string>
     <string name="digits">Цифри</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft є застосунком з &lt;strong&gt;відкритим програмним кодом&lt;/strong&gt; та &lt;strong&gt;не містить реклами&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft є застосунком з &lt;strong&gt;відкритим програмним кодом&lt;/strong&gt; та &lt;strong&gt;не містить реклами&lt;/strong&gt;.
 \nЗастосунок постачається як є, на умовах ліцензії &lt;strong&gt;GPLv3&lt;/strong&gt;, без будь-яких гарантій.</string>
     <string name="select_database_file">Відкрити наявне сховище</string>
     <string name="entry_accessed">Доступ</string>
@@ -56,7 +56,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Ім\'я користувача</string>
     <string name="error_arc4">Потокове шифрування Arcfour не підтримується.</string>
-    <string name="error_can_not_handle_uri">Не вдалось обробити цей URI в KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Не вдалось обробити цей URI в KeePassDS.</string>
     <string name="error_file_not_create">Не вдалося створити нотатку.</string>
     <string name="error_invalid_db">Неможливо прочитати базу даних.</string>
     <string name="error_invalid_path">Переконайтеся у правильності шляху.</string>
@@ -83,7 +83,7 @@
     <string name="list_size_summary">Розмір тексту у переліку груп</string>
     <string name="loading_database">Завантаження бази даних…</string>
     <string name="lowercase">Малі літери</string>
-    <string name="about">Про KeePassDX</string>
+    <string name="about">Про KeePassDS</string>
     <string name="menu_change_key_settings">Змінити головний ключ</string>
     <string name="settings">Налаштування</string>
     <string name="menu_database_settings">Налаштування бази даних</string>
@@ -166,7 +166,7 @@
     <string name="selection_mode">Режим вибору</string>
     <string name="contains_duplicate_uuid">База даних містить дублікати UUID.</string>
     <string name="contains_duplicate_uuid_procedure">Розв\'язати проблему, створивши нові UUID для дублікатів щоб продовжити\?</string>
-    <string name="read_only_warning">Щоб вносити зміни, KeePassDX потребує дозволу на запис до вашого сховища.</string>
+    <string name="read_only_warning">Щоб вносити зміни, KeePassDS потребує дозволу на запис до вашого сховища.</string>
     <string name="read_only">Захищено від запису</string>
     <string name="protection">Захист</string>
     <string name="auto_focus_search_summary">Відкривати пошук під час відкриття бази даних</string>
@@ -328,11 +328,11 @@
     <string name="keyboard_notification_entry_clear_close_title">Очищати під час закриття</string>
     <string name="keyboard_notification_entry_summary">Показувати сповіщення, коли запис доступний</string>
     <string name="keyboard_notification_entry_title">Інформаційне сповіщення</string>
-    <string name="keyboard_selection_entry_summary">Під час перегляду запису в KeePassDX заповнювати Magikeyboard цим записом</string>
+    <string name="keyboard_selection_entry_summary">Під час перегляду запису в KeePassDS заповнювати Magikeyboard цим записом</string>
     <string name="keyboard_selection_entry_title">Вибір запису</string>
     <string name="keyboard_entry_category">Запис</string>
     <string name="keyboard_setting_label">Налаштування Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_name">Magikeyboard</string>
     <string name="magic_keyboard_explanation_summary">Увімкнути власну клавіатуру для заповнення ваших паролів та інших полів ідентифікації</string>
     <string name="magic_keyboard_title">Magikeyboard</string>
@@ -388,7 +388,7 @@
     <string name="autofill_preference_title">Налаштування автозаповнення</string>
     <string name="set_credential_provider_service_title">Встановити типовою службою автозаповнення</string>
     <string name="autofill_explanation_summary">Налаштуйте автозаповнення для швидкого заповнення форм в інших застосунках</string>
-    <string name="autofill_sign_in_prompt">Увійти за допомогою KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Увійти за допомогою KeePassDS</string>
     <string name="autofill">Автозаповнення</string>
     <string name="general">Загальні</string>
     <string name="biometric">Біометричний ключ</string>
@@ -531,7 +531,7 @@
     <string name="success_export_app_properties">Налаштування застосунку експортовано</string>
     <string name="error_import_app_properties">Помилка під час імпорту налаштувань застосунку.</string>
     <string name="success_import_app_properties">Налаштування застосунку імпортовано</string>
-    <string name="description_app_properties">Властивості KeePassDX для керування налаштування застосунку</string>
+    <string name="description_app_properties">Властивості KeePassDS для керування налаштування застосунку</string>
     <string name="export_app_properties_summary">Створити файл для експорту налаштувань застосунку</string>
     <string name="export_app_properties_title">Експорт налаштувань застосунку</string>
     <string name="import_app_properties_summary">Виберіть файл для імпорту налаштувань застосунку</string>
@@ -722,12 +722,12 @@
     <string name="passkeys_backup_state_summary">Показувати, що облікові дані резервно копіюються та захищені від втрати одного пристрою</string>
     <string name="credential_provider_service_subtitle">Ключі доступу, постачальник даних для автозаповнення</string>
     <string name="passkey">Ключ доступу</string>
-    <string name="credential_provider_service_name">Постачальник облікових даних KeePassDX</string>
+    <string name="credential_provider_service_name">Постачальник облікових даних KeePassDS</string>
     <string name="passkey_creation_description">Зберегти ключ доступу у новому записі</string>
     <string name="passkey_update_description">Оновити ключ доступу в %1$s</string>
     <string name="passkey_selection_username">Ключ доступу не знайдено</string>
     <string name="passkey_selection_description">Вибрати наявний ключ доступу</string>
-    <string name="credential_provider_database_username">База даних KeePassDX</string>
+    <string name="credential_provider_database_username">База даних KeePassDS</string>
     <string name="credential_provider_locked_database_description">Виберіть, щоб розблокувати</string>
     <string name="passkey_username">Ім\'я користувача ключа доступу</string>
     <string name="passkey_private_key">Приватний ключ ключа доступу</string>

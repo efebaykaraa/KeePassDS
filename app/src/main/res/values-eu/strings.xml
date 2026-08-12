@@ -43,7 +43,7 @@
     <string name="decrypting_db">Datu-basearen edukia deszifratzen…</string>
     <string name="default_checkbox">Erabili lehenetsitako datu-base gisa</string>
     <string name="digits">Digituak</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft &lt;strong&gt;kode irekiko&lt;/strong&gt; eta &lt;strong&gt;iragarki gabekoa da&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft &lt;strong&gt;kode irekiko&lt;/strong&gt; eta &lt;strong&gt;iragarki gabekoa da&lt;/strong&gt;.
 \n&lt;strong&gt;GPLv3&lt;/strong&gt; lizentziapean banatu da, hori dela eta ez dakar inolako bermerik.</string>
     <string name="select_database_file">Ireki aurrez sortutako kutxa gotorra</string>
     <string name="entry_accessed">Atzituta</string>
@@ -61,7 +61,7 @@
     <string name="entry_url">URLa</string>
     <string name="entry_user_name">Erabiltzaile-izena</string>
     <string name="error_arc4">Ez dago euskarririk Arcfour fluxu-zifraketarako.</string>
-    <string name="error_can_not_handle_uri">Ezin izan da KeePassDXen URI hau kudeatu.</string>
+    <string name="error_can_not_handle_uri">Ezin izan da KeePassDSen URI hau kudeatu.</string>
     <string name="error_file_not_create">Ezin izan da fitxategia sortu.</string>
     <string name="error_invalid_db">Ezin izan da datu-basea irakurri.</string>
     <string name="error_invalid_path">Egiaztatu bide-izena zuzena dela.</string>
@@ -302,7 +302,7 @@
     <string name="allow_copy_password_warning">Abisua: Arbela aplikazio guztiek partekatzen dute. Datu sentikorrak kopiatzen badira, beste software batek berreskura ditzake.</string>
     <string name="templates">Txantiloiak</string>
     <string name="device_keyboard_setting_title">Gailuaren teklatuaren ezarpenak</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="magic_keyboard_explanation_summary">Aktibatu zure pasahitzak eta identitate eremuak errez beteko dituen pertsonalizatutako teklatua</string>
     <string name="enter">Sartu</string>
     <string name="autofill_close_database_title">Itxi datu-basea</string>
@@ -317,7 +317,7 @@
     <string name="list_entries_show_username_summary">Erakutsi erabiltzaileen izenak sarrera zerrendetan</string>
     <string name="search_mode">Bilaketa modua</string>
     <string name="contains_duplicate_uuid_procedure">Arazoa konpondu UUID berriak sortuz errepikatutakoek jarrai dezaten\?</string>
-    <string name="description_app_properties">KeePassDXen ezaugarriak aplikazioen ezarpenak kudeatzeko</string>
+    <string name="description_app_properties">KeePassDSen ezaugarriak aplikazioen ezarpenak kudeatzeko</string>
     <string name="error_upload_file">Errore bat gertatu da fitxategiko datuak kargatzean.</string>
     <string name="error_duplicate_file">Fitxategiko datuak jadanik existitzen dira.</string>
     <string name="error_remove_file">Fitxategiko datuak ezabatzean errorea gertatu da.</string>
@@ -348,7 +348,7 @@
     <string name="menu_restore_entry_history">Berrezarri historiala</string>
     <string name="auto_focus_search_summary">Eskatu bilaketa bat datu-base bat irekitzean</string>
     <string name="subdomain_search_summary">Bilatu web domeinuak azpi-domeinu murrizketekin</string>
-    <string name="read_only_warning">Zure fitxategi nabigatzailearen arabera, KeePassDXek ez du baimenduta datuak idaztea.</string>
+    <string name="read_only_warning">Zure fitxategi nabigatzailearen arabera, KeePassDSek ez du baimenduta datuak idaztea.</string>
     <string name="save_mode">Gorde modua</string>
     <string name="selection_mode">Hautaketa modua</string>
     <string name="remember_database_locations_title">Gogoratu datu-baseen kokalekuak</string>
@@ -444,7 +444,7 @@
     <string name="keyboard_setting_label">Magikeyboarden ezarpenak</string>
     <string name="keyboard_entry_category">Sarrera</string>
     <string name="keyboard_selection_entry_title">Sarrera hautaketa</string>
-    <string name="keyboard_selection_entry_summary">KeePassDXekin sarrera bat ikustean, bete sarrera Magikeyboard erabiliz</string>
+    <string name="keyboard_selection_entry_summary">KeePassDSekin sarrera bat ikustean, bete sarrera Magikeyboard erabiliz</string>
     <string name="keyboard_notification_entry_title">Jakinarazpenari buruzko informazioa</string>
     <string name="keyboard_save_search_info_title">Gorde partekatutako informazioa</string>
     <string name="keyboard_notification_entry_clear_close_summary">Itxi datu-basea jakinarazpena ixtean</string>
@@ -481,7 +481,7 @@
     <string name="encrypted_value_stored">Zifratutako pasahitza gordeta</string>
     <string name="unavailable">Datu-base honek ez du biltegiratuta kredentzialik.</string>
     <string name="menu_appearance_settings">Itxura</string>
-    <string name="autofill_sign_in_prompt">KeePassDXekin erregistratu</string>
+    <string name="autofill_sign_in_prompt">KeePassDSekin erregistratu</string>
     <string name="autofill_explanation_summary">Gaitu betetze automatikoa beste aplikazioetako formularioak errez betetzeko</string>
     <string name="device_unlock">Gailua desblokeatu</string>
     <string name="device_unlock_delete_all_key_warning">Ezabatu ezagutze desblokeo aurreratuaren zifraketa gako guztiak\?</string>

@@ -40,7 +40,7 @@
     <string name="decrypting_db">Desxifrant la base de dades…</string>
     <string name="default_checkbox">Utilitza com a base de dades per defecte</string>
     <string name="digits">Dígits</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft és &lt;strong&gt; programari lliure &lt;/strong&gt; i &lt;strong&gt;sense anuncis&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft és &lt;strong&gt; programari lliure &lt;/strong&gt; i &lt;strong&gt;sense anuncis&lt;/strong&gt;.
 \nEs proporciona tal com està, sota una llicència &lt;strong&gt;GPLv3&lt;/strong&gt;, sense cap garantia.</string>
     <string name="select_database_file">Obre una caixa forta existent</string>
     <string name="entry_accessed">Accedida</string>
@@ -57,7 +57,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Nom d’usuari</string>
     <string name="error_arc4">No s’admet el xifratge de flux Arcfour.</string>
-    <string name="error_can_not_handle_uri">El KeePassDX no pot gestionar aquest URI.</string>
+    <string name="error_can_not_handle_uri">El KeePassDS no pot gestionar aquest URI.</string>
     <string name="error_file_not_create">No s’ha pogut crear el fitxer.</string>
     <string name="error_invalid_db">No s’ha pogut llegir la base de dades.</string>
     <string name="error_invalid_path">Assegureu-vos que el camí és correcte.</string>
@@ -168,7 +168,7 @@
     <string name="password_size_title">Mida de la contrasenya generada</string>
     <string name="autofill_preference_title">Paràmetres d\'autocompleció</string>
     <string name="autofill_explanation_summary">Activa l\'autocompleció per a omplir ràpidament formularis en altres aplicacions</string>
-    <string name="autofill_sign_in_prompt">Inicia sessió amb KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Inicia sessió amb KeePassDS</string>
     <string name="autofill">Autocompleta</string>
     <string name="general">General</string>
     <string name="biometric">Biomètric</string>
@@ -199,7 +199,7 @@
     <string name="selection_mode">Mode de selecció</string>
     <string name="contains_duplicate_uuid_procedure">Voleu resoldre el problema creant nous UUIDs per als duplicats per a continuar\?</string>
     <string name="contains_duplicate_uuid">La base de dades conté UUIDs duplicats.</string>
-    <string name="read_only_warning">Depenent del vostre gestor de fitxers, KeePassDX podria no tenir permís per a escriure en l\'espai d\'emmagatzematge.</string>
+    <string name="read_only_warning">Depenent del vostre gestor de fitxers, KeePassDS podria no tenir permís per a escriure en l\'espai d\'emmagatzematge.</string>
     <string name="read_only">Protegit contra escriptura</string>
     <string name="protection">Protecció</string>
     <string name="auto_focus_search_summary">Sol·licita una cerca quan s\'obre una base de dades</string>
@@ -413,7 +413,7 @@
     <string name="remember_hardware_key_summary">Recorda les claus físiques que s\'han usat</string>
     <string name="token">Testimoni</string>
     <string name="debit_credit_card">Targeta de Dèbit / Crèdit</string>
-    <string name="description_app_properties">Propietats de KeePassDX per administrar la configuració de l\'aplicació</string>
+    <string name="description_app_properties">Propietats de KeePassDS per administrar la configuració de l\'aplicació</string>
     <string name="menu_save_copy_to">Desar còpia a …</string>
     <string name="ssid">SSID</string>
     <string name="allow_copy_password_warning">Alerta: El porta-retalls és compartit per totes les aplicacions. Si es copien dades sensibles, altres programes poden veure-ho.</string>
@@ -500,9 +500,9 @@
     <string name="temp_device_unlock_enable_title">Desbloqueig temporal del dispositiu</string>
     <string name="temp_device_unlock_enable_summary">No emmagatzemeu cap contingut xifrat per utilitzar el desbloqueig del dispositiu</string>
     <string name="database_data_remove_unlinked_attachments_summary">Elimina els adjunts continguts a la base de dades però no vinculats a una entrada</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_selection_entry_title">Selecció d\'entrada</string>
-    <string name="keyboard_selection_entry_summary">Quan es visualitzi una entrada a KeePassDX, emplena el Magikeyboard amb aquesta entrada</string>
+    <string name="keyboard_selection_entry_summary">Quan es visualitzi una entrada a KeePassDS, emplena el Magikeyboard amb aquesta entrada</string>
     <string name="keyboard_notification_entry_clear_close_title">Neteja en tancar</string>
     <string name="keyboard_entry_timeout_summary">Temps d\'espera per netejar l\'entrada del teclat</string>
     <string name="keyboard_keys_category">Tecles</string>

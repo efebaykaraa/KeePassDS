@@ -46,7 +46,7 @@
     <string name="decrypting_db">데이터베이스 컨텐츠 암호 해독 중…</string>
     <string name="default_checkbox">기본 데이터베이스로 사용</string>
     <string name="digits">단위</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft는 보증이 적용되지 않습니다; 이것은 &lt;strong&gt;자유 소프트웨어&lt;/strong&gt;이며, &lt;strong&gt;광고가 없습니다&lt;/strong&gt;. \n이 것은 보증 없이 있는 그대로, &lt;strong&gt;GPL 버전 3&lt;/strong&gt; 라이선스로 제공됩니다.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft는 보증이 적용되지 않습니다; 이것은 &lt;strong&gt;자유 소프트웨어&lt;/strong&gt;이며, &lt;strong&gt;광고가 없습니다&lt;/strong&gt;. \n이 것은 보증 없이 있는 그대로, &lt;strong&gt;GPL 버전 3&lt;/strong&gt; 라이선스로 제공됩니다.</string>
     <string name="entry_accessed">접근됨</string>
     <string name="entry_cancel">취소</string>
     <string name="entry_notes">노트</string>
@@ -62,7 +62,7 @@
     <string name="entry_url">링크</string>
     <string name="entry_user_name">아이디</string>
     <string name="error_arc4">Arcfour 스트림 암호는 지원되지 않습니다.</string>
-    <string name="error_can_not_handle_uri">KeePassDX에서는 이 URI를 처리할 수 없습니다.</string>
+    <string name="error_can_not_handle_uri">KeePassDS에서는 이 URI를 처리할 수 없습니다.</string>
     <string name="error_file_not_create">파일을 생성할 수 없음.</string>
     <string name="error_invalid_db">데이터베이스를 읽을 수 없음.</string>
     <string name="error_invalid_path">경로가 확실한지 확인하십시오.</string>
@@ -131,7 +131,7 @@
     <string name="progress_title">작업 중…</string>
     <string name="protection">보호</string>
     <string name="read_only">쓰기 보호됨</string>
-    <string name="read_only_warning">KeePassDX는 데이터베이스를 수정하기 위해 쓰기 권한이 필요합니다.</string>
+    <string name="read_only_warning">KeePassDS는 데이터베이스를 수정하기 위해 쓰기 권한이 필요합니다.</string>
     <string name="content_description_remove_from_list">삭제</string>
     <string name="root">루트</string>
     <string name="encryption_explanation">데이터베이스 암호화 알고리즘이 모든 데이터에 적용됩니다</string>
@@ -287,7 +287,7 @@
     <string name="remember_database_locations_title">데이터베이스 위치를 기억</string>
     <string name="show_recent_files_title">최근 파일을 표시</string>
     <string name="show_recent_files_summary">최근 데이터베이스의 위치를 표시</string>
-    <string name="description_app_properties">앱 설정을 관리하기 위한 KeePassDX 속성</string>
+    <string name="description_app_properties">앱 설정을 관리하기 위한 KeePassDS 속성</string>
     <string name="filter">필터</string>
     <string name="sort_db">순서 지정 없음</string>
     <string name="sort_title">제목</string>
@@ -376,7 +376,7 @@
     <string name="lock_database_show_button_title">잠금 버튼 표시</string>
     <string name="unlock">잠금 해제</string>
     <string name="lock">잠금</string>
-    <string name="autofill_sign_in_prompt">KeePassDX로 로그인</string>
+    <string name="autofill_sign_in_prompt">KeePassDS로 로그인</string>
     <string name="password_size_title">생성된 패스워드 길이</string>
     <string name="autofill_preference_title">자동 완성 설정</string>
     <string name="set_credential_provider_service_title">기본 자동완성 서비스 설정</string>

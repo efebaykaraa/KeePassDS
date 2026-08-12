@@ -42,7 +42,7 @@
     <string name="decrypting_db">Puretaan tietokannan sisältöä…</string>
     <string name="default_checkbox">Käytä tätä oletustietokantana</string>
     <string name="digits">Numerot</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft on &lt;strong&gt;avointa lähdekoodia&lt;/strong&gt; ja &lt;strong&gt;mainokseton&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft on &lt;strong&gt;avointa lähdekoodia&lt;/strong&gt; ja &lt;strong&gt;mainokseton&lt;/strong&gt;.
 \nSe tarjotaan sellaisenaan &lt;strong&gt;GPLv3&lt;/strong&gt; lisenssillä ja ilman takuuta.</string>
     <string name="select_database_file">Avaa olemassaoleva holvi</string>
     <string name="entry_accessed">Käytetty</string>
@@ -60,7 +60,7 @@
     <string name="entry_url">URL-osoite</string>
     <string name="entry_user_name">Käyttäjänimi</string>
     <string name="error_arc4">Arcfour stream cipher ei ole tuettu.</string>
-    <string name="error_can_not_handle_uri">KeePassDX ei osaa käsitellä tätä osoitetta.</string>
+    <string name="error_can_not_handle_uri">KeePassDS ei osaa käsitellä tätä osoitetta.</string>
     <string name="error_file_not_create">Tiedoston luonti epäonnistui.</string>
     <string name="error_invalid_db">Tietokantaa ei pystytty lukemaan.</string>
     <string name="error_invalid_path">Varmista että polku on oikein.</string>
@@ -233,7 +233,7 @@
     <string name="encryption_explanation">Salasanatietokannan salausalgoritmi, jota käytetään kaikelle datalle</string>
     <string name="password_size_title">Generoidun salasanan pituus</string>
     <string name="set_credential_provider_service_title">Aseta oletus automaattiselle täytölle</string>
-    <string name="autofill_sign_in_prompt">Kirjaudu sisään KeePassDX:llä</string>
+    <string name="autofill_sign_in_prompt">Kirjaudu sisään KeePassDS:llä</string>
     <string name="autofill">Automaattinen täyttö</string>
     <string name="general">Yleinen</string>
     <string name="encrypted_value_stored">Salattu salasana varastoitu</string>
@@ -259,7 +259,7 @@
     <string name="selection_mode">Valintatila</string>
     <string name="contains_duplicate_uuid_procedure">Ratkaise ongelma generoimalla uudet UUID:t kaksoiskappaleilla jatkaaksesi\?</string>
     <string name="contains_duplicate_uuid">Tietokanta sisältää päällekkäisiä UUID-tunnuksia.</string>
-    <string name="read_only_warning">Riippuen tiedostoselaimestasi, KeePassDX:llä ei välttämättä ole oikeuksia kirjoittaa tallennustilaasi.</string>
+    <string name="read_only_warning">Riippuen tiedostoselaimestasi, KeePassDS:llä ei välttämättä ole oikeuksia kirjoittaa tallennustilaasi.</string>
     <string name="read_only">Kirjoitussuojattu</string>
     <string name="subdomain_search_summary">Hae verkkodomaineja alidomainrajoituksilla</string>
     <string name="subdomain_search_title">Alidomainhaku</string>
@@ -428,7 +428,7 @@
     <string name="save_mode">Tallennustila</string>
     <string name="export_app_properties_summary">Luo tiedosto, johon sovellusasetukset viedään</string>
     <string name="export_app_properties_title">Vie sovellusasetukset</string>
-    <string name="description_app_properties">KeePassDX-ominaisuudet sovellusasetusten hallintaan</string>
+    <string name="description_app_properties">KeePassDS-ominaisuudet sovellusasetusten hallintaan</string>
     <string name="success_import_app_properties">Sovellusasetukset tuotu</string>
     <string name="error_export_app_properties">Virhe sovellusasetuksia viedessä.</string>
     <string name="success_export_app_properties">Sovellusasetukset viety</string>

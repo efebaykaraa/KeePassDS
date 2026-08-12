@@ -134,7 +134,7 @@
     <string name="keyboard_selection_entry_title">Izbor unosa</string>
     <string name="keyboard_entry_category">Unos</string>
     <string name="keyboard_setting_label">Magikeyboard postavke</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_name">Magikeyboard</string>
     <string name="device_keyboard_setting_title">Postavke tastature uređaja</string>
     <string name="magic_keyboard_explanation_summary">Aktivirajte tastaturu koja će ispunjavati polja formi za unos sa Vašim lozinkama i podacima o identitetu</string>
@@ -216,7 +216,7 @@
     <string name="entry_cancel">Otkaži</string>
     <string name="entry_accessed">Pristupljeno</string>
     <string name="html_about_contribution">Kako bismo &lt;strong&gt;zadržali našu slobodu&lt;/strong&gt;, &lt;strong&gt;ispravljali greške&lt;/strong&gt;, &lt;strong&gt;dodavali nove opcije&lt;/strong&gt; i &lt;strong&gt;uvek bili aktivni&lt;/strong&gt;, računamo na Vaš &lt;strong&gt;doprinos&lt;/strong&gt;.</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft je &lt;strong&gt;otvorenog koda&lt;/strong&gt; i &lt;strong&gt;ne sadrži reklame&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft je &lt;strong&gt;otvorenog koda&lt;/strong&gt; i &lt;strong&gt;ne sadrži reklame&lt;/strong&gt;.
 \nPonuđen je onakav kakav jeste, pod &lt;strong&gt;GPLv3&lt;/strong&gt; licencom, bez ikakvih garancija.</string>
     <string name="digits">Znamenke</string>
     <string name="default_checkbox">Koristi kao podrazumevanu bazu podataka</string>
@@ -336,7 +336,7 @@
     <string name="error_import_app_properties">Greška tokom uvoza podešavanja aplikacije.</string>
     <string name="hide_broken_locations_title">Sakrij neispravne veze baze podataka</string>
     <string name="import_app_properties_title">Uvezite podešavanja aplikacije</string>
-    <string name="description_app_properties">KeePassDX svojstva za upravljanje podešavanjima aplikacije</string>
+    <string name="description_app_properties">KeePassDS svojstva za upravljanje podešavanjima aplikacije</string>
     <string name="show_recent_files_summary">Prikaži lokacije nedavnih baza podataka</string>
     <string name="success_import_app_properties">Podešavanja aplikacije su uvezena</string>
     <string name="kdf_explanation">Da bi se generisao ključ za algoritam šifrovanja, glavni ključ se transformiše korišćenjem nasumično slane funkcije izvođenja ključa.</string>
@@ -358,7 +358,7 @@
     <string name="international_bank_account_number">IBAN</string>
     <string name="secure_note">Sigurna beleška</string>
     <string name="error_database_uri_null">URI baze podataka se ne može preuzeti.</string>
-    <string name="read_only_warning">U zavisnosti od vašeg menadžera datoteka, KeePassDX možda neće dozvoliti da upisuje u vašu memoriju.</string>
+    <string name="read_only_warning">U zavisnosti od vašeg menadžera datoteka, KeePassDS možda neće dozvoliti da upisuje u vašu memoriju.</string>
     <string name="sort_menu">Sortiraj</string>
     <string name="auto_type">Automatski unos</string>
     <string name="save_mode">Režim čuvanja</string>

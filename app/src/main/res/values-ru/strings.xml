@@ -42,7 +42,7 @@
     <string name="decrypting_db">Расшифровка базы…</string>
     <string name="default_checkbox">База по умолчанию</string>
     <string name="digits">Цифры</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft — это программное обеспечение &lt;strong&gt;с открытым исходным кодом&lt;/strong&gt; и &lt;strong&gt;без рекламы&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft — это программное обеспечение &lt;strong&gt;с открытым исходным кодом&lt;/strong&gt; и &lt;strong&gt;без рекламы&lt;/strong&gt;.
 \nРаспространяется под лицензией &lt;strong&gt;GPLv3&lt;/strong&gt; без каких-либо гарантий.</string>
     <string name="select_database_file">Открыть базу паролей</string>
     <string name="entry_accessed">Доступ</string>
@@ -60,7 +60,7 @@
     <string name="entry_url">Ссылка</string>
     <string name="entry_user_name">Пользователь</string>
     <string name="error_arc4">Потоковый шифр Arcfour не поддерживается.</string>
-    <string name="error_can_not_handle_uri">Невозможно обработать указанный URI в KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Невозможно обработать указанный URI в KeePassDS.</string>
     <string name="error_file_not_create">Невозможно создать файл.</string>
     <string name="error_invalid_db">Невозможно прочитать базу.</string>
     <string name="error_invalid_path">Убедитесь, что путь указан правильно.</string>
@@ -113,7 +113,7 @@
     <string name="progress_title">Обработка…</string>
     <string name="protection">Защита</string>
     <string name="read_only">Только чтение</string>
-    <string name="read_only_warning">KeePassDX необходимо разрешение на запись, чтобы иметь возможность изменить что-либо в вашей базе.</string>
+    <string name="read_only_warning">KeePassDS необходимо разрешение на запись, чтобы иметь возможность изменить что-либо в вашей базе.</string>
     <string name="content_description_remove_from_list">Убрать из списка</string>
     <string name="root">Корень</string>
     <string name="rounds">Раунды шифрования</string>
@@ -178,7 +178,7 @@
     <string name="menu_appearance_settings">Внешний вид</string>
     <string name="general">Общие</string>
     <string name="autofill">Автозаполнение</string>
-    <string name="autofill_sign_in_prompt">Войти с KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Войти с KeePassDS</string>
     <string name="autofill_explanation_summary">Настройте службу для быстрого заполнения форм в других приложениях</string>
     <string name="set_credential_provider_service_title">Служба автозаполнения</string>
     <string name="password_size_title">Длина создаваемого пароля</string>
@@ -275,7 +275,7 @@
     <string name="icon_pack_choose_title">Набор значков</string>
     <string name="icon_pack_choose_summary">Набор значков, используемый в приложении</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Настройки Magikeyboard</string>
     <string name="build_label">Сборка %1$s</string>
     <string name="keyboard_entry_category">Запись</string>
@@ -297,7 +297,7 @@
     <string name="lock_database_back_root_summary">Блокировка базы нажатием кнопки \"Назад\", если открыт её корневой раздел</string>
     <string name="recycle_bin">Корзина</string>
     <string name="keyboard_selection_entry_title">Выбор записи</string>
-    <string name="keyboard_selection_entry_summary">При отображении записи в KeePassDX подставлять её данные в Magikeyboard</string>
+    <string name="keyboard_selection_entry_summary">При отображении записи в KeePassDS подставлять её данные в Magikeyboard</string>
     <string name="delete_entered_password_title">Удалять пароль</string>
     <string name="delete_entered_password_summary">Забывать введённый пароль после попытки входа в базу</string>
     <string name="content_description_open_file">Открыть файл</string>
@@ -531,7 +531,7 @@
     <string name="success_export_app_properties">Настройки приложения экспортированы</string>
     <string name="error_import_app_properties">Ошибка при импорте настроек приложения.</string>
     <string name="success_import_app_properties">Настройки приложения импортированы</string>
-    <string name="description_app_properties">Управление настройками приложения KeePassDX</string>
+    <string name="description_app_properties">Управление настройками приложения KeePassDS</string>
     <string name="export_app_properties_summary">Создать резервную копию настроек</string>
     <string name="export_app_properties_title">Экспорт настроек</string>
     <string name="import_app_properties_summary">Выбрать резервную копию настроек</string>
@@ -722,12 +722,12 @@
     <string name="passkeys_backup_state_summary">Указывает, резервируются ли учётные данные и защищены ли они от потери единственного устройства</string>
     <string name="credential_provider_service_subtitle">Ключи доступа, поставщик учётных данных для автозаполнения</string>
     <string name="passkey">Ключ доступа</string>
-    <string name="credential_provider_service_name">Поставщик учётных данных KeePassDX</string>
+    <string name="credential_provider_service_name">Поставщик учётных данных KeePassDS</string>
     <string name="passkey_creation_description">Сохранить ключ доступа в новой записи</string>
     <string name="passkey_update_description">Обновить ключ доступа в %1$s</string>
     <string name="passkey_selection_username">Ключ доступа не найден</string>
     <string name="passkey_selection_description">Выберите существующий ключ доступа</string>
-    <string name="credential_provider_database_username">База KeePassDX</string>
+    <string name="credential_provider_database_username">База KeePassDS</string>
     <string name="credential_provider_locked_database_description">Выберите для разблокировки</string>
     <string name="passkey_username">Пользователь ключа доступа</string>
     <string name="passkey_private_key">Закрытый ключ доступа</string>
@@ -767,6 +767,6 @@
     <string name="show_tags_title">Показывать метки</string>
     <string name="show_tags_summary">Показывать метки в списке записей</string>
     <string name="benchmarking">Тестирование…</string>
-    <string name="keyboard_share_browser">Поделиться из %1$s в KeePassDX</string>
+    <string name="keyboard_share_browser">Поделиться из %1$s в KeePassDS</string>
     <string name="benchmark_calculation">Вычислено за %1$s сек.</string>
 </resources>

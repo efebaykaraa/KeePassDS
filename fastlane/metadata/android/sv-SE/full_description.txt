@@ -1,4 +1,4 @@
-KeePassDX är en <b>lösenordsnyckel- och lösenordshanterare</b> med öppen källkod som låter dig redigera <b>krypterad data i en enda fil</b> i det öppna KeePass-formatet och <b>fylla i formulär på ett säkert sätt</b>. Appen kräver <b>ingen internetanslutning</b> och följer Androids designstandarder. Appen är <b>öppen källkod och reklamfri</b>.
+KeePassDS är en <b>lösenordsnyckel- och lösenordshanterare</b> med öppen källkod som låter dig redigera <b>krypterad data i en enda fil</b> i det öppna KeePass-formatet och <b>fylla i formulär på ett säkert sätt</b>. Appen kräver <b>ingen internetanslutning</b> och följer Androids designstandarder. Appen är <b>öppen källkod och reklamfri</b>.
 
 <b>Funktioner</b>
 
@@ -20,6 +20,6 @@ KeePassDX är en <b>lösenordsnyckel- och lösenordshanterare</b> med öppen kä
 
 Du kan donera eller köpa pro-versionen för bättre service och snabb utveckling av funktioner du vill ha: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Projektet utvecklas ständigt. Kontrollera gärna utvecklingsstatusen för kommande uppdateringar: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Projektet utvecklas ständigt. Kontrollera gärna utvecklingsstatusen för kommande uppdateringar: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Rapportera problem på: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Rapportera problem på: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

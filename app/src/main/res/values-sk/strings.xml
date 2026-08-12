@@ -39,7 +39,7 @@
     <string name="decrypting_db">Dešifrujem obsah databázy…</string>
     <string name="default_checkbox">Použiť ako predvolenú databázu</string>
     <string name="digits">Číslice</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft je &lt;strong&gt;open source&lt;/strong&gt; a &lt;strong&gt;bez reklamy&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft je &lt;strong&gt;open source&lt;/strong&gt; a &lt;strong&gt;bez reklamy&lt;/strong&gt;.
 \nPoskytuje sa tak, ako je, na základe licencie &lt;strong&gt;GPLv3&lt;/strong&gt; bez akejkoľvek záruky.</string>
     <string name="select_database_file">Otvoriť existujúci trezor</string>
     <string name="entry_accessed">Pristupované</string>
@@ -56,7 +56,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Meno používateľa</string>
     <string name="error_arc4">Arcfour stream šifra nie je podporovaná.</string>
-    <string name="error_can_not_handle_uri">KeePassDX nevie použiť túto URI.</string>
+    <string name="error_can_not_handle_uri">KeePassDS nevie použiť túto URI.</string>
     <string name="error_file_not_create">Nepodarilo sa vytvoriť súbor.</string>
     <string name="error_invalid_db">Nepodarilo sa načítať databázu.</string>
     <string name="error_invalid_path">Uistite sa, že cesta je správna.</string>
@@ -243,9 +243,9 @@
     <string name="templates">Šablóny</string>
     <string name="device_keyboard_setting_title">Nastavenia klávesnice zariadenia</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_selection_entry_title">Výber záznamu</string>
-    <string name="keyboard_selection_entry_summary">Pri prezeraní záznamu v KeePassDX naplňte Magikeyboard týmto záznamom</string>
+    <string name="keyboard_selection_entry_summary">Pri prezeraní záznamu v KeePassDS naplňte Magikeyboard týmto záznamom</string>
     <string name="keyboard_notification_entry_title">Informácie o upozornení</string>
     <string name="keyboard_appearance_category">Vzhľad</string>
     <string name="keyboard_key_sound_title">Vydať zvuk pri stlačení tlačidla</string>
@@ -272,7 +272,7 @@
     <string name="menu_file_selection_read_only">Ochrana proti zápisu</string>
     <string name="menu_open_file_read_and_write">Upraviteľné</string>
     <string name="auto_focus_search_title">Rýchle hľadanie</string>
-    <string name="read_only_warning">V závislosti od vášho správcu súborov nemusí KeePassDX povoliť zapisovanie do vášho úložiska.</string>
+    <string name="read_only_warning">V závislosti od vášho správcu súborov nemusí KeePassDS povoliť zapisovanie do vášho úložiska.</string>
     <string name="contains_duplicate_uuid">Databáza obsahuje duplicitné UUID.</string>
     <string name="memory_usage">Využitie pamäte</string>
     <string name="sort_groups_before">Skupiny prvé</string>
@@ -514,7 +514,7 @@
     <string name="warning_empty_password">Pokračovať bez ochrany heslom\?</string>
     <string name="warning_empty_keyfile">Neodporúča sa pridávať prázdny súbor keyfile.</string>
     <string name="autofill">Automatické doplnenie</string>
-    <string name="autofill_sign_in_prompt">Prihláste sa pomocou KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Prihláste sa pomocou KeePassDS</string>
     <string name="autofill_select_entry">Vybrať záznam…</string>
     <string name="lock_database_show_button_title">Zobraziť tlačidlo zámku</string>
     <string name="device_unlock">Odomykanie zariadením</string>

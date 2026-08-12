@@ -58,7 +58,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Uživatelské jméno</string>
     <string name="error_arc4">Arcfour proudová šifra není podporována.</string>
-    <string name="error_can_not_handle_uri">KeePassDX nemůže zpracovat toto URI.</string>
+    <string name="error_can_not_handle_uri">KeePassDS nemůže zpracovat toto URI.</string>
     <string name="error_file_not_create">Soubor se nepodařilo vytvořit.</string>
     <string name="error_invalid_db">Databázi se nepodařilo přečíst.</string>
     <string name="error_invalid_path">Ujistěte se, že je popis umístění správný.</string>
@@ -109,7 +109,7 @@
     <string name="progress_create">Zakládám novou databázi…</string>
     <string name="progress_title">Pracuji…</string>
     <string name="protection">Ochrana</string>
-    <string name="read_only_warning">Ke změně v databáze potřebuje KeePassDX oprávnění pro zápis.</string>
+    <string name="read_only_warning">Ke změně v databáze potřebuje KeePassDS oprávnění pro zápis.</string>
     <string name="content_description_remove_from_list">Odstranit</string>
     <string name="root">Kořen</string>
     <string name="rounds">Transformační průchody</string>
@@ -176,7 +176,7 @@
     <string name="menu_appearance_settings">Vzhled</string>
     <string name="general">Obecné</string>
     <string name="autofill">Samovyplnění</string>
-    <string name="autofill_sign_in_prompt">Přihlásit se s KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Přihlásit se s KeePassDS</string>
     <string name="set_credential_provider_service_title">Služba poskytovatele údajů</string>
     <string name="autofill_explanation_summary">Nastavit automatické vyplnění formulářů za účelem rychlého vyplnění v ostatních aplikacích</string>
     <string name="password_size_title">Délka generovaného hesla</string>
@@ -274,7 +274,7 @@
     <string name="icon_pack_choose_summary">Sada ikon používaných v aplikaci</string>
     <string name="build_label">Sestavení %1$s</string>
     <string name="keyboard_name">Klávesnice Magikeyboard</string>
-    <string name="keyboard_label">Klávesnice Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Klávesnice Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Magikeyboard nastavení</string>
     <string name="keyboard_entry_category">Záznam</string>
     <string name="keyboard_entry_timeout_title">Časový limit</string>
@@ -296,7 +296,7 @@
     <string name="lock_database_back_root_summary">Stiskněte „Zpět“ pro uzamčení databáze, pokud se nacházíte na hlavní obrazovce databáze</string>
     <string name="recycle_bin">Koš</string>
     <string name="keyboard_selection_entry_title">Výběr záznamu</string>
-    <string name="keyboard_selection_entry_summary">Při prohlížení záznamu v KeePassDX zadat záznam do Magikeyboard</string>
+    <string name="keyboard_selection_entry_summary">Při prohlížení záznamu v KeePassDS zadat záznam do Magikeyboard</string>
     <string name="delete_entered_password_title">Smazat heslo</string>
     <string name="delete_entered_password_summary">Smaže heslo zadané po pokusu o připojení k databázi</string>
     <string name="content_description_open_file">Otevřít soubor</string>
@@ -408,7 +408,7 @@
     <string name="hide_broken_locations_title">Skrýt chybné odkazy na databáze</string>
     <string name="hide_broken_locations_summary">Skrýt chybné odkazy v seznamu nedávných databází</string>
     <string name="warning_database_read_only">Udělit právo zápisu pro uložení změn v databázi</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft je &lt;strong&gt;open source&lt;/strong&gt; a &lt;strong&gt;bez reklam&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft je &lt;strong&gt;open source&lt;/strong&gt; a &lt;strong&gt;bez reklam&lt;/strong&gt;.
 \nJe poskytován jak je, pod licencí &lt;strong&gt;GPLv3&lt;/strong&gt;, bez jakékoli záruky.</string>
     <string name="html_about_contribution">Abychom si &lt;strong&gt;udrželi svoji svobodu&lt;/strong&gt;, &lt;strong&gt;mohli opravovat chyby&lt;/strong&gt;, &lt;strong&gt;přidávat nové funkce&lt;/strong&gt; a &lt;strong&gt;byli pořád aktivní&lt;/strong&gt;, počítáme s Vaším &lt;strong&gt;přispěním&lt;/strong&gt;.</string>
     <string name="error_create_database">Nepodařilo se vytvořit soubor databáze.</string>
@@ -530,7 +530,7 @@
     <string name="success_export_app_properties">Nastavení aplikace byla exportována</string>
     <string name="error_import_app_properties">Během importu nastavení aplikace došlo k chybě.</string>
     <string name="success_import_app_properties">Nastavení aplikace byla importována</string>
-    <string name="description_app_properties">Vlastnosti KeePassDX pro správu aplikačních nastavení</string>
+    <string name="description_app_properties">Vlastnosti KeePassDS pro správu aplikačních nastavení</string>
     <string name="export_app_properties_summary">Vytvořte soubor pro export nastavení aplikace</string>
     <string name="export_app_properties_title">Exportovat nastavení aplikace</string>
     <string name="import_app_properties_summary">Vyberte soubor pro import nastavení aplikace</string>
@@ -723,12 +723,12 @@
     <string name="passkeys_backup_state_summary">Uvést, že přihlašovací údaje jsou zálohovány a chráněny proti ztrátě jednoho zařízení</string>
     <string name="credential_provider_service_subtitle">Přístupové klíče, poskytovatel automatického vyplnění</string>
     <string name="passkey">Přístupový klíč</string>
-    <string name="credential_provider_service_name">Poskytovatel údajů KeePassDX</string>
+    <string name="credential_provider_service_name">Poskytovatel údajů KeePassDS</string>
     <string name="passkey_creation_description">Uložit přístupový klíč do nového záznamu</string>
     <string name="passkey_update_description">Aktualizovat přístupový klíč v %1$s</string>
     <string name="passkey_selection_username">Nenalezeny žádné přístupové klíče</string>
     <string name="passkey_selection_description">Vyberte existující přístupový klíč</string>
-    <string name="credential_provider_database_username">Databáze KeePassDX</string>
+    <string name="credential_provider_database_username">Databáze KeePassDS</string>
     <string name="credential_provider_locked_database_description">Vyberte k odemčení</string>
     <string name="passkey_username">Uživatelské jméno přístupového klíče</string>
     <string name="passkey_private_key">Soukromý klíč přístupového klíče</string>
@@ -769,5 +769,5 @@
     <string name="show_tags_summary">Zobrazit štítky v seznamu položek</string>
     <string name="benchmark_calculation">Vypočítat po dobu %1$s s</string>
     <string name="benchmarking">Měření…</string>
-    <string name="keyboard_share_browser">Sdílet z aplikace %1$s do KeePassDX</string>
+    <string name="keyboard_share_browser">Sdílet z aplikace %1$s do KeePassDS</string>
 </resources>

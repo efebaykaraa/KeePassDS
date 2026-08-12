@@ -695,8 +695,8 @@
     <string name="education_user_verification_title">முக்கிய செயல்களுக்கான சரிபார்ப்பு</string>
     <string name="education_user_verification_summary">அமர்வுக்கான பயனர் சரிபார்ப்பு பயன்முறையை மாற்றவும். \n\n\"பயனர் சரிபார்ப்பு இயக்கப்பட்டது\" பாதுகாக்கப்பட்ட புலங்கள் மற்றும் தரவுத்தள அமைப்புகளில் செயல்பாட்டைச் சரிபார்க்கிறது. \n\"பயனர் சரிபார்ப்பு முடக்கப்பட்டது\" என்பது உங்கள் தரவுத்தளத்தில் உள்ள எந்தத் தரவையும் சரிபார்ப்பு இல்லாமல் மாற்ற உங்களை அனுமதிக்கிறது.</string>
     <string name="passkey">பாச்கீ</string>
-    <string name="credential_provider_service_name">KeePassDX நற்சான்றிதழ் வழங்குநர்</string>
-    <string name="credential_provider_database_username">KeePassDX தரவுத்தளம்</string>
+    <string name="credential_provider_service_name">KeePassDS நற்சான்றிதழ் வழங்குநர்</string>
+    <string name="credential_provider_database_username">KeePassDS தரவுத்தளம்</string>
     <string name="credential_provider_locked_database_description">திறக்க தேர்ந்தெடுக்கவும்</string>
     <string name="passkey_creation_description">புதிய நுழைவில் கடவுச்சொல்லை சேமிக்கவும்</string>
     <string name="passkey_update_description">கடவுச்சொல்லை %1$s இல் புதுப்பிக்கவும்</string>

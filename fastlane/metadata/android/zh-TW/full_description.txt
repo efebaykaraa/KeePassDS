@@ -1,4 +1,4 @@
-KeePassDX 是一款開源的 <b>密碼金鑰、密碼保險箱和密碼管理器</b>，它允許以開放的 KeePass 格式在單一檔案中編輯 <b>加密資料</b>，並以安全的方式填寫表單，無需 <b>網路連線</b>，並符合 Android 設計標準。該應用程式 <b>開源</b>、<b>無廣告</b>。
+KeePassDS 是一款開源的 <b>密碼金鑰、密碼保險箱和密碼管理器</b>，它允許以開放的 KeePass 格式在單一檔案中編輯 <b>加密資料</b>，並以安全的方式填寫表單，無需 <b>網路連線</b>，並符合 Android 設計標準。該應用程式 <b>開源</b>、<b>無廣告</b>。
 
 <b>功能</b>
 
@@ -22,4 +22,4 @@ KeePassDX 是一款開源的 <b>密碼金鑰、密碼保險箱和密碼管理器
 
 本專案持續開發與完善中，歡迎關注後續更新進度：<a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-如有任何問題，請至以下頁面回報：<a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+如有任何問題，請至以下頁面回報：<a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

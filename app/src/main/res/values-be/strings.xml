@@ -70,7 +70,7 @@
     <string name="decrypting_db">Расшыфроўка змесціва базы дадзеных…</string>
     <string name="default_checkbox">Выкарыстоўваць як базу дадзеных па змаўчанні</string>
     <string name="digits">Лічбы</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft з\'яўляецца &lt;strong&gt;праграмай з адкрытым зыходным кодам&lt;/strong&gt; і &lt;strong&gt;без рэкламы&lt;/strong&gt;. \nПрадастаўляецца «як ёсць», па ліцэнзіі &lt;strong&gt;GPLv3&lt;/strong&gt;, без якіх-небудзь гарантый.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft з\'яўляецца &lt;strong&gt;праграмай з адкрытым зыходным кодам&lt;/strong&gt; і &lt;strong&gt;без рэкламы&lt;/strong&gt;. \nПрадастаўляецца «як ёсць», па ліцэнзіі &lt;strong&gt;GPLv3&lt;/strong&gt;, без якіх-небудзь гарантый.</string>
     <string name="html_about_privacy">&lt;strong&gt;Карыстальніцкія дадзеныя не атрымліваюцца&lt;/strong&gt;, гэтая праграма не падключаецца да сервераў, працуе толькі лакальна і цалкам паважае прыватнасць карыстальнікаў.</string>
     <string name="html_about_contribution">Каб &lt;strong&gt;захаваць нашу свабоду&lt;/strong&gt;, &lt;strong&gt;выпраўляць памылкі&lt;/strong&gt;, &lt;strong&gt;дадаваць функцыі&lt;/strong&gt; і &lt;strong&gt;заўсёды быць актыўнымі&lt;/strong&gt;, мы разлічваем на ваш &lt;strong&gt;уклад&lt;/strong&gt;.</string>
     <string name="entry_accessed">Доступ</string>
@@ -140,7 +140,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Імя карыстальніка</string>
     <string name="error_arc4">Патокавы шыфр Arcfour не падтрымліваецца.</string>
-    <string name="error_can_not_handle_uri">Не ўдалося апрацаваць гэты URI ў KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Не ўдалося апрацаваць гэты URI ў KeePassDS.</string>
     <string name="error_file_not_create">Не ўдалося стварыць файл.</string>
     <string name="error_invalid_db">Не ўдалося прачытаць базу дадзеных.</string>
     <string name="error_invalid_path">Пераканайцеся, што шлях правільны.</string>
@@ -287,7 +287,7 @@
     <string name="progress_title">Працую…</string>
     <string name="protection">Абарона</string>
     <string name="read_only">Абаронены ад запісу</string>
-    <string name="read_only_warning">У залежнасці ад вашага файлавага мэнэджара, KeePassDX можа не мець дазволу на запіс у сховішча.</string>
+    <string name="read_only_warning">У залежнасці ад вашага файлавага мэнэджара, KeePassDS можа не мець дазволу на запіс у сховішча.</string>
     <string name="contains_duplicate_uuid">База дадзеных змяшчае дублікаты UUID.</string>
     <string name="contains_duplicate_uuid_procedure">Вырашыць праблему шляхам генерацыі новых UUID для дублікатаў, каб працягнуць?</string>
     <string name="search_mode">Рэжым пошуку</string>
@@ -307,7 +307,7 @@
     <string name="import_app_properties_summary">Выберыце файл для імпарту налад праграмы</string>
     <string name="export_app_properties_title">Экспартаваць налады праграмы</string>
     <string name="export_app_properties_summary">Стварыць файл для экспарту налад праграмы</string>
-    <string name="description_app_properties">Уласцівасці KeePassDX для кіравання наладамі праграмы</string>
+    <string name="description_app_properties">Уласцівасці KeePassDS для кіравання наладамі праграмы</string>
     <string name="success_import_app_properties">Налады праграмы імпартаваны</string>
     <string name="error_import_app_properties">Памылка падчас імпарту налад праграмы.</string>
     <string name="success_export_app_properties">Налады праграмы экспартаваны</string>
@@ -396,7 +396,7 @@
     <string name="device_credential">Уліковыя дадзеныя прылады</string>
     <string name="general">Агульнае</string>
     <string name="autofill">Аўтазапаўненне</string>
-    <string name="autofill_sign_in_prompt">Увайсці з дапамогай KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Увайсці з дапамогай KeePassDS</string>
     <string name="autofill_explanation_summary">Наладзьце аўтазапаўненне, каб хутка запаўняць формы ў іншых праграмах</string>
     <string name="autofill_select_entry">Выбраць запіс…</string>
     <string name="autofill_preference_title">Налады аўтазапаўнення</string>
@@ -488,11 +488,11 @@
     <string name="magic_keyboard_explanation_summary">Актываваць карыстальніцкую клавіятуру, якая запаўняе вашыя паролі і ўсе палі ідэнтычнасці</string>
     <string name="device_keyboard_setting_title">Налады клавіятуры прылады</string>
     <string name="keyboard_name">Магічная клавіятура</string>
-    <string name="keyboard_label">Магічная клавіятура (KeePassDX)</string>
+    <string name="keyboard_label">Магічная клавіятура (KeePassDS)</string>
     <string name="keyboard_setting_label">Налады магічнай клавіятуры</string>
     <string name="keyboard_entry_category">Запіс</string>
     <string name="keyboard_selection_entry_title">Выбар запісу</string>
-    <string name="keyboard_selection_entry_summary">Пры праглядзе запісу ў KeePassDX, запоўніце магічную клавіятуру гэтым запісам</string>
+    <string name="keyboard_selection_entry_summary">Пры праглядзе запісу ў KeePassDS, запоўніце магічную клавіятуру гэтым запісам</string>
     <string name="keyboard_notification_entry_title">Інфармацыя аб апавяшчэннях</string>
     <string name="keyboard_notification_entry_summary">Паказваць апавяшчэнне, калі запіс даступны</string>
     <string name="keyboard_save_search_info_title">Захаваць агульную інфармацыю</string>
@@ -693,8 +693,8 @@
     <string name="education_user_verification_title">Праверка для далікатных дзеянняў</string>
     <string name="education_user_verification_summary">Змяніць рэжым праверкі карыстальніка для сеанса.\n\n\"Праверка карыстальніка ўключаная\" правярае дзеянні з ахаванымі палямі і наладамі базы даных.\n\"Праверка карыстальніка выключаная\" дазваляе вам змяняць любыя даныя ў вашай базе даных без праверкі.</string>
     <string name="passkey">Ключ доступу</string>
-    <string name="credential_provider_service_name">Пастаўшчык уліковых даных KeePassDX</string>
-    <string name="credential_provider_database_username">База даных KeePassDX</string>
+    <string name="credential_provider_service_name">Пастаўшчык уліковых даных KeePassDS</string>
+    <string name="credential_provider_database_username">База даных KeePassDS</string>
     <string name="credential_provider_locked_database_description">Абярыце для разблакіроўкі</string>
     <string name="passkey_creation_description">Захаваць ключ доступу ў новым запісе</string>
     <string name="passkey_update_description">Абнавіць ключ доступу ў %1$s</string>

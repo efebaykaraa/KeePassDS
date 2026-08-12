@@ -141,7 +141,7 @@
     <string name="error_label_exists">Selline silt on juba olemas.</string>
     <string name="secure_note">Turvaline märge</string>
     <string name="membership">Liikmelisus</string>
-    <string name="error_can_not_handle_uri">KeePassDX ei oska töödelda seda võrguaadressi.</string>
+    <string name="error_can_not_handle_uri">KeePassDS ei oska töödelda seda võrguaadressi.</string>
     <string name="error_invalid_path">Palun kontrolli, et asukoht on õige.</string>
     <string name="error_move_entry_here">Kirjet ei saa siia tõsta.</string>
     <string name="error_copy_entry_here">Kirjet ei saa siia kopeerida.</string>
@@ -180,7 +180,7 @@
     <string name="file_manager_install_description">Andmebaasifailide loomiseks, avamiseks ja salvestamiseks on vajalik failihalduri olemasolu, mis oskaks kasutada ACTION_CREATE_DOCUMENT ja ACTION_OPEN_DOCUMENT päringuid.</string>
     <string name="navigation_drawer_open">Menüü on avatud</string>
     <string name="navigation_drawer_close">Menüü on suletud</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft on &lt;strong&gt;avatud lähtekoodiga&lt;/strong&gt; ja &lt;strong&gt;reklaamivaba&lt;/strong&gt;. \nSeda programmi levitatakse ilma igasuguse garantiita ning ta on litsentseeritud &lt;strong&gt;GPLv3&lt;/strong&gt; alusel.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft on &lt;strong&gt;avatud lähtekoodiga&lt;/strong&gt; ja &lt;strong&gt;reklaamivaba&lt;/strong&gt;. \nSeda programmi levitatakse ilma igasuguse garantiita ning ta on litsentseeritud &lt;strong&gt;GPLv3&lt;/strong&gt; alusel.</string>
     <string name="html_about_privacy">&lt;strong&gt;See rakendus ei laadi kasutajate andmeid&lt;/strong&gt;, ei loo ühendust ühegi serveriga, töötab nutiseadmes ainult kohalikus režiimis ja täies mahus austab kasutajate privaatsust.</string>
     <string name="html_about_contribution">&lt;strong&gt;Meie vabaduse säilitamiseks&lt;/strong&gt;, &lt;strong&gt;vigade parandamiseks&lt;/strong&gt;, &lt;strong&gt;uue funktsionaalsuse lisamiseks&lt;/strong&gt; ning &lt;strong&gt;et olla alati tänapäevane&lt;/strong&gt;, me tõsiselt arvestame sinu &lt;strong&gt;kaastöö ja osalemisega&lt;/strong&gt;.</string>
     <string name="inherited">Päri</string>
@@ -293,7 +293,7 @@
     <string name="hide_broken_locations_summary">Peida hiljutikasutatud andmebaaside loendist need kirjed, mille lingid enam ei toimi</string>
     <string name="success_import_app_properties">Rakenduse seadistused on imporditud</string>
     <string name="error_import_app_properties">Viga rakenduse seadistuste importimisel.</string>
-    <string name="description_app_properties">KeePassDX võimalused rakenduse seadistuste haldamiseks</string>
+    <string name="description_app_properties">KeePassDS võimalused rakenduse seadistuste haldamiseks</string>
     <string name="encryption_explanation">Salasõnalaeka andmebaasi puhul kasutatud krüptoalgoritm</string>
     <string name="kdf_explanation">Krüptoalgoritmi jaoks võtme loomisel peavõtit muudetakse võtetuletusfunktsiooniga, mis kasutab juhuslikke soolaterakesi.</string>
     <string name="memory_usage_explanation">Võtmetuletusfunktsiooni poolt kasutatud mälumaht.</string>
@@ -374,7 +374,7 @@
     <string name="progress_create">Loome uue salasõnade andmebaasi…</string>
     <string name="progress_title">Töötlen…</string>
     <string name="read_only">Kirjutuskaitstud</string>
-    <string name="read_only_warning">Sõltuvalt sinu kasutatavast failihaldurist ei pruugi KeePassDXl olla õigust andmeruumis salvestada.</string>
+    <string name="read_only_warning">Sõltuvalt sinu kasutatavast failihaldurist ei pruugi KeePassDSl olla õigust andmeruumis salvestada.</string>
     <string name="contains_duplicate_uuid">Salasõnade andmebaasis on topelt-UUIDsd.</string>
     <string name="contains_duplicate_uuid_procedure">Selle vea saad lahendada luues topelt-UUIDde asemele uued väärtused. Kas jätkame?</string>
     <string name="search_mode">Otsinguviis</string>
@@ -466,7 +466,7 @@
     <string name="list_password_generator_options_title">Tähemärgid salasõnas</string>
     <string name="allow_copy_password_warning">Hoiatus: süsteemiülene lõikelaud on kõikide rakenduste kasutuses. Kui sa kopeerid sinna delikaatseid andmeid, siis muu tarkvara võib seda seal näha. Kui sa kasutad KDE Connecti või muud lõikelaua jagamise teenust, siis sõltuvalt seadistustest võivad need delikaatsed andmed olla nähtavad ka muudes seadmetes.</string>
     <string name="warning_database_revoked">Failihaldur on blokeerinud ligipääsu failile. Sulge andmebaas ja ava ta uuesti oma asukohast.</string>
-    <string name="autofill_sign_in_prompt">Logi sisse KeePassDX abil</string>
+    <string name="autofill_sign_in_prompt">Logi sisse KeePassDS abil</string>
     <string name="autofill_explanation_summary">Täitmaks andmevorme teistes rakenduses, seadista automaattäite teenus</string>
     <string name="autofill_select_entry">Vali kirje…</string>
     <string name="set_credential_provider_service_title">Vali vaikimisi kasutatav automaattäite teenus</string>
@@ -600,7 +600,7 @@
     <string name="keyboard_entry_category">Sisestus</string>
     <string name="keyboard_selection_entry_title">Sisestuse valik</string>
     <string name="magic_keyboard_explanation_summary">Lülita sisse kohandatud klahvistik, mis eeltäidab sinu saalsõnad ja muud olulised väljad</string>
-    <string name="keyboard_label">Maagiklahvistik (KeePassDX)</string>
+    <string name="keyboard_label">Maagiklahvistik (KeePassDS)</string>
     <string name="keyboard_name">Maagiklahvistik (Magikeyboard)</string>
     <string name="keyboard_setting_label">Maagiklahvistiku seadistused</string>
     <string name="keyboard_notification_entry_title">Teavituste info</string>
@@ -609,7 +609,7 @@
     <string name="keyboard_notification_entry_clear_close_title">Sulgemisel kustuta</string>
     <string name="keyboard_notification_entry_clear_close_summary">Teavituse sulgemisel sulge ka andmebaas</string>
     <string name="keyboard_save_search_info_summary">Hilisema mugava kasutamise jaoks proovi käsitsi sisestamisel salvestada jagatud teavet</string>
-    <string name="keyboard_selection_entry_summary">Kui vaatad mõnda kirjet rakenduses KeePassDX, siis edasta selle kirje andmed Maagiklahvistikule</string>
+    <string name="keyboard_selection_entry_summary">Kui vaatad mõnda kirjet rakenduses KeePassDS, siis edasta selle kirje andmed Maagiklahvistikule</string>
     <string name="keyboard_notification_entry_content_title">%1$s on Maagiklahvistikus saadaval</string>
     <string name="keyboard_entry_timeout_title">Aegumine</string>
     <string name="keyboard_entry_timeout_summary">Aeg, peale mida kirje kustub klahvistikus</string>
@@ -680,12 +680,12 @@
     <string name="passkeys_backup_state_summary">Anna märku, kas autentimisandmed on varundatud ja kaitstud üksiku seadme kaotsimineku puhul</string>
     <string name="credential_provider_service_subtitle">Pääsuvõtmed - automaattäite teenusepakkuja</string>
     <string name="passkey">WebAuthn pääsuvõti</string>
-    <string name="credential_provider_service_name">KeePassDX autentimisteenusepakkuja</string>
+    <string name="credential_provider_service_name">KeePassDS autentimisteenusepakkuja</string>
     <string name="passkey_creation_description">Salvesta pääsuvõti uue kirjena</string>
     <string name="passkey_update_description">Uuenda pääsuvõtit: %1$s</string>
     <string name="passkey_selection_username">Pääsuvõtit ei leidu</string>
     <string name="passkey_selection_description">Vali olemasolev pääsuvõti</string>
-    <string name="credential_provider_database_username">KeePassDX-i andmebaas</string>
+    <string name="credential_provider_database_username">KeePassDS-i andmebaas</string>
     <string name="credential_provider_locked_database_description">Vali lukustuse eemaldamiseks</string>
     <string name="passkey_username">Pääsuvõtme kasutajanimi</string>
     <string name="passkey_private_key">Pääsuvõtme privaatvõti</string>
@@ -726,5 +726,5 @@
     <string name="show_tags_summary">Sildid on kuvatud kirjete loendis</string>
     <string name="benchmark_calculation">Arvutamise kestus: %1$s sek</string>
     <string name="benchmarking">Arvutan võrdlusanalüüsi jaoks…</string>
-    <string name="keyboard_share_browser">Jaga %1$s brauserist KeePassDX-i</string>
+    <string name="keyboard_share_browser">Jaga %1$s brauserist KeePassDS-i</string>
 </resources>

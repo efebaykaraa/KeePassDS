@@ -64,7 +64,7 @@
     <string name="autofill_save_search_info_summary">進行手動輸入選擇時嘗試儲存搜尋信息，以便將來使用</string>
     <string name="autofill_save_search_info_title">保存搜尋資訊</string>
     <string name="autofill_select_entry">選擇項目…</string>
-    <string name="autofill_sign_in_prompt">用 KeePassDX 登入</string>
+    <string name="autofill_sign_in_prompt">用 KeePassDS 登入</string>
     <string name="autofill_web_domain_blocklist_summary">禁止在下列域名中自動填充憑證</string>
     <string name="autofill_web_domain_blocklist_title">網域名稱黑名單</string>
     <string name="back_to_previous_keyboard">回到之前的鍵盤</string>
@@ -147,7 +147,7 @@
     <string name="default_checkbox">以此作為預設資料庫</string>
     <string name="delete_entered_password_summary">在嘗試連接資料庫後刪除輸入的密碼</string>
     <string name="delete_entered_password_title">刪除密碼</string>
-    <string name="description_app_properties">管理應用設置的 KeePassDX 配置</string>
+    <string name="description_app_properties">管理應用設置的 KeePassDS 配置</string>
     <string name="device_credential">裝置憑證</string>
     <string name="device_credential_unlock_enable_summary">使用裝置的憑證來開啟資料庫</string>
     <string name="device_credential_unlock_enable_title">裝置憑證解鎖</string>
@@ -232,7 +232,7 @@
     <string name="entry_user_name">用戶名</string>
     <string name="error_arc4">Arcfour 流密碼不被支援。</string>
     <string name="error_autofill_enable_service">無法啟用自動填入服務。</string>
-    <string name="error_can_not_handle_uri">KeePassDX 無法處理此 URI。</string>
+    <string name="error_can_not_handle_uri">KeePassDS 無法處理此 URI。</string>
     <string name="error_copy_entry_here">你不能在此處複製項目。</string>
     <string name="error_copy_group_here">不能在此處複製群組。</string>
     <string name="error_create_database">無法建立資料庫。</string>
@@ -300,9 +300,9 @@
     <string name="holder">持卡人</string>
     <string name="homepage">首頁</string>
     <string name="html_about_contribution">為程式能夠&lt;strong&gt;保持自主&lt;/strong&gt;、&lt;strong&gt;修復漏洞&lt;/strong&gt;、&lt;strong&gt;新增功能&lt;/strong&gt;和&lt;strong&gt;保持持續開發&lt;/strong&gt;，有賴你的&lt;strong&gt;貢獻&lt;/strong&gt;。</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft；這是&lt;strong&gt;無推廣&lt;/strong&gt;的&lt;strong&gt;開源&lt;/strong&gt;軟體。
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft；這是&lt;strong&gt;無推廣&lt;/strong&gt;的&lt;strong&gt;開源&lt;/strong&gt;軟體。
 \n你可在遵循&lt;strong&gt;GPL 3&lt;/strong&gt;或者更高版本的情況下重新發佈，而Kunzisoft對此不帶有任何擔保。</string>
-    <string name="html_text_ad_free">不同於大多數的密碼管理應用，無論你是使用免費版本還是付費版本的 KeePassDX，這都是一款&lt;strong&gt;沒有廣告&lt;/strong&gt;，&lt;strong&gt;基於 copylefted 版權協議的自由軟體&lt;/strong&gt;。同時，本軟體的任何版本都不會收集你的任何個人資訊。</string>
+    <string name="html_text_ad_free">不同於大多數的密碼管理應用，無論你是使用免費版本還是付費版本的 KeePassDS，這都是一款&lt;strong&gt;沒有廣告&lt;/strong&gt;，&lt;strong&gt;基於 copylefted 版權協議的自由軟體&lt;/strong&gt;。同時，本軟體的任何版本都不會收集你的任何個人資訊。</string>
     <string name="html_text_buy_pro">通過購買高級版本，你將解鎖全部&lt;strong&gt;主題樣式&lt;/strong&gt;，重要的是，你會為&lt;strong&gt;社區項目的進行&lt;/strong&gt;提供幫助</string>
     <string name="html_text_dev_feature">此功能目前&lt;strong&gt;仍在開發中&lt;/strong&gt;，&lt;strong&gt;捐助&lt;/strong&gt;將使該功能很快變得可用。</string>
     <string name="html_text_dev_feature_buy_pro">通過購買&lt;strong&gt;專業&lt;/strong&gt;版，</string>
@@ -338,7 +338,7 @@
     <string name="keyboard_key_sound_title">按鍵聲音</string>
     <string name="keyboard_key_vibrate_title">按鍵震動</string>
     <string name="keyboard_keys_category">鑰匙</string>
-    <string name="keyboard_label">魔法鍵盤（KeePassDX)</string>
+    <string name="keyboard_label">魔法鍵盤（KeePassDS)</string>
     <string name="keyboard_name">魔法鍵盤</string>
     <string name="keyboard_notification_entry_clear_close_summary">關閉通知時也關閉資料庫</string>
     <string name="keyboard_notification_entry_clear_close_title">關閉時清除</string>
@@ -352,9 +352,9 @@
     <string name="keyboard_previous_fill_in_title">切換回</string>
     <string name="keyboard_previous_lock_summary">鎖定資料庫後自動返回前一個鍵盤</string>
     <string name="keyboard_previous_lock_title">鎖定資料庫</string>
-    <string name="keyboard_save_search_info_summary">於 KeePassDX 手動選擇條目後，嘗試記住分享標的以供日後使用</string>
+    <string name="keyboard_save_search_info_summary">於 KeePassDS 手動選擇條目後，嘗試記住分享標的以供日後使用</string>
     <string name="keyboard_save_search_info_title">保存分享的訊息</string>
-    <string name="keyboard_selection_entry_summary">在 KeePassDX 中查看條目時，同時把該條目填充到 Magikeyboard</string>
+    <string name="keyboard_selection_entry_summary">在 KeePassDS 中查看條目時，同時把該條目填充到 Magikeyboard</string>
     <string name="keyboard_selection_entry_title">項目選擇</string>
     <string name="keyboard_setting_label">魔法鍵盤設置</string>
     <string name="keyboard_theme_title">鍵盤主題</string>
@@ -454,7 +454,7 @@
     <string name="protection">保護</string>
     <string name="public_key">公鑰</string>
     <string name="read_only">唯讀</string>
-    <string name="read_only_warning">KeePassDX 無法存取資料庫所在位置，將以唯讀模式開啟資料庫。</string>
+    <string name="read_only_warning">KeePassDS 無法存取資料庫所在位置，將以唯讀模式開啟資料庫。</string>
     <string name="recycle_bin">回收桶</string>
     <string name="recycle_bin_group_title">回收桶（組)</string>
     <string name="recycle_bin_summary">刪除群組和項目前先移至回收桶</string>
@@ -725,8 +725,8 @@
     <string name="education_user_verification_title">敏感操作驗證</string>
     <string name="education_user_verification_summary">更改會話的用戶驗證模式。\n\n“啟用用戶驗證”會對受保護的欄位和資料庫設定的操作進行驗證。\n“禁用用戶驗證”允許您在不進行驗證的情況下更改資料庫中的任何資料。</string>
     <string name="passkey">通行密鑰</string>
-    <string name="credential_provider_service_name">KeePassDX 憑證提供程式</string>
-    <string name="credential_provider_database_username">KeePassDX 資料庫</string>
+    <string name="credential_provider_service_name">KeePassDS 憑證提供程式</string>
+    <string name="credential_provider_database_username">KeePassDS 資料庫</string>
     <string name="credential_provider_locked_database_description">選擇以解鎖</string>
     <string name="passkey_credential_id">通行密鑰憑證 ID</string>
     <string name="passkey_user_handle">通行密鑰使用者句柄</string>
@@ -749,5 +749,5 @@
     <string name="show_tags_summary">在條目列表中顯示標籤</string>
     <string name="benchmark_calculation">計算 %1$s 秒</string>
     <string name="benchmarking">正在進行基準測試…</string>
-    <string name="keyboard_share_browser">從 %1$s 分享到 KeePassDX</string>
+    <string name="keyboard_share_browser">從 %1$s 分享到 KeePassDS</string>
 </resources>

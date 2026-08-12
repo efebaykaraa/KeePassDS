@@ -1,4 +1,4 @@
-KeePassDX هو <b>مفتاح مرور ومخزن ومدير كلمات سر</b> مفتوح المصدر يسمح بتحرير <b>البيانات المُعماة في ملف واحد</b> بتنسيق KeePass المفتوح و<b>ملء النماذج بطريقة آمنة</b>، ولا يتطلب <b>اتصالاً بالإنترنت</b> ويدمج معايير تصميم Android. التطبيق <b>مفتوح المصدر، وبدون إعلانات</b>.
+KeePassDS هو <b>مفتاح مرور ومخزن ومدير كلمات سر</b> مفتوح المصدر يسمح بتحرير <b>البيانات المُعماة في ملف واحد</b> بتنسيق KeePass المفتوح و<b>ملء النماذج بطريقة آمنة</b>، ولا يتطلب <b>اتصالاً بالإنترنت</b> ويدمج معايير تصميم Android. التطبيق <b>مفتوح المصدر، وبدون إعلانات</b>.
 
 <b>الميزات</b>
 
@@ -20,6 +20,6 @@ KeePassDX هو <b>مفتاح مرور ومخزن ومدير كلمات سر</b> 
 
 يمكنك التبرع أو شراء النسخة الاحترافية للحصول على خدمة أفضل وتطوير سريع للميزات التي تريدها: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-المشروع يتطور باستمرار. لا تتردد في التحقق من حالة تطوير التحديثات القادمة: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+المشروع يتطور باستمرار. لا تتردد في التحقق من حالة تطوير التحديثات القادمة: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-أرسل المشكلات إلى: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+أرسل المشكلات إلى: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

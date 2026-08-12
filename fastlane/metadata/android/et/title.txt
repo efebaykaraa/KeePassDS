@@ -1,1 +1,1 @@
-KeePassDX salasõnahoidla
+KeePassDS salasõnahoidla

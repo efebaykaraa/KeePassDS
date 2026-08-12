@@ -47,7 +47,7 @@
     <string name="decrypting_db">Déchiffrement du contenu de la base de données…</string>
     <string name="default_checkbox">Utiliser comme base de données par défaut</string>
     <string name="digits">Chiffres</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft est &lt;strong&gt;open source&lt;/strong&gt; et &lt;strong&gt;sans publicité&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft est &lt;strong&gt;open source&lt;/strong&gt; et &lt;strong&gt;sans publicité&lt;/strong&gt;.
 \nIl est fourni tel quel, sous licence &lt;strong&gt;GPLv3&lt;/strong&gt;, sans aucune garantie.</string>
     <string name="entry_accessed">Dernier accès</string>
     <string name="entry_cancel">Annuler</string>
@@ -64,7 +64,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Nom d’utilisateur</string>
     <string name="error_arc4">Le chiffrement de flux Arcfour n’est pas pris en charge.</string>
-    <string name="error_can_not_handle_uri">Impossible de gérer cette URI dans KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Impossible de gérer cette URI dans KeePassDS.</string>
     <string name="error_file_not_create">Impossible de créer le fichier.</string>
     <string name="error_invalid_db">Impossible de lire la base de données.</string>
     <string name="error_invalid_path">Vérifier la validité du chemin d’accès.</string>
@@ -120,7 +120,7 @@
     <string name="progress_title">Traitement en cours…</string>
     <string name="protection">Protection</string>
     <string name="read_only">Protéger en écriture</string>
-    <string name="read_only_warning">Selon votre gestionnaire de fichiers, KeePassDX peut ne pas être autorisé à écrire dans votre stockage.</string>
+    <string name="read_only_warning">Selon votre gestionnaire de fichiers, KeePassDS peut ne pas être autorisé à écrire dans votre stockage.</string>
     <string name="content_description_remove_from_list">Supprimer</string>
     <string name="root">Racine</string>
     <string name="encryption_explanation">Algorithme de chiffrement de la base de données utilisé pour toutes les données</string>
@@ -160,7 +160,7 @@
     <string name="menu_appearance_settings">Apparence</string>
     <string name="general">Général</string>
     <string name="autofill">Remplissage automatique</string>
-    <string name="autofill_sign_in_prompt">Se connecter avec KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Se connecter avec KeePassDS</string>
     <string name="set_credential_provider_service_title">Définir le service de remplissage automatique par défaut</string>
     <string name="autofill_explanation_summary">Configurer le remplissage automatique pour remplir rapidement des formulaires dans d’autres applications</string>
     <string name="autofill_select_entry">Sélectionner une entrée…</string>
@@ -289,7 +289,7 @@
     <string name="list_entries_show_username_summary">Affiche les noms d’utilisateur dans les listes d’entrées</string>
     <string name="build_label">Compilation %1$s</string>
     <string name="keyboard_name">Magiclavier</string>
-    <string name="keyboard_label">Magiclavier (KeePassDX)</string>
+    <string name="keyboard_label">Magiclavier (KeePassDS)</string>
     <string name="keyboard_setting_label">Paramètres Magiclavier</string>
     <string name="keyboard_entry_category">Entrée</string>
     <string name="keyboard_entry_timeout_title">Délai d’expiration</string>
@@ -316,7 +316,7 @@
     <string name="lock_database_back_root_summary">Appuyer sur « Retour » pour verrouiller la base de données si vous vous trouvez sur l\'écran racine de la base de données</string>
     <string name="recycle_bin">Corbeille</string>
     <string name="keyboard_selection_entry_title">Sélection de l’entrée</string>
-    <string name="keyboard_selection_entry_summary">Lors de la sélection d\'une entrée dans KeePassDX, rendre cette entrée disponible dans le Magiclavier</string>
+    <string name="keyboard_selection_entry_summary">Lors de la sélection d\'une entrée dans KeePassDS, rendre cette entrée disponible dans le Magiclavier</string>
     <string name="delete_entered_password_title">Supprimer le mot de passe</string>
     <string name="delete_entered_password_summary">Supprime le mot de passe saisi après une tentative de connexion à une base de données</string>
     <string name="content_description_open_file">Ouvrir le fichier</string>
@@ -547,7 +547,7 @@
     <string name="success_export_app_properties">Paramètres exportés de l\'application</string>
     <string name="error_import_app_properties">Erreur lors de l\'importation des paramètres de l\'application.</string>
     <string name="success_import_app_properties">Paramètres importés de l\'application</string>
-    <string name="description_app_properties">Propriétés KeePassDX pour gérer les paramètres de l\'application</string>
+    <string name="description_app_properties">Propriétés KeePassDS pour gérer les paramètres de l\'application</string>
     <string name="export_app_properties_summary">Créer un fichier pour exporter les paramètres de l\'application</string>
     <string name="export_app_properties_title">Exporter les paramètres de l\'application</string>
     <string name="import_app_properties_summary">Sélectionner un fichier pour importer les paramètres de l\'application</string>
@@ -720,12 +720,12 @@
     <string name="passkeys_backup_state_summary">Indiquer que les informations d\'authentification sont sauvegardées et protégées contre la perte d\'un seul appareil</string>
     <string name="credential_provider_service_subtitle">Clés d\'accès, Remplissage automatique fournisseur d\'authentification</string>
     <string name="passkey">Clé d\'accès</string>
-    <string name="credential_provider_service_name">KeePassDX Fournisseur d\'Authentification</string>
+    <string name="credential_provider_service_name">KeePassDS Fournisseur d\'Authentification</string>
     <string name="passkey_creation_description">Enregistrer la clé d\'accès dans la nouvelle entrée</string>
     <string name="passkey_update_description">Mettre à jour la clé d\'accès dans %1$s</string>
     <string name="passkey_selection_username">Aucune clé d\'accès trouvée</string>
     <string name="passkey_selection_description">Sélectionner une clé d\'accès existante</string>
-    <string name="credential_provider_database_username">Base de données KeePassDX</string>
+    <string name="credential_provider_database_username">Base de données KeePassDS</string>
     <string name="credential_provider_locked_database_description">Sélectionner pour déverrouiller</string>
     <string name="passkey_username">Nom d\'Utilisateur de Clé d\'Accès</string>
     <string name="passkey_private_key">Clé Privée de Clé d\'Accès</string>
@@ -766,5 +766,5 @@
     <string name="show_tags_summary">Affiche les balises dans la liste des entrées</string>
     <string name="benchmark_calculation">Calculer pour %1$s s</string>
     <string name="benchmarking">Analyse en cours…</string>
-    <string name="keyboard_share_browser">Partager depuis %1$s vers KeePassDX</string>
+    <string name="keyboard_share_browser">Partager depuis %1$s vers KeePassDS</string>
 </resources>

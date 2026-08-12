@@ -1,1 +1,1 @@
-KeePassDX - Passkey local
+KeePassDS - Passkey local

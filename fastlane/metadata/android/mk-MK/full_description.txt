@@ -1,4 +1,4 @@
-KeePassDX е <b>безбеден и менаџер за лозинки</b> кој овозможува уредување на <b>шифрирани податоци во една датотека</b> во отворен KeePass формат и <b>пополнување на формуларите на безбеден начин</b>, <b>не бара интернет конекција</b> и ги интегрира стандардите за дизајн на Android. Апликацијата е <b>отворен код, без рекламирање</b>.
+KeePassDS е <b>безбеден и менаџер за лозинки</b> кој овозможува уредување на <b>шифрирани податоци во една датотека</b> во отворен KeePass формат и <b>пополнување на формуларите на безбеден начин</b>, <b>не бара интернет конекција</b> и ги интегрира стандардите за дизајн на Android. Апликацијата е <b>отворен код, без рекламирање</b>.
 
 <b>Карактеристики</b>
 
@@ -18,6 +18,6 @@ KeePassDX е <b>безбеден и менаџер за лозинки</b> ко�
 
 Можете да донирате или купите про верзијата за подобра услуга и брз развој на функциите што ги сакате: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Проектот постојано се развива. Не двоумете се да го проверите статусот на развој на следните ажурирања: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Проектот постојано се развива. Не двоумете се да го проверите статусот на развој на следните ажурирања: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Испратете ги проблемите до: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Испратете ги проблемите до: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

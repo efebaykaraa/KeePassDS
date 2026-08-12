@@ -46,7 +46,7 @@
     <string name="decrypting_db">Dekrypterer databaseinnhold…</string>
     <string name="default_checkbox">Bruk dette som forvalgt database</string>
     <string name="digits">Siffer</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft er &lt;strong&gt;fri programvare&lt;/strong&gt;, og &lt;strong&gt;reklamefritt&lt;/strong&gt;. \nDet tilbys som det er, i henhold til &lt;strong&gt;GPL versjon 3 eller senere&lt;/strong&gt;, uten noen garantier.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft er &lt;strong&gt;fri programvare&lt;/strong&gt;, og &lt;strong&gt;reklamefritt&lt;/strong&gt;. \nDet tilbys som det er, i henhold til &lt;strong&gt;GPL versjon 3 eller senere&lt;/strong&gt;, uten noen garantier.</string>
     <string name="entry_accessed">Brukt</string>
     <string name="entry_cancel">Avbryt</string>
     <string name="entry_notes">Kommentarer</string>
@@ -62,7 +62,7 @@
     <string name="entry_url">Nettadresse</string>
     <string name="entry_user_name">Brukernavn</string>
     <string name="error_arc4">Arcfour-strømchifferet støttes ikke.</string>
-    <string name="error_can_not_handle_uri">KeePassDX kan ikke håntere denne URI-en.</string>
+    <string name="error_can_not_handle_uri">KeePassDS kan ikke håntere denne URI-en.</string>
     <string name="error_file_not_create">Kunne ikke opprette fil.</string>
     <string name="error_invalid_db">Kunne ikke lese databasen.</string>
     <string name="error_invalid_path">Ugyldig sti.</string>
@@ -130,7 +130,7 @@
     <string name="progress_title">Arbeider…</string>
     <string name="protection">Beskyttelse</string>
     <string name="read_only">Skrivebeskyttet</string>
-    <string name="read_only_warning">KeePassDX har ikke skrivetilgang til din databaseplassering, så den vil bli åpnet skrivebeskyttet.</string>
+    <string name="read_only_warning">KeePassDS har ikke skrivetilgang til din databaseplassering, så den vil bli åpnet skrivebeskyttet.</string>
     <string name="content_description_remove_from_list">Fjern</string>
     <string name="root">Rot</string>
     <string name="encryption_explanation">Algoritme brukt til å kryptere all data i databasen</string>
@@ -169,7 +169,7 @@
     <string name="menu_appearance_settings">Utseende</string>
     <string name="general">Generelt</string>
     <string name="autofill">Autofyll</string>
-    <string name="autofill_sign_in_prompt">Logg inn med KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Logg inn med KeePassDS</string>
     <string name="set_credential_provider_service_title">Sett forvalgt autofyll-tjeneste</string>
     <string name="autofill_explanation_summary">Konfigurer tjenesten for å fylle ut skjema fra andre programmer</string>
     <string name="password_size_title">Passordsstørrelse</string>
@@ -265,7 +265,7 @@
     <string name="icon_pack_choose_summary">Endre programmets ikonpakke</string>
     <string name="build_label">Bygg %1$s</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Magikeyboard-innstillinger</string>
     <string name="keyboard_entry_category">Oppføring</string>
     <string name="keyboard_entry_timeout_title">Tidsavbrudd</string>
@@ -287,7 +287,7 @@
     <string name="lock_database_back_root_summary">Trykk «Tilbake» for å låse databasen hvis du er ved rotskjermen til databasen</string>
     <string name="recycle_bin">Papirkurv</string>
     <string name="keyboard_selection_entry_title">Oppføringsvalg</string>
-    <string name="keyboard_selection_entry_summary">Når du ser på en oppføring i KeePassDX blir Magikeyboard fylt opp med den oppføringen</string>
+    <string name="keyboard_selection_entry_summary">Når du ser på en oppføring i KeePassDS blir Magikeyboard fylt opp med den oppføringen</string>
     <string name="delete_entered_password_title">Slett passord</string>
     <string name="delete_entered_password_summary">Sletter passord innskrevet etter et tilkoblingsforsøk til en database</string>
     <string name="content_description_open_file">Åpne fil</string>
@@ -482,7 +482,7 @@
     <string name="remember_keyfile_locations_title">Husk hvor lagringsfiler er lagret</string>
     <string name="remember_keyfile_locations_summary">Holder øye med hvor nøkkelfiler er lagret</string>
     <string name="show_recent_files_summary">Vis hvor nylige databaser er lagret</string>
-    <string name="description_app_properties">KeePassDX-egenskaper for håndtering av programinnstillinger</string>
+    <string name="description_app_properties">KeePassDS-egenskaper for håndtering av programinnstillinger</string>
     <string name="success_import_app_properties">Appinnstillinger ble importert</string>
     <string name="filter">Filter</string>
     <string name="warning_database_info_changed">Informasjonen som er å finne i databsefilen din har blitt endret utenfor programmet.</string>
@@ -714,14 +714,14 @@
     <string name="passkey_update_description">Oppdater passnøkkel i %1$s</string>
     <string name="passkey_selection_username">Ingen passnøkkel funnet</string>
     <string name="passkey_selection_description">Velg en eksisterende passnøkkel</string>
-    <string name="credential_provider_database_username">KeePassDX-database</string>
+    <string name="credential_provider_database_username">KeePassDS-database</string>
     <string name="credential_provider_locked_database_description">Velg for å låse opp</string>
     <string name="passkey_username">Passnøkkel-brukernavn</string>
     <string name="passkey_private_key">Passnøkkel-privatnøkkel</string>
     <string name="passkey_user_handle">Passnøkkel-brukernavn</string>
     <string name="error_passkey_result">Kunne ikke returnere passnøkkelen</string>
     <string name="credential_provider">Påloggingsinformasjons-leverandør</string>
-    <string name="credential_provider_service_name">Påloggingsleverandør til KeePassDX</string>
+    <string name="credential_provider_service_name">Påloggingsleverandør til KeePassDS</string>
     <string name="passkey_credential_id">Passnøkkel-ID</string>
     <string name="passkey_relying_party">Passnøkkelens tillitspart</string>
     <string name="passkey_backup_eligibility">Mulighet for sikkerhetskopiering av passnøkkelen</string>

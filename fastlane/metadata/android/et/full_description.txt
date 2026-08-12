@@ -1,4 +1,4 @@
-KeePassDX on avatud lähtekoodiga <b>salavõtmete ja salasõnade laegas ja -haldur</b>, mis võimaldab <b>muuta krüptitud andmeid avatud KeePass vormingus ühe failina</b> ja <b>täita vorme turvaliselt</b>, ei vaja <b>internetiühendust</b> ning järgib Androidi kujundus-standardeid. Rakendus on <b>avatud lähtekoodiga ja reklaamivaba</b>.
+KeePassDS on avatud lähtekoodiga <b>salavõtmete ja salasõnade laegas ja -haldur</b>, mis võimaldab <b>muuta krüptitud andmeid avatud KeePass vormingus ühe failina</b> ja <b>täita vorme turvaliselt</b>, ei vaja <b>internetiühendust</b> ning järgib Androidi kujundus-standardeid. Rakendus on <b>avatud lähtekoodiga ja reklaamivaba</b>.
 
 <b>Funktsionaalsus</b>
 
@@ -20,6 +20,6 @@ KeePassDX on avatud lähtekoodiga <b>salavõtmete ja salasõnade laegas ja -hald
 
 Parema teenuse ja kiirema arendustöö huvides saad sa annetada või osta pro versiooni: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Projekt areneb pidevalt. Ära kõhkle kontrollimast järgmiste uuenduste ja arenduste olekut: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Projekt areneb pidevalt. Ära kõhkle kontrollimast järgmiste uuenduste ja arenduste olekut: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Veateated lisa palun siia: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Veateated lisa palun siia: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

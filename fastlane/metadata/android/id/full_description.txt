@@ -1,4 +1,4 @@
-KeePassDX adalah <b>pengaman dan pengelola kata sandi</b> yang memungkinkan pengeditan <b>data terenkripsi dalam satu berkas</b> dalam format KeePass terbuka dan <b>pengisian formulir dengan cara yang aman</b>, tidak memerlukan <b>koneksi internet</b>, dan mengintegrasikan standar desain Android. Aplikasi ini <b>sumber terbuka, tanpa iklan</b>.
+KeePassDS adalah <b>pengaman dan pengelola kata sandi</b> yang memungkinkan pengeditan <b>data terenkripsi dalam satu berkas</b> dalam format KeePass terbuka dan <b>pengisian formulir dengan cara yang aman</b>, tidak memerlukan <b>koneksi internet</b>, dan mengintegrasikan standar desain Android. Aplikasi ini <b>sumber terbuka, tanpa iklan</b>.
 
 <b>Fitur</b>
 
@@ -18,6 +18,6 @@ KeePassDX adalah <b>pengaman dan pengelola kata sandi</b> yang memungkinkan peng
 
 Anda dapat berdonasi atau membeli versi pro untuk layanan yang lebih baik dan pengembangan fitur yang Anda inginkan dengan cepat: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Proyek ini terus berkembang. Jangan ragu untuk memeriksa status pengembangan pembaruan berikutnya: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Proyek ini terus berkembang. Jangan ragu untuk memeriksa status pengembangan pembaruan berikutnya: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Kirimkan masalah ke: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Kirimkan masalah ke: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

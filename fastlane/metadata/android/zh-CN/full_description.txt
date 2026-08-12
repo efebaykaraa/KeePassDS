@@ -1,4 +1,4 @@
-KeePassDX 是一款开源<b>通行密钥、密码管理器</b>，允许以开放的 KeePass 格式编辑<b>单文件中的加密数据</b>，并<b>以安全方式自动填充表单</b>，<b>无需互联网连接</b>且遵循 Android 设计标准。本应用<b>开源且无广告</b>。
+KeePassDS 是一款开源<b>通行密钥、密码管理器</b>，允许以开放的 KeePass 格式编辑<b>单文件中的加密数据</b>，并<b>以安全方式自动填充表单</b>，<b>无需互联网连接</b>且遵循 Android 设计标准。本应用<b>开源且无广告</b>。
 
 <b>功能特性</b>
 
@@ -20,6 +20,6 @@ KeePassDX 是一款开源<b>通行密钥、密码管理器</b>，允许以开放
 
 如需获取更优质的服务或希望加快所需功能的开发进度，您可以捐赠或购买专业版：<a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-本项目持续迭代更新，欢迎随时查看后续版本开发进度：<a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+本项目持续迭代更新，欢迎随时查看后续版本开发进度：<a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-如果遇到问题，请将问题反馈至：<a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+如果遇到问题，请将问题反馈至：<a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

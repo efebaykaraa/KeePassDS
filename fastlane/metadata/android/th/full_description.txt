@@ -1,4 +1,4 @@
-KeePassDX เป็นแอปสำหรับ<b>เก็บและจัดการพาสคีย์และรหัสผ่านต่างๆ</b>ให้คุณได้<b>แก้ไขข้อมูลที่เข้ารหัสในไฟล์เดียว</b>ในรูปแบบไฟล์ KeePass แบบเปิด และ<b>กรอกข้อมูลในฟอร์มต่างๆอย่างปลอดภัย</b>, โดย <b>ไม่จำเป็นต้องเชื่อมต่ออินเตอร์เน็ต</b> และทำงานได้กับมาตรฐานระบบของ แอปนี้ <b>เป็นโอเพ่นซอร์สและไม่มีโฆษณา</b>.
+KeePassDS เป็นแอปสำหรับ<b>เก็บและจัดการพาสคีย์และรหัสผ่านต่างๆ</b>ให้คุณได้<b>แก้ไขข้อมูลที่เข้ารหัสในไฟล์เดียว</b>ในรูปแบบไฟล์ KeePass แบบเปิด และ<b>กรอกข้อมูลในฟอร์มต่างๆอย่างปลอดภัย</b>, โดย <b>ไม่จำเป็นต้องเชื่อมต่ออินเตอร์เน็ต</b> และทำงานได้กับมาตรฐานระบบของ แอปนี้ <b>เป็นโอเพ่นซอร์สและไม่มีโฆษณา</b>.
 
 <b>ฟีเจอร์</b>
 
@@ -20,6 +20,6 @@ KeePassDX เป็นแอปสำหรับ<b>เก็บและจั�
 
 คุณสามารถบริจาคหรือซื้อแบบเวอร์ชั่นโปรเพื่อช่วยสนับสนุนการพัฒนาแอปและฟีเจอร์ต่างๆที่ต้องการได้รวดเร็วขึ้น: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-โครงการนี้กำลังพัฒนาอย่างต่อเนื่อง คุณยังสามารถดูสถานะของการพัฒนาอัปเดตแอปได้ที่นี่: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+โครงการนี้กำลังพัฒนาอย่างต่อเนื่อง คุณยังสามารถดูสถานะของการพัฒนาอัปเดตแอปได้ที่นี่: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-ส่งข้อเสนอแนะหรือปัญหาที่: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+ส่งข้อเสนอแนะหรือปัญหาที่: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

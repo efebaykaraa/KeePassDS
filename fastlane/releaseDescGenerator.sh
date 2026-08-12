@@ -3,9 +3,9 @@
 # $1 versionCode
 # $2 version Name
 CHANGELOGPATH="./metadata/android/en-US/changelogs/$1.txt"
-PACKAGEFREEPATH="../releases/KeePassDX-$2-free.apk"
-PACKAGELIBREPATH="../releases/KeePassDX-$2-libre.apk"
-RELEASEDESCPATH="../releases/KeePassDX-$2-desc"
+PACKAGEFREEPATH="../releases/KeePassDS-$2-free.apk"
+PACKAGELIBREPATH="../releases/KeePassDS-$2-libre.apk"
+RELEASEDESCPATH="../releases/KeePassDS-$2-desc"
 
 echo "$(<$CHANGELOGPATH)" $'\n' >> $RELEASEDESCPATH
 # Checksum Free

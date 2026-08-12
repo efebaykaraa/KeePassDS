@@ -24,6 +24,7 @@
     <string name="homepage">Homepage</string>
     <string name="about_description">Android implementation of the KeePass password manager.</string>
     <string name="accept">Accept</string>
+    <string name="menu_lan_sync">LAN synchronization</string>
     <string name="add_entry">Add entry</string>
     <string name="edit_entry">Edit entry</string>
     <string name="add_group">Add group</string>
@@ -90,7 +91,7 @@
     <string name="decrypting_db">Decrypting database content…</string>
     <string name="default_checkbox">Use as default database</string>
     <string name="digits">Digits</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft is &lt;strong&gt;open source&lt;/strong&gt; and &lt;strong&gt;without advertising&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft is &lt;strong&gt;open source&lt;/strong&gt; and &lt;strong&gt;without advertising&lt;/strong&gt;.
 \nIt is provided as is, under &lt;strong&gt;GPLv3&lt;/strong&gt; license, without any warranty.</string>
     <string name="html_about_privacy">&lt;strong&gt;No user data is retrieved&lt;/strong&gt;, this application does not connect to any server, works only locally and fully respects the privacy of users.</string>
     <string name="html_about_contribution">In order to &lt;strong&gt;keep our freedom&lt;/strong&gt;, &lt;strong&gt;fix bugs&lt;/strong&gt;, &lt;strong&gt;add features&lt;/strong&gt; and &lt;strong&gt;to be always active&lt;/strong&gt;, we count on your &lt;strong&gt;contribution&lt;/strong&gt;.</string>
@@ -162,7 +163,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Username</string>
     <string name="error_arc4">The Arcfour stream cipher is not supported.</string>
-    <string name="error_can_not_handle_uri">Could not handle this URI in KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Could not handle this URI in KeePassDS.</string>
     <string name="error_file_not_create">Could not create file.</string>
     <string name="error_invalid_db">Could not read the database.</string>
     <string name="error_invalid_path">Make sure the path is correct.</string>
@@ -311,7 +312,7 @@
     <string name="progress_title">Working…</string>
     <string name="protection">Protection</string>
     <string name="read_only">Write-protected</string>
-    <string name="read_only_warning">Depending on your file manager, KeePassDX may not allowed to write in your storage.</string>
+    <string name="read_only_warning">Depending on your file manager, KeePassDS may not allowed to write in your storage.</string>
     <string name="contains_duplicate_uuid">The database contains duplicate UUIDs.</string>
     <string name="contains_duplicate_uuid_procedure">Solve problem by generating new UUIDs for duplicates to continue?</string>
     <string name="search_mode">Search mode</string>
@@ -331,7 +332,7 @@
     <string name="import_app_properties_summary">Select a file to import app settings</string>
     <string name="export_app_properties_title">Export app settings</string>
     <string name="export_app_properties_summary">Create a file to export app settings</string>
-    <string name="description_app_properties">KeePassDX properties to manage app settings</string>
+    <string name="description_app_properties">KeePassDS properties to manage app settings</string>
     <string name="success_import_app_properties">App settings imported</string>
     <string name="error_import_app_properties">Error during app settings import.</string>
     <string name="success_export_app_properties">App settings exported</string>
@@ -445,7 +446,7 @@
     <string name="passkeys_backup_state_summary">Indicate that credentials are backed up and protected against the loss of a single device</string>
     <string name="autofill">Autofill</string>
     <string name="credential_provider_service_subtitle">Passkeys, Autofill credential provider</string>
-    <string name="autofill_sign_in_prompt">Sign in with KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Sign in with KeePassDS</string>
     <string name="autofill_explanation_summary">Configure autofilling to quickly fill out forms in other apps</string>
     <string name="autofill_select_entry">Select entry…</string>
     <string name="autofill_preference_title">Autofill settings</string>
@@ -546,11 +547,11 @@
     <string name="magic_keyboard_explanation_summary">Activate a custom keyboard populating your passwords and all identity fields</string>
     <string name="device_keyboard_setting_title">Device keyboard settings</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Magikeyboard settings</string>
     <string name="keyboard_entry_category">Entry</string>
     <string name="keyboard_selection_entry_title">Entry selection</string>
-    <string name="keyboard_selection_entry_summary">When viewing an entry in KeePassDX, populate Magikeyboard with that entry</string>
+    <string name="keyboard_selection_entry_summary">When viewing an entry in KeePassDS, populate Magikeyboard with that entry</string>
     <string name="keyboard_notification_entry_title">Notification info</string>
     <string name="keyboard_notification_entry_summary">Show a notification when an entry is available</string>
     <string name="keyboard_save_search_info_title">Save shared info</string>
@@ -579,7 +580,7 @@
     <string name="keyboard_previous_fill_in_summary">Automatically switch back to the previous keyboard after executing \"Auto key action\"</string>
     <string name="keyboard_previous_lock_title">Lock database</string>
     <string name="keyboard_previous_lock_summary">Automatically switch back to the previous keyboard after locking the database</string>
-    <string name="keyboard_share_browser">Share from %1$s to KeePassDX</string>
+    <string name="keyboard_share_browser">Share from %1$s to KeePassDS</string>
     <string name="custom_fields">Custom fields</string>
     <string name="back_to_previous_keyboard">Back to previous keyboard</string>
     <string name="select_entry">Select entry</string>
@@ -776,8 +777,8 @@
     <string name="hide_templates_title">Hide templates</string>
     <string name="hide_templates_summary">Templates are not shown</string>
     <string name="passkey">Passkey</string>
-    <string name="credential_provider_service_name">KeePassDX Credential Provider</string>
-    <string name="credential_provider_database_username">KeePassDX Database</string>
+    <string name="credential_provider_service_name">KeePassDS Credential Provider</string>
+    <string name="credential_provider_database_username">KeePassDS Database</string>
     <string name="credential_provider_locked_database_description">Select to unlock</string>
     <string name="passkey_creation_description">Save passkey in new entry</string>
     <string name="passkey_update_description">Update passkey in "%1$s"</string>

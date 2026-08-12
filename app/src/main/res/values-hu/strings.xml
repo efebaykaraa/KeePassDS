@@ -42,7 +42,7 @@
     <string name="decrypting_db">Adatbázis-tartalom titkosításának feloldása…</string>
     <string name="default_checkbox">Használat alapértelmezett adatbázisként</string>
     <string name="digits">Számok</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft. A program &lt;strong&gt;nyílt forráskódú&lt;/strong&gt; és &lt;strong&gt;reklámmentes&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft. A program &lt;strong&gt;nyílt forráskódú&lt;/strong&gt; és &lt;strong&gt;reklámmentes&lt;/strong&gt;.
 \nA program jelen állapotában kerül közreadásra, &lt;strong&gt;GPLv3&lt;/strong&gt; licenc alatt, bármilyen garancia nélkül.</string>
     <string name="select_database_file">Létező széf megnyitása</string>
     <string name="entry_accessed">Utolsó hozzáférés</string>
@@ -59,7 +59,7 @@
     <string name="entry_url">Webcím</string>
     <string name="entry_user_name">Felhasználónév</string>
     <string name="error_arc4">Az Arcfour adatfolyam-titkosítás nem támogatott.</string>
-    <string name="error_can_not_handle_uri">Ez az URI nem kezelhető a KeePassDX-ben.</string>
+    <string name="error_can_not_handle_uri">Ez az URI nem kezelhető a KeePassDS-ben.</string>
     <string name="error_file_not_create">Nem sikerült létrehozni a fájlt.</string>
     <string name="error_invalid_db">Az adatbázist nem lehet olvasni.</string>
     <string name="error_invalid_path">Győződjön meg arról, hogy az útvonal helyes.</string>
@@ -112,7 +112,7 @@
     <string name="progress_title">Feldolgozás…</string>
     <string name="protection">Védelem</string>
     <string name="read_only">Írásvédett</string>
-    <string name="read_only_warning">A KeePassDX-nek írási engedélyre van szüksége, hogy bármit is módosíthasson az adatbázisban.</string>
+    <string name="read_only_warning">A KeePassDS-nek írási engedélyre van szüksége, hogy bármit is módosíthasson az adatbázisban.</string>
     <string name="content_description_remove_from_list">Eltávolítás</string>
     <string name="root">Gyökérkönyvár</string>
     <string name="rounds">Transzformációs körök</string>
@@ -178,7 +178,7 @@
     <string name="menu_appearance_settings">Megjelenés</string>
     <string name="general">Általános</string>
     <string name="autofill">Automatikus kitöltés</string>
-    <string name="autofill_sign_in_prompt">Bejelentkezés a KeePassDX-szel</string>
+    <string name="autofill_sign_in_prompt">Bejelentkezés a KeePassDS-szel</string>
     <string name="set_credential_provider_service_title">Hitelesítő adatkezelő szolgáltatás</string>
     <string name="autofill_explanation_summary">Automatikus kitöltés az űrlapok gyors kitöltéséhez más alkalmazásokban</string>
     <string name="password_size_title">Előállított jelszó mérete</string>
@@ -218,7 +218,7 @@
     <string name="magic_keyboard_title">Mágikus billentyűzet</string>
     <string name="magic_keyboard_explanation_summary">Egyéni billentyűzet aktiválása, amely kitölti a jelszavakat és az összes azonosító mezőt</string>
     <string name="keyboard_name">Mágikus billentyűzet</string>
-    <string name="keyboard_label">Mágikus billentyűzet (KeePassDX)</string>
+    <string name="keyboard_label">Mágikus billentyűzet (KeePassDS)</string>
     <string name="keyboard_setting_label">Mágikus billentyűzet beállításai</string>
     <string name="keyboard_entry_category">Bejegyzés</string>
     <string name="keyboard_entry_timeout_title">Időtúllépés</string>
@@ -414,7 +414,7 @@
     <string name="content_description_node_children">Alárendelt csomópontok</string>
     <string name="delete_entered_password_summary">Törli a beírt jelszót az adatbázishoz való kapcsolódási kísérlet után</string>
     <string name="delete_entered_password_title">Jelszó törlése</string>
-    <string name="keyboard_selection_entry_summary">A Mágikus billentyűzet kitöltése azzal a bejegyzéssel, amelyet megtekint a KeePassDX-ben</string>
+    <string name="keyboard_selection_entry_summary">A Mágikus billentyűzet kitöltése azzal a bejegyzéssel, amelyet megtekint a KeePassDS-ben</string>
     <string name="keyboard_selection_entry_title">Bejegyzés kiválasztása</string>
     <string name="recycle_bin">Kuka</string>
     <string name="lock_database_back_root_title">Nyomja meg a „Vissza” gombot a zároláshoz</string>
@@ -500,7 +500,7 @@
     <string name="success_import_app_properties">Alkalmazásbeállítások importálva</string>
     <string name="error_export_app_properties">Hiba történt az alkalmazásbeállítások exportálása során.</string>
     <string name="warning_database_info_changed">Az adatbázisfájlban lévő információkat az alkalmazáson kívülről megváltoztatták.</string>
-    <string name="description_app_properties">KeePassDX tulajdonságok az alkalmazásbeállítások kezeléséhez</string>
+    <string name="description_app_properties">KeePassDS tulajdonságok az alkalmazásbeállítások kezeléséhez</string>
     <string name="success_export_app_properties">Alkalmazásbeállítások exportálva</string>
     <string name="content_description_database_color">Adatbázis színe</string>
     <string name="error_import_app_properties">Hiba történt az alkalmazásbeállítások importálása során.</string>
@@ -716,12 +716,12 @@
     <string name="passkeys_backup_state_summary">Jelzi, hogy a hitelesítési adatokról biztonsági másolat lett létrehozva, és azok egyetlen eszköz elvesztése esetén is védve vannak</string>
     <string name="credential_provider_service_subtitle">Biztonsági kulcsok, automatikus kitöltés hitelesítési adat szolgáltató</string>
     <string name="passkey">Hozzáférési kulcs</string>
-    <string name="credential_provider_service_name">KeePassDX hitelesítési adatok szolgáltató</string>
+    <string name="credential_provider_service_name">KeePassDS hitelesítési adatok szolgáltató</string>
     <string name="passkey_creation_description">Hozzáférési kulcs mentése új bejegyzésben</string>
     <string name="passkey_update_description">Hozzáférési kulcs frissítése a(z) %1$s fájlban</string>
     <string name="passkey_selection_username">Nem található hozzáférési kulcs</string>
     <string name="passkey_selection_description">Válasszon egy meglévő hozzáférési kulcsot</string>
-    <string name="credential_provider_database_username">KeePassDX adatbázis</string>
+    <string name="credential_provider_database_username">KeePassDS adatbázis</string>
     <string name="credential_provider_locked_database_description">Válassza a feloldáshoz</string>
     <string name="passkey_username">Hozzáférési kulcs felhasználóneve</string>
     <string name="passkey_private_key">Hozzáférési kulcs privát kulcsa</string>
@@ -762,5 +762,5 @@
     <string name="show_tags_summary">Megjeleníti a címkéket a bejegyzések listájában</string>
     <string name="benchmark_calculation">Számítás %1$s másodpercre</string>
     <string name="benchmarking">Összehasonlítás…</string>
-    <string name="keyboard_share_browser">Megosztás innen: %1$s a KeePassDX-be</string>
+    <string name="keyboard_share_browser">Megosztás innen: %1$s a KeePassDS-be</string>
 </resources>

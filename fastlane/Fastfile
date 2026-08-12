@@ -33,7 +33,7 @@ platform :android do
       }
     )
     sh("mkdir", "-p", "../releases")
-    @releaseFile = "../releases/KeePassDX-" + android_get_version_name + "-" + options[:flavor] + ".apk"
+    @releaseFile = "../releases/KeePassDS-" + android_get_version_name + "-" + options[:flavor] + ".apk"
     sh("cp", "../app/build/outputs/apk/" + options[:flavor] + "/release/app-" + options[:flavor] + "-release.apk", @releaseFile)
   end
   

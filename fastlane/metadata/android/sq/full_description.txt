@@ -1,4 +1,4 @@
-KeePassDX është një <b>kasafortë dhe përgjegjës kyçkalimesh dhe fjalëkalimesh</b>, me burim të hapët që lejon përpunim <b>të dhënash të fshehtëzuara në një kartelë njëshe</b> në formatin e hapët KeePass dhe <b>plotëson formularët në një mënyrë të siguruar</b>, s’ka nevojë <b>për lidhje në Internet</b> dhe integron standarde dizajni Android. Aplikacioni është <b>me burim të hapët, pa reklama</b>.
+KeePassDS është një <b>kasafortë dhe përgjegjës kyçkalimesh dhe fjalëkalimesh</b>, me burim të hapët që lejon përpunim <b>të dhënash të fshehtëzuara në një kartelë njëshe</b> në formatin e hapët KeePass dhe <b>plotëson formularët në një mënyrë të siguruar</b>, s’ka nevojë <b>për lidhje në Internet</b> dhe integron standarde dizajni Android. Aplikacioni është <b>me burim të hapët, pa reklama</b>.
 
 <b>Veçori</b>
 
@@ -20,6 +20,6 @@ KeePassDX është një <b>kasafortë dhe përgjegjës kyçkalimesh dhe fjalëkal
 
 Mund të dhuroni ose të blini versionin pro, për shërbim më të mirë dhe zhvillim të shpejtë veçorish që dëshironi: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-Projekti evoluon në mënyrë konstante. Mos ngurroni të shihni gjendjen e zhvillimit të përditësimeve pasuese: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+Projekti evoluon në mënyrë konstante. Mos ngurroni të shihni gjendjen e zhvillimit të përditësimeve pasuese: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Problemet dërgojini te: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Problemet dërgojini te: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

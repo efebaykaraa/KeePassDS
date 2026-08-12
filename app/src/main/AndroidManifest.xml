@@ -21,6 +21,8 @@
         android:name="android.permission.USE_BIOMETRIC" />
     <uses-permission
         android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <!-- Open apps from links -->
     <uses-permission
         android:name="android.permission.QUERY_ALL_PACKAGES"

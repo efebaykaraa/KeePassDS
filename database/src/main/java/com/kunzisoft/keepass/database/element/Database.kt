@@ -425,6 +425,13 @@ open class Database {
             }
         }
 
+    /**
+     * Database-level KDBX custom data. This is intentionally unavailable for
+     * legacy KDB databases, which cannot participate in LAN synchronization.
+     */
+    val customData: CustomData?
+        get() = mDatabaseKDBX?.customData
+
     val rootGroupIsVirtual: Boolean
         get() {
             mDatabaseKDB?.let {

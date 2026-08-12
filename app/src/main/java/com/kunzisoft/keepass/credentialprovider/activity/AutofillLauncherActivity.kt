@@ -77,7 +77,7 @@ class AutofillLauncherActivity : DatabaseModeActivity() {
     override fun manageDatabaseInfo(): Boolean  = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        // To apply the bypass https://github.com/Kunzisoft/KeePassDX/issues/2238
+        // To apply the bypass https://github.com/efebaykaraa/KeePassDS/issues/2238
         // before managing intent in super class
         intent.retrieveSelectionBundle()?.apply {
             intent.addSpecialMode(getSpecialMode())
@@ -195,7 +195,7 @@ class AutofillLauncherActivity : DatabaseModeActivity() {
         ): PendingIntent? {
             try {
                 // Doesn't work with direct extra Parcelable in Android 11 (don't know why?)
-                // https://github.com/Kunzisoft/KeePassDX/issues/2238
+                // https://github.com/efebaykaraa/KeePassDS/issues/2238
                 // Wrap into a bundle to bypass the problem
                 val tempBundle = Bundle().apply {
                     addSpecialMode(SpecialMode.SELECTION)

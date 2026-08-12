@@ -256,7 +256,7 @@
     <string name="version_label">Version %1$s</string>
     <string name="menu_appearance_settings">Dukje</string>
     <string name="device_credential">Kredenciale pajisjeje</string>
-    <string name="autofill_sign_in_prompt">Hyni me KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Hyni me KeePassDS</string>
     <string name="autofill_select_entry">Përzgjidhni zë…</string>
     <string name="password_size_title">Madhësi fjalëkalimi të prodhuar</string>
     <string name="database_opened">Baza e të dhënave u hap</string>
@@ -288,7 +288,7 @@
     <string name="keyboard">Tastierë</string>
     <string name="magic_keyboard_title">Magikeyboard</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Rregullime për Magikeyboard</string>
     <string name="keyboard_entry_category">Zë</string>
     <string name="keyboard_selection_entry_title">Përzgjedhje zërash</string>
@@ -416,7 +416,7 @@
     <string name="menu_form_filling_settings_summary">Tastierë, vetëplotësim, e papastër</string>
     <string name="menu_device_unlock_settings_summary">Biometri, kredenciale pajisjeje</string>
     <string name="contains_duplicate_uuid_procedure">Të zgjidhet problemi duke prodhuar UUID-ra të reja për zëra të përsëdytur, që të vazhdohet?</string>
-    <string name="description_app_properties">Veti KeePassDX për administrim të rregullimeve të aplikacionit</string>
+    <string name="description_app_properties">Veti KeePassDS për administrim të rregullimeve të aplikacionit</string>
     <string name="warning_permanently_delete_nodes">Të fshihen përgjithmonë nyjat e përzgjedhura?</string>
     <string name="device_credential_unlock_enable_title">Shkyçje kredencialesh pajisjeje</string>
     <string name="device_credential_unlock_enable_summary">Ju lejon të përdorni kredencialet për te pajisja juaj për të hapur bazën e të dhënave</string>
@@ -463,10 +463,10 @@
     <string name="waiting_challenge_request">Po pritet për kërkesë sfide…</string>
     <string name="waiting_challenge_response">Po pritet për përgjigje sfide…</string>
     <string name="html_about_privacy">&lt;strong&gt;S’merren hollësi përdoruesi&lt;/strong&gt;, ky aplikacion s’lidhet me ndonjë shërbyes, funksionon vetëm lokalisht dhe respekton plotësisht privatësinë e përdoruesve.</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft është &lt;strong&gt;me burim të hapët&lt;/strong&gt; dhe &lt;strong&gt;pa reklama&lt;/strong&gt;. \nJepet siç është, nën licencën &lt;strong&gt;GPLv3&lt;/strong&gt;, pa ndonjë garanci.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft është &lt;strong&gt;me burim të hapët&lt;/strong&gt; dhe &lt;strong&gt;pa reklama&lt;/strong&gt;. \nJepet siç është, nën licencën &lt;strong&gt;GPLv3&lt;/strong&gt;, pa ndonjë garanci.</string>
     <string name="hardware_key">Kyç hardware</string>
     <string name="place_of_issue">Vend i problemit</string>
-    <string name="error_can_not_handle_uri">S’u trajtua dot kjo URI në KeePassDX.</string>
+    <string name="error_can_not_handle_uri">S’u trajtua dot kjo URI në KeePassDS.</string>
     <string name="error_invalid_path">Sigurohuni se shtegu është i saktë.</string>
     <string name="error_word_reserved">Kjo fjalë është e rezervuar dhe s’mund të përdoret.</string>
     <string name="error_load_database_KDF_memory">S’u ngarkua dot kyçi. Provoni të ulni “Përdorim Kujtese” KDF.</string>
@@ -487,7 +487,7 @@
     <string name="menu_merge_database">Përzieni të dhëna</string>
     <string name="menu_keystore_remove_key">Fshi kyç shkyçjeje pajisjeje</string>
     <string name="subdomain_search_title">Kërkim nënpërkatësie</string>
-    <string name="read_only_warning">Në varësi të përgjegjësit tuaj të kartelave, KeePassDX-i mund të mos lejojë të shkruhet në depozitën tuaj.</string>
+    <string name="read_only_warning">Në varësi të përgjegjësit tuaj të kartelave, KeePassDS-i mund të mos lejojë të shkruhet në depozitën tuaj.</string>
     <string name="remember_database_locations_summary">Ndjek se ku depozitohen bazat e të dhënave</string>
     <string name="error_export_app_properties">Gabim gjatë eksportimit të rregullimeve të aplikacionit.</string>
     <string name="memory_usage_explanation">Sasi kujtese për t’u përdorur nga funksioni i përftimit të kyçeve.</string>
@@ -587,7 +587,7 @@
     <string name="autofill_close_database_summary">Mbylle bazën e të dhënave, pas një përzgjedhjeje vetëplotësimi</string>
     <string name="education_entry_new_field_summary">Regjistroni një fushë shtesë, shtoni një vlerë dhe, në daçi, mbrojeni.</string>
     <string name="education_sort_summary">Zgjidhni si renditen zërat dhe grupet.</string>
-    <string name="keyboard_selection_entry_summary">Kur shihet një zë në KeePassDX, populloje Magikeyboard-in me atë zë</string>
+    <string name="keyboard_selection_entry_summary">Kur shihet një zë në KeePassDS, populloje Magikeyboard-in me atë zë</string>
     <string name="html_text_dev_feature_upgrade">Mos harroni ta mbani aplikacionin tuaj të përditësuar, duke instaluar versione të rinj.</string>
     <string name="device_unlock_invalid_key">S’mund të lexohet kyç shkyçjeje pajisjeje. Ju lutemi, fshijeni dhe përsëritni procedurën e njohjes së shkyçjeve.</string>
     <string name="temp_device_unlock_timeout_summary">Kohëzgjatje përdorimi shkyçjeve pajisjeje, para se të fshihet lënda e saj</string>
@@ -677,8 +677,8 @@
     <string name="style_name_divine">Hyjnor</string>
     <string name="style_name_kunzite">Kuncit</string>
     <string name="passkey">Kyçkalim</string>
-    <string name="credential_provider_service_name">Furnizues Kredencialesh KeePassDX</string>
-    <string name="credential_provider_database_username">Bazë të dhënash KeePassDX</string>
+    <string name="credential_provider_service_name">Furnizues Kredencialesh KeePassDS</string>
+    <string name="credential_provider_database_username">Bazë të dhënash KeePassDS</string>
     <string name="credential_provider_locked_database_description">Përzgjidhni për shkyçje</string>
     <string name="passkey_creation_description">Ruaje kyçkalimin në një zë të ri</string>
     <string name="passkey_update_description">Përditëso kyçkalimin te %1$s</string>

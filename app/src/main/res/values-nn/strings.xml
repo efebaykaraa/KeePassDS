@@ -19,7 +19,7 @@
 --><resources>
     <string name="feedback">Tilbakemelding</string>
     <string name="homepage">Heimeside</string>
-    <string name="about_description">KeePassDX er ei Android-utgåve av KeePass-passordbehandlaren.</string>
+    <string name="about_description">KeePassDS er ei Android-utgåve av KeePass-passordbehandlaren.</string>
     <string name="accept">Godta</string>
     <string name="add_entry">Legg til oppføring</string>
     <string name="add_group">Legg til gruppe</string>
@@ -38,7 +38,7 @@
     <string name="decrypting_db">Dekrypterer databasen …</string>
     <string name="default_checkbox">Bruk som forvalt database</string>
     <string name="digits">Tal</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft kjem med ingen som helst garanti. Dette er eit fritt program. Du er velkomen til å redistribuera det i samsvar med vilkåra til GPL utgåve 3 eller nyare.</string>
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft kjem med ingen som helst garanti. Dette er eit fritt program. Du er velkomen til å redistribuera det i samsvar med vilkåra til GPL utgåve 3 eller nyare.</string>
     <string name="select_database_file">Skriv filnamnet til databasen</string>
     <string name="entry_accessed">Brukt</string>
     <string name="entry_cancel">Avbryt</string>
@@ -54,7 +54,7 @@
     <string name="entry_url">Nettadresse</string>
     <string name="entry_user_name">Brukarnamn</string>
     <string name="error_arc4">Kan ikkje bruka Arcfour dataflytkryptering.</string>
-    <string name="error_can_not_handle_uri">KeePassDX kan ikkje bruka denne ressursen.</string>
+    <string name="error_can_not_handle_uri">KeePassDS kan ikkje bruka denne ressursen.</string>
     <string name="error_file_not_create">Klarte ikkje å laga fila.</string>
     <string name="error_invalid_db">Ugyldig database.</string>
     <string name="error_invalid_path">Pass på at stien er riktig.</string>
@@ -282,7 +282,7 @@
     <string name="warning_database_info_reloaded">Ved å laste inn databasen på nytt, vil det slette data som har blitt endra lokalt.</string>
     <string name="biometric">Biometrisk</string>
     <string name="menu_appearance_settings">Utsjånad</string>
-    <string name="autofill_sign_in_prompt">Logg inn med KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Logg inn med KeePassDS</string>
     <string name="content_description_hardware_key_checkbox">Avmerkingsboks for maskinvarenøkkel</string>
     <string name="bank_identifier_code">SWIFT/BIC</string>
     <string name="international_bank_account_number">IBAN</string>

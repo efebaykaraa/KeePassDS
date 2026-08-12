@@ -1,4 +1,4 @@
-O KeePassDX é um gerenciador de senhas e cofre de senhas de código aberto <b></b> que permite editar <b>dados criptografados em um único arquivo</b> no formato aberto do KeePass e <b>preencher formulários de forma segura</b>, não requer <b>conexão com a Internet</b> e integra os padrões de design do Android. O aplicativo é <b>de código aberto, sem publicidade</b>.
+O KeePassDS é um gerenciador de senhas e cofre de senhas de código aberto <b></b> que permite editar <b>dados criptografados em um único arquivo</b> no formato aberto do KeePass e <b>preencher formulários de forma segura</b>, não requer <b>conexão com a Internet</b> e integra os padrões de design do Android. O aplicativo é <b>de código aberto, sem publicidade</b>.
 
 <b>Recursos</b>
 
@@ -20,6 +20,6 @@ O KeePassDX é um gerenciador de senhas e cofre de senhas de código aberto <b><
 
 Você pode fazer uma doação ou comprar a versão pro para obter um serviço melhor e um rápido desenvolvimento dos recursos que deseja: <a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro">https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro</a>
 
-O projeto está em constante evolução. Não hesite em conferir o andamento das próximas atualizações: <a href="https://github.com/Kunzisoft/KeePassDX/projects">https://github.com/Kunzisoft/KeePassDX/projects</a>
+O projeto está em constante evolução. Não hesite em conferir o andamento das próximas atualizações: <a href="https://github.com/efebaykaraa/KeePassDS/projects">https://github.com/efebaykaraa/KeePassDS/projects</a>
 
-Envie relatórios de problemas para: <a href="https://github.com/Kunzisoft/KeePassDX/issues">https://github.com/Kunzisoft/KeePassDX/issues</a>
+Envie relatórios de problemas para: <a href="https://github.com/efebaykaraa/KeePassDS/issues">https://github.com/efebaykaraa/KeePassDS/issues</a>

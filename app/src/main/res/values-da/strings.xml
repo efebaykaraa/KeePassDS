@@ -57,7 +57,7 @@
     <string name="entry_url">URL</string>
     <string name="entry_user_name">Brugernavn</string>
     <string name="error_arc4">Arcfour stream cipher er ikke understøttet.</string>
-    <string name="error_can_not_handle_uri">Kunne ikke håndtere denne URI i KeePassDX.</string>
+    <string name="error_can_not_handle_uri">Kunne ikke håndtere denne URI i KeePassDS.</string>
     <string name="error_file_not_create">Kunne ikke oprette fil.</string>
     <string name="error_invalid_db">Kunne ikke læse databasen.</string>
     <string name="error_invalid_path">Sørg for, at stien er korrekt.</string>
@@ -108,7 +108,7 @@
     <string name="progress_create">Opretter ny database…</string>
     <string name="progress_title">Arbejder…</string>
     <string name="protection">Beskyttelse</string>
-    <string name="read_only_warning">Afhængigt af din filhåndtering er det muligt, at KeePassDX ikke har tilladelse til at skrive i dit lager.</string>
+    <string name="read_only_warning">Afhængigt af din filhåndtering er det muligt, at KeePassDS ikke har tilladelse til at skrive i dit lager.</string>
     <string name="content_description_remove_from_list">Fjern</string>
     <string name="root">Rod</string>
     <string name="rounds">Transformationsrunder</string>
@@ -175,7 +175,7 @@
     <string name="menu_appearance_settings">Udseende</string>
     <string name="general">Generelt</string>
     <string name="autofill">Autoudfyld</string>
-    <string name="autofill_sign_in_prompt">Log ind med KeePassDX</string>
+    <string name="autofill_sign_in_prompt">Log ind med KeePassDS</string>
     <string name="set_credential_provider_service_title">Indstil standard autoudfyldningstjeneste</string>
     <string name="autofill_explanation_summary">Aktiver autofyldning for hurtigt at udfylde formularer i andre apps</string>
     <string name="password_size_title">Genereret adgangskodelængde</string>
@@ -272,7 +272,7 @@
     <string name="icon_pack_choose_title">Ikonpakke</string>
     <string name="icon_pack_choose_summary">Ikonpakke, der anvendes i appen</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_setting_label">Magikeyboard indstillinger</string>
     <string name="keyboard_entry_category">Post</string>
     <string name="keyboard_entry_timeout_title">Udløbstid</string>
@@ -296,7 +296,7 @@
     <string name="lock_database_back_root_summary">Lås databasen, når der klikkes på tilbage-knappen fra startskærmen</string>
     <string name="recycle_bin">Papirkurven</string>
     <string name="keyboard_selection_entry_title">Valg af indtastning</string>
-    <string name="keyboard_selection_entry_summary">Når du ser en post i KeePassDX, skal Magikeyboard udfyldes med den pågældende post</string>
+    <string name="keyboard_selection_entry_summary">Når du ser en post i KeePassDS, skal Magikeyboard udfyldes med den pågældende post</string>
     <string name="delete_entered_password_title">Slet adgangskode</string>
     <string name="delete_entered_password_summary">Sletter den adgangskode, der er indtastet efter et forsøg på at oprette forbindelse til en database</string>
     <string name="content_description_open_file">Åbn fil</string>
@@ -397,7 +397,7 @@
     <string name="contact">Kontakt</string>
     <string name="contribution">Bidrag</string>
     <string name="feedback">Tilbagemelding</string>
-    <string name="html_about_licence">KeePassDX © %1$d Kunzisoft er &lt;strong&gt;open source&lt;/strong&gt; og &lt;strong&gt;uden reklamer&lt;/strong&gt;.
+    <string name="html_about_licence">KeePassDS © %1$d Kunzisoft er &lt;strong&gt;open source&lt;/strong&gt; og &lt;strong&gt;uden reklamer&lt;/strong&gt;.
 \nDen leveres som den er, under &lt;strong&gt;GPLv3&lt;/strong&gt; licens, uden nogen form for garanti.</string>
     <string name="html_about_contribution">For at &lt;strong&gt;vi kan bevare vores frihed&lt;/strong&gt;, &lt;strong&gt;rette fejl&lt;/strong&gt;, &lt;strong&gt;tilføje funktioner&lt;/strong&gt; og &lt;strong&gt;altid være aktive&lt;/strong&gt;, er vi afhængige af &lt;strong&gt;bidrag&lt;/strong&gt;.</string>
     <string name="auto_focus_search_title">Hurtig søgning</string>
@@ -533,7 +533,7 @@
     <string name="success_export_app_properties">App-indstillinger eksporteret</string>
     <string name="error_import_app_properties">Fejl under importering af app-indstillinger.</string>
     <string name="success_import_app_properties">App-indstillinger importeret</string>
-    <string name="description_app_properties">KeePassDX-egenskaber til at administrere app-indstillinger</string>
+    <string name="description_app_properties">KeePassDS-egenskaber til at administrere app-indstillinger</string>
     <string name="export_app_properties_summary">Opret en fil for at eksportere app-indstillinger</string>
     <string name="export_app_properties_title">Eksporter app-indstillinger</string>
     <string name="import_app_properties_summary">Vælg en fil for at importere app-indstillinger</string>

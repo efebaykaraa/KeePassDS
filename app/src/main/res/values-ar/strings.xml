@@ -117,12 +117,12 @@
     <string name="select_to_copy">اختر لنسخ %1$s إلى الحافظة</string>
     <string name="retrieving_db_key">يجلب مفتاح قاعدة البيانات…</string>
     <string name="default_checkbox">استخدامها كقاعدة بيانات افتراضية</string>
-    <string name="html_about_licence">KeePassDX © %1$d كونزيسوفت &lt;strong&gt;مفتوح المصدر&lt;/strong&gt; و &lt;strong&gt;بدون إعلانات&lt;/strong&gt;. \n يوزع كما هو، دون ضمان، تحت ترخيص &lt;strong&gt;GPLv3&lt;/strong&gt;.</string>
+    <string name="html_about_licence">KeePassDS © %1$d كونزيسوفت &lt;strong&gt;مفتوح المصدر&lt;/strong&gt; و &lt;strong&gt;بدون إعلانات&lt;/strong&gt;. \n يوزع كما هو، دون ضمان، تحت ترخيص &lt;strong&gt;GPLv3&lt;/strong&gt;.</string>
     <string name="entry_accessed">وُصِل إليه</string>
     <string name="entry_expires">تنتهي صلاحيته في</string>
     <string name="entry_keyfile">ملف المفتاح</string>
     <string name="error_arc4">تشفير دفق Arcfour غير مدعوم.</string>
-    <string name="error_can_not_handle_uri">تعذرت معاملة هذا الرابط في KeePassDX.</string>
+    <string name="error_can_not_handle_uri">تعذرت معاملة هذا الرابط في KeePassDS.</string>
     <string name="error_invalid_db">تعذرت قراءة قاعدة البيانات.</string>
     <string name="error_nokeyfile">اختر ملف مفتاح.</string>
     <string name="error_out_of_memory">لا ذاكرة لتحميل قاعدة البيانات كاملة.</string>
@@ -154,7 +154,7 @@
     <string name="select_database_file">افتح خزنة موجودة</string>
     <string name="create_keepass_file">أنشئ خزنة جديدة</string>
     <string name="progress_title">قيد العمل…</string>
-    <string name="read_only_warning">KeePassDX يحتاج صلاحية الكتابة من اجل تعديل قاعدة البيانات.</string>
+    <string name="read_only_warning">KeePassDS يحتاج صلاحية الكتابة من اجل تعديل قاعدة البيانات.</string>
     <string name="encryption_explanation">خوارزمية تعمية قاعدة البيانات المستخدمة لجميع البيانات</string>
     <string name="unsupported_db_version">قاعدة بيانات غير مدعومة.</string>
     <string name="build_label">بناء %1$s</string>
@@ -163,7 +163,7 @@
     <string name="menu_appearance_settings">المظهر</string>
     <string name="general">عام</string>
     <string name="autofill">الملء التلقائي</string>
-    <string name="autofill_sign_in_prompt">سجل باستخدام KeePassDX</string>
+    <string name="autofill_sign_in_prompt">سجل باستخدام KeePassDS</string>
     <string name="set_credential_provider_service_title">تعيين خدمة الملأ التلقائي الافتراضية</string>
     <string name="password_size_title">حجم كلمة السر المولدة</string>
     <string name="password_size_summary">تعيين الحجم الافتراضي لكلمات السر المولدة</string>
@@ -222,7 +222,7 @@
     <string name="recycle_bin_title">استخدام سلة المحذوفات</string>
     <string name="magic_keyboard_title">Magikeyboard</string>
     <string name="keyboard_name">Magikeyboard</string>
-    <string name="keyboard_label">Magikeyboard (KeePassDX)</string>
+    <string name="keyboard_label">Magikeyboard (KeePassDS)</string>
     <string name="keyboard_notification_entry_content_title">%1$s متوفر على Magikeyboard</string>
     <string name="reset_education_screens_title">صفّر التلميحات التعليمية</string>
     <string name="education_search_title">ابحث من خلال المدخلات</string>
@@ -459,7 +459,7 @@
     <string name="education_device_unlock_title">فتح قاعدة بيانات الجهاز</string>
     <string name="hint_icon_name">اسم الأيقونة</string>
     <string name="autofill_manual_selection_title">اختيار يدوي</string>
-    <string name="description_app_properties">خصائص KeePassDX لإدارة إعدادات التطبيقات</string>
+    <string name="description_app_properties">خصائص KeePassDS لإدارة إعدادات التطبيقات</string>
     <string name="warning_empty_recycle_bin">حذف جميع العقد نهائيًا من سلة المهملات؟</string>
     <string name="autofill_save_search_info_title">احفظ معلومات البحث</string>
     <string name="autofill_ask_to_save_data_title">اسأل لحفظ البيانات</string>
@@ -639,7 +639,7 @@
     <string name="menu_app_settings_summary">البحث، القفل، التاريخ، الخصائص</string>
     <string name="menu_form_filling_settings_summary">لوحة المفاتيح، الملء التلقائي، الحافظة</string>
     <string name="device_unlock_keystore_warning">ستقوم هذه الميزة بتخزين بيانات الاعتماد المُعمّاة في KeyStore الآمن بجهازك. \n \nاعتمادًا على تطبيق API الأصلي لنظام التشغيل، قد لا يعمل بكامل طاقته. \n \nتحقق من توافق وأمن KeyStore مع الشركة المصنعة لجهازك ومنشئ ROM الذي تستخدمه.</string>
-    <string name="keyboard_selection_entry_summary">عند عرض مدخل في KeePassDX، عبئ Magikeyboard بهذا المدخل</string>
+    <string name="keyboard_selection_entry_summary">عند عرض مدخل في KeePassDS، عبئ Magikeyboard بهذا المدخل</string>
     <string name="enable_screenshot_mode_summary">اسمح لتطبيقات الطرف الثالث بتسجيل أو التقاط لقطات شاشة للتطبيق</string>
     <string name="keyboard_save_search_info_summary">حاول حفظ المعلومات المشتركة عند إجراء اختيار مدخل يدوي لاستخدامات مستقبلية أسهل</string>
     <string name="education_entry_edit_summary">عدِّل إدخالك مع الحقول المخصّصة. يمكن الرجوع إلى بيانات التجمع بين حقول مدخل المختلفة.</string>
@@ -703,12 +703,12 @@
     <string name="passkeys_backup_state_summary">أشر إلى أن بيانات الاعتماد مدعومة ومحمية ضد فقدان جهاز واحد</string>
     <string name="credential_provider_service_subtitle">مفاتيح المرور، موفّر بيانات اعتماد الملء التلقائي</string>
     <string name="passkey">مفتاح المرور</string>
-    <string name="credential_provider_service_name">موفّر بيانات اعتماد KeePassDX</string>
+    <string name="credential_provider_service_name">موفّر بيانات اعتماد KeePassDS</string>
     <string name="passkey_creation_description">احفظ مفتاح المرور في مدخل جديد</string>
     <string name="passkey_update_description">حدِّث مفتاح المرور في %1$s</string>
     <string name="passkey_selection_username">لم يُعثر على مفتاح مرور</string>
     <string name="passkey_selection_description">حدّد مفتاح مرور موجود</string>
-    <string name="credential_provider_database_username">قاعدة بيانات KeePassDX</string>
+    <string name="credential_provider_database_username">قاعدة بيانات KeePassDS</string>
     <string name="credential_provider_locked_database_description">حدّد لفتح القفل</string>
     <string name="passkey_username">اسم مستخدم مفتاح المرور</string>
     <string name="passkey_private_key">المفتاح الخاص لمفتاح المرور</string>
@@ -749,5 +749,5 @@
     <string name="show_tags_summary">يعرض الوسوم في قائمة المدخلات</string>
     <string name="benchmark_calculation">الحساب لمدّة %1$s ث</string>
     <string name="benchmarking">يختبر الأداء…</string>
-    <string name="keyboard_share_browser">شارك من %1$s إلى KeePassDX</string>
+    <string name="keyboard_share_browser">شارك من %1$s إلى KeePassDS</string>
 </resources>
