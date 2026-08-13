@@ -13,7 +13,11 @@ KeePassDS reads and writes standard KeePass KDBX databases. Passwords stay prote
 - Merges peer changes using KeePass database history and deletion rules.
 - Verifies the previous hash immediately before replacement and restores the old file after an incomplete local transaction.
 
-Open and unlock the same database on both devices. In KeePassDS open the database menu and select `LAN synchronization`. Choose the device and confirm the current password database. Accept on the other device, then enter its six-digit code.
+To copy a database to a new phone, open and unlock it in KeePassXCS. On the KeePassDS start screen, tap `LAN devices / Retrieve from KeePassXCS`, choose the computer, then choose the open database. Accept the request in KeePassXCS, enter the displayed six-digit code on the phone, and choose where Android should save the downloaded `.kdbx` file. Open it with its normal master password. The pairing is stored after the first unlock; later saves synchronize without another prompt.
+
+You can also initiate the transfer from the computer. Leave KeePassDS on its start screen, then in KeePassXCS choose `Database → Remote Sync → Pair or Send Database to LAN Device`. Select the phone and database. Accept the incoming database on the phone, enter the phone's six-digit code on the computer, then choose the Android save location. Both device selectors offer `Search again`, similar to rescanning for Bluetooth devices.
+
+For a database that is already present on both devices, open it in KeePassDS and use `LAN synchronization` from the database menu to pair it directly.
 
 KeePassDS listens for sync requests while its database screen is open and unlocked. Guest Wi-Fi or client-isolation settings can prevent discovery.
 

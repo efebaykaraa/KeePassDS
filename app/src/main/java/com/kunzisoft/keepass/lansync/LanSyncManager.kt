@@ -111,6 +111,21 @@ class LanSyncManager(
         scope.cancel()
     }
 
+    /** Installs the phone-side link after a LAN-retrieved database is unlocked. */
+    fun installBootstrapLink(database: ContextualDatabase): Boolean {
+        val uri = database.fileUri ?: return false
+        val customData = database.customData ?: return false
+        val link = LanSyncBootstrapStore.take(uri.toString()) ?: return false
+        customData.put(
+            CustomDataItem(
+                LanSyncProtocol.SETTINGS_KEY,
+                LanSyncProtocol.linksToJson(listOf(link)),
+            )
+        )
+        database.dataModifiedSinceLastLoading = true
+        return true
+    }
+
     fun showSetup() {
         if (databaseProvider()?.loaded != true) return
         scope.launch {

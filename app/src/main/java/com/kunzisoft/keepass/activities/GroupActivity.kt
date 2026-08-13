@@ -681,7 +681,11 @@ class GroupActivity : DatabaseLockActivity(),
 
     override fun onDatabaseRetrieved(database: ContextualDatabase) {
         super.onDatabaseRetrieved(database)
+        val bootstrapLinkInstalled = mLanSyncManager?.installBootstrapLink(database) == true
         mLanSyncManager?.start()
+        if (bootstrapLinkInstalled) {
+            window.decorView.post { saveDatabase() }
+        }
 
         mBreadcrumbAdapter = BreadcrumbAdapter(this, database).apply {
             // Open group on breadcrumb click

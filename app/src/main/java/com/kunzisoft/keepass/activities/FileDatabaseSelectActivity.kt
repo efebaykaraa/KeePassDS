@@ -53,6 +53,8 @@ import com.kunzisoft.keepass.database.ContextualDatabase
 import com.kunzisoft.keepass.database.MainCredential
 import com.kunzisoft.keepass.education.FileDatabaseSelectActivityEducation
 import com.kunzisoft.keepass.hardware.HardwareKey
+import com.kunzisoft.keepass.lansync.LanSyncBootstrapManager
+import com.kunzisoft.keepass.lansync.LanSyncBootstrapStore
 import com.kunzisoft.keepass.model.RegisterInfo
 import com.kunzisoft.keepass.model.SearchInfo
 import com.kunzisoft.keepass.services.DatabaseTaskNotificationService.Companion.ACTION_DATABASE_CREATE_TASK
@@ -77,6 +79,7 @@ class FileDatabaseSelectActivity : DatabaseModeActivity(),
     private lateinit var coordinatorLayout: CoordinatorLayout
     private var specialTitle: View? = null
     private var createDatabaseButtonView: View? = null
+    private var retrieveDatabaseButtonView: View? = null
     private var openDatabaseButtonView: View? = null
 
     private val databaseFilesViewModel: DatabaseFilesViewModel by viewModels()
@@ -91,6 +94,7 @@ class FileDatabaseSelectActivity : DatabaseModeActivity(),
     private var mDatabaseFileUri: Uri? = null
 
     private var mExternalFileHelper: ExternalFileHelper? = null
+    private var mLanSyncBootstrapManager: LanSyncBootstrapManager? = null
 
     override fun manageDatabaseInfo(): Boolean  = false
 
@@ -119,6 +123,14 @@ class FileDatabaseSelectActivity : DatabaseModeActivity(),
         createDatabaseButtonView = findViewById(R.id.create_database_button)
         createDatabaseButtonView?.setOnClickListener { createNewFile() }
 
+        // Retrieve a database from an already-open KeePassXCS instance.
+        mLanSyncBootstrapManager = LanSyncBootstrapManager(this) { download ->
+            LanSyncBootstrapStore.hold(download)
+            mExternalFileHelper?.createDocument(download.fileName)
+        }
+        retrieveDatabaseButtonView = findViewById(R.id.retrieve_database_button)
+        retrieveDatabaseButtonView?.setOnClickListener { mLanSyncBootstrapManager?.retrieve() }
+
         // Open database button
         mExternalFileHelper = ExternalFileHelper(this)
         mExternalFileHelper?.buildOpenDocument { uri ->
@@ -127,6 +139,23 @@ class FileDatabaseSelectActivity : DatabaseModeActivity(),
             }
         }
         mExternalFileHelper?.buildCreateDocument("application/x-keepass") { databaseFileCreatedUri ->
+            val download = LanSyncBootstrapStore.takeDownload()
+            if (download != null) {
+                if (databaseFileCreatedUri == null) return@buildCreateDocument
+                try {
+                    contentResolver.openOutputStream(databaseFileCreatedUri)?.use {
+                        it.write(download.data)
+                        it.flush()
+                    } ?: throw IllegalStateException("Unable to open the selected destination")
+                    LanSyncBootstrapStore.remember(databaseFileCreatedUri.toString(), download.link)
+                    launchMainCredentialActivityWithPath(databaseFileCreatedUri)
+                } catch (e: Exception) {
+                    val error = e.message ?: getString(R.string.error_create_database_file)
+                    Snackbar.make(coordinatorLayout, error, Snackbar.LENGTH_LONG).asError().show()
+                    Log.e(TAG, "Unable to store database retrieved from LAN", e)
+                }
+                return@buildCreateDocument
+            }
             mDatabaseFileUri = databaseFileCreatedUri
             if (mDatabaseFileUri != null) {
                 SetMainCredentialDialogFragment.getInstance(true)
@@ -348,10 +377,12 @@ class FileDatabaseSelectActivity : DatabaseModeActivity(),
         when (mSpecialMode) {
             SpecialMode.DEFAULT -> {
                 createDatabaseButtonView?.visibility = View.VISIBLE
+                retrieveDatabaseButtonView?.visibility = View.VISIBLE
             }
             else -> {
                 // Disable create button if in selection mode or request for autofill
                 createDatabaseButtonView?.visibility = View.GONE
+                retrieveDatabaseButtonView?.visibility = View.GONE
             }
         }
 
@@ -363,10 +394,28 @@ class FileDatabaseSelectActivity : DatabaseModeActivity(),
         }
     }
 
+    override fun onStart() {
+        super.onStart()
+        if (mSpecialMode == SpecialMode.DEFAULT) {
+            mLanSyncBootstrapManager?.startReceiving()
+        }
+    }
+
+    override fun onStop() {
+        mLanSyncBootstrapManager?.stopReceiving()
+        super.onStop()
+    }
+
     override fun onSaveInstanceState(outState: Bundle) {
         super.onSaveInstanceState(outState)
         // to retrieve the URI of a created database after an orientation change
         outState.putParcelable(EXTRA_DATABASE_URI, mDatabaseFileUri)
+    }
+
+    override fun onDestroy() {
+        mLanSyncBootstrapManager?.destroy()
+        mLanSyncBootstrapManager = null
+        super.onDestroy()
     }
 
     override fun onAssignKeyDialogPositiveClick(mainCredential: MainCredential) {
